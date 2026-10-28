@@ -1,0 +1,2640 @@
+adapter_only,base_model,bn_specific,card_chars,code_link_auto,code_link_evidence,commit_sha,corpus_auto,corpus_evidence,created,decontamination_auto,decontamination_evidence,downloads_30d,eval_splits_auto,eval_splits_evidence,gated,has_card,human_verified,include_final,include_stage3,include_stage4,include_stage5,languages,license_auto,license_evidence,likes,paper_link_auto,paper_link_evidence,pipeline,quant_or_repack,repo,tokenizer_shipped,weights_public
+False,,True,4164,0,,aa878820ebf03dbe4f2f9467c4f5d3a5712b1623,1,"The model was trained on a 32 GB corpus of text data, which underwent extensive preprocessing to ensure quality and consistency. || This model is a GPT-2-based language model trained on a large corpus of Bangla text in a self-supervised manner.",2024-11-05,0,,144,1,"|
+| **Evaluation Loss**| 0.3251  | Loss after evaluating on the evaluation dataset.",False,1,,True,True,True,True,bn,0,,2,0,,text-generation,False,banglagov/banGPT2-Base,1,1
+False,google/gemma-3-1b-it,True,15346,1,"year   = {2023}, url = {https://github.com/unslothai/unsloth}
+}
+```",55865e5d920249beb1bf01cfa4a9a259810b5648,1,"- instruction-tuned
+datasets: || dataset:",2026-10-16,0,,1060,1,"name: Perplexity on held-out Bangla-Instruct responses || **Perplexity on held-out Bangla falls from 26.10 to 14.51, a 44% reduction.** That is the headline because it is the only measure here without a chance floor.",False,1,,True,True,True,True,bn;en,1,"- en
+license: gemma
+library_name: transformers
+pipeline_tag: text-generation
+base_model: google/gemma-3-1b-it
+base_model_relation: finetune
+tags:",6,1,"**These numbers were not measured here and share no dataset with anything above.** They
+come from Table 2 of the [TigerLLM paper](https://aclanthology.org/2025.acl-short.69/) as
+reproduced on the [`TigerLLM-1B-it`](https://huggingface.co/md-nishat-008/TigerLLM-1B-it)
+card, which evaluates on MMLU-bn",text-generation,False,emonHasan01/BanglaGPT-Pro,1,1
+False,,True,2530,1,"Here we described [bangla-bert](https://github.com/Kowsher/bert-base-bangla) which is a pretrained Bangla language model based on mask language modeling described in [BERT](https://arxiv.org/abs/1810.04805) and the GitHub  [repository](https://github.com/google-research/bert)
+##  Corpus Details
+We t",cfd8ee8f86895cbb0fbcb04053378da919ccd5b1,1,"---
+language: bn
+tags:
+- Bert base Bangla
+- Bengali Bert
+- Bengali lm
+- Bangla Base Bert
+- Bangla Bert language model
+- Bangla Bert
+datasets:
+- BanglaLM dataset
+---
+# Bangla BERT Base
+Here we published a pretrained Bangla bert language model as **bangla-bert**! || Here we described [bangla-bert](https://github.com/Kowsher/bert-base-bangla) which is a pretrained Bangla language model based on mask language modeling described in [BERT](https://arxiv.org/abs/1810.04805) and the GitHub  [repository](https://github.com/google-research/bert)
+##  Corpus Details
+We t",2022-03-02,0,,129,0,,False,1,,True,True,True,True,bn,0,,4,1,"Here we described [bangla-bert](https://github.com/Kowsher/bert-base-bangla) which is a pretrained Bangla language model based on mask language modeling described in [BERT](https://arxiv.org/abs/1810.04805) and the GitHub  [repository](https://github.com/google-research/bert)
+##  Corpus Details
+We t",fill-mask,False,Kowsher/bangla-bert,1,1
+False,,True,2370,0,,18336d76c4ab3c2972532fd9d4730708bbdd81eb,1,"language: bn
+license: mit
+datasets:
+- mc4 || OpenAI GPT-2 model was proposed in [Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask) paper .Original GPT2 model was a causal (unidirectional) transformer pretrained using language modeling on a very large corpus of ~40 ",2022-03-02,0,,851,0,,False,1,,True,True,True,True,bn,1,"language: bn
+license: mit
+datasets:
+- mc4",6,0,,text-generation,False,flax-community/gpt2-bengali,1,1
+False,,True,382,0,,ecd06078bc3b0d0970af08591944674b4e724240,0,,2022-03-02,0,,142,0,,False,1,,True,True,True,True,bn,0,,2,0,,text-generation,False,ritog/bangla-gpt2,1,1
+False,,True,462,0,,dad41b5a2ebb651053fb9d756d1304b04ba128cd,1,"This model is fine-tuned on 1,400+ poems written by Rabindranath Tagore. || This model leverages the [Bangla GPT-2](https://huggingface.co/ghosh-r/bangla-gpt2) pretrained model, trained on mc4-Bengali dataset.",2022-03-02,0,,21,0,,False,1,,True,True,True,True,bn,0,,2,0,,text-generation,False,ritog/robi-kobi,1,1
+False,,True,3080,0,,69a77070080878dd19c26ae3b33048d237e10da9,1,"<!-- 
+---
+tags:
+- generated_from_trainer
+datasets:
+- null
+model_index:
+- name: bengali-lyricist-gpt2",2022-03-02,0,,113,1,"It achieves the following results on the evaluation set:
+- Loss: 2.1199 || ## Training and evaluation data",False,1,,True,True,True,True,bn,0,,0,0,,text-generation,False,khalidsaifullaah/bengali-lyricist-gpt2,1,1
+False,,True,7160,0,,e9159abbb5f8b352cc5ec59bababc66ba5382bb4,1,datasets: || sahajBERT is a model composed of 1) a tokenizer specially designed for Bengali and 2) an [ALBERT](https://arxiv.org/abs/1909.11942) architecture collaboratively pre-trained on a dump of Wikipedia in Bengali and the Bengali part of OSCAR.,2022-03-02,0,,535,0,,False,1,,True,True,True,True,bn,1,license: apache-2.0,12,1,sahajBERT is a model composed of 1) a tokenizer specially designed for Bengali and 2) an [ALBERT](https://arxiv.org/abs/1909.11942) architecture collaboratively pre-trained on a dump of Wikipedia in Bengali and the Bengali part of OSCAR.,fill-mask,False,neuropark/sahajBERT,1,1
+False,,True,6003,1,"[Bangla-Bert-Base](https://github.com/sagorbrur/bangla-bert) is a pretrained language model of Bengali language using mask language modeling described in [BERT](https://arxiv.org/abs/1810.04805) and it's github [repository](https://github.com/google-research/bert) || ## Building Vocab
+We used [BNLP](https://github.com/sagorbrur/bnlp) package for training bengali sentencepiece model with vocab size 102025.",875aa80a42ec196c16bd931ae5d85ad949f58b16,1,"---
+language: bn
+tags:
+- bert
+- bengali
+- bengali-lm
+- bangla
+license: mit
+datasets:
+- common_crawl
+- wikipedia
+- oscar
+--- || ## Pretrain Corpus Details
+Corpus was downloaded from two main sources:",2022-03-02,0,,42214,0,,False,1,,True,True,True,True,bn,1,"---
+language: bn
+tags:
+- bert
+- bengali
+- bengali-lm
+- bangla
+license: mit
+datasets:
+- common_crawl
+- wikipedia
+- oscar
+---",26,1,"[Bangla-Bert-Base](https://github.com/sagorbrur/bangla-bert) is a pretrained language model of Bengali language using mask language modeling described in [BERT](https://arxiv.org/abs/1810.04805) and it's github [repository](https://github.com/google-research/bert) || * [DeepHateExplainer: Explainable Hate Speech Detection in Under-resourced Bengali Language](https://arxiv.org/abs/2012.14353)
+* [Emotion Classification in a Resource Constrained Language Using Transformer-based Approach](https://arxiv.org/abs/2104.08613)
+* [A Review of Bangla Natural Language Proce",fill-mask,False,sagorsarker/bangla-bert-base,1,1
+False,,True,4033,1,"**Note**: This model was pretrained using a specific normalization pipeline available [here](https://github.com/csebuetnlp/normalizer). || ```python
+from normalizer import normalize # pip install git+https://github.com/csebuetnlp/normalizer
+from transformers import pipeline",6b36cf4fab487a50c1a44d7f12af563c75a9a846,1,"This is an [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB) generator model pretrained with the Masked Language Modeling (MLM) objective on large amounts of Bengali corpora. || Most publicly available parallel corpora for Bengali are not large enough; and have rather poor quality, mostly because of incorrect sentence alignments resulting from erroneous sentence segmentation, and also because of a high volume of noise present in them.",2022-06-06,0,,227,1,"We also evaluate on a new test set of 1000 pairs made with extensive quality control. || We release the segmenter, parallel corpus, and the evaluation set, thus elevating Bengali from its low-resource status.",False,1,,True,True,True,True,bn;en,0,,2,1,"url       = {https://arxiv.org/abs/2101.00204},",fill-mask,False,csebuetnlp/banglabert_generator,1,1
+False,,True,4079,1,"**Note**: This model was pretrained using a specific normalization pipeline available [here](https://github.com/csebuetnlp/normalizer). || ```python
+from normalizer import normalize # pip install git+https://github.com/csebuetnlp/normalizer
+from transformers import pipeline",d7689cacac5d9f7b068250d4f4f67eda8f100531,1,"This is an [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB) generator model pretrained with the Masked Language Modeling (MLM) objective on large amounts of Bengali and English corpora. || Most publicly available parallel corpora for Bengali are not large enough; and have rather poor quality, mostly because of incorrect sentence alignments resulting from erroneous sentence segmentation, and also because of a high volume of noise present in them.",2022-06-06,0,,80,1,"We also evaluate on a new test set of 1000 pairs made with extensive quality control. || We release the segmenter, parallel corpus, and the evaluation set, thus elevating Bengali from its low-resource status.",False,1,,True,True,True,True,bn;en,0,,1,1,"url       = {https://arxiv.org/abs/2101.00204},",fill-mask,False,csebuetnlp/banglishbert_generator,1,1
+False,,True,72,0,,d988ab87dd42c0b160fbb6c971577f9bde929ce8,0,,2022-10-20,0,,15,0,,False,1,,True,True,True,True,bn,0,,0,0,,text-generation,False,Afia14/t5_Bangla_punctuation_restoration_model,1,1
+False,,True,2135,0,,d49f41273a28c1b13641033952e65fac6d4bc610,1,"## BengaliBERT
+BengaliBERT is a Bengali BERT model trained on publicly available Bengali monolingual datasets.",2022-11-20,0,,161,0,,False,1,,True,True,True,True,bn,1,"---
+license: cc-by-4.0
+language: bn
+---",3,1,"Preliminary details on the dataset, models, and baseline results can be found in our [<a href='https://arxiv.org/abs/2211.11418'> paper </a>] .",fill-mask,False,l3cube-pune/bengali-bert,1,1
+False,,True,2934,0,,45cec0e2033365f668ecb71ea01c804f35e09c53,1,"---
+license: apache-2.0
+tags:
+- generated_from_trainer
+- text-generation-inference
+datasets:
+- kde4
+metrics:
+- bleu
+model-index:
+- name: bengali-bn-to-en || dataset:",2023-05-15,0,,11,1,"It achieves the following results on the evaluation set:
+- Loss: 1.6885
+- Bleu: 50.9475
+- Gen Len: 6.7043 || ## Training and evaluation data",False,1,,True,True,True,True,bn;en,1,"---
+license: apache-2.0
+tags:
+- generated_from_trainer
+- text-generation-inference
+datasets:
+- kde4
+metrics:
+- bleu
+model-index:
+- name: bengali-bn-to-en",0,0,,text-generation,False,shihab17/bn-to-en-translation,1,1
+False,,True,2083,1,The code of Bengali data generation and other detailed information can be found in our Github project repository: https://github.com/OdiaGenAI/GenerativeAI_and_LLM_Odia. || Instructions for running it can be found at https://github.com/OdiaGenAI/GenerativeAI_and_LLM_Odia.,13243489f6464df712a3215e8aae08c4d78152ea,0,,2023-06-08,0,,26,0,,False,1,,True,True,True,True,bn,1,"---
+license: cc-by-nc-4.0
+language:
+- bn
+---
+# Model Card for Model ID",1,0,,text-generation,False,OdiaGenAI/odiagenAI-bengali-base-model-v1,1,1
+False,,True,2102,1,"<b>Using this model in transformers</b>
+```python
+!pip install sentencepiece
+!pip install transformers
+!pip install git+https://github.com/csebuetnlp/normalizer
+!pip install torch",c788953f4914ff790851128ebe17d356db1a4815,1,"---
+license: mit
+language:
+- bn
+tags:
+- Bangla-Key2Text
+pipeline_tag: text2text-generation
+datasets:
+- tonmoytalukder/Bangla-Key2Text-2Million
+widget:
+- text: ঠিকমতো এই অভাবের তাই শিক্ষার্থীরা কারণে
+- text: কেমন ডাটাসেট সময় ভাই বানাতে
+---
+This code imports the necessary libraries and loads <b>tonmoy",2023-06-15,0,,10,0,,False,1,,True,True,True,True,bn,1,"---
+license: mit
+language:
+- bn
+tags:
+- Bangla-Key2Text
+pipeline_tag: text2text-generation
+datasets:
+- tonmoytalukder/Bangla-Key2Text-2Million
+widget:
+- text: ঠিকমতো এই অভাবের তাই শিক্ষার্থীরা কারণে
+- text: কেমন ডাটাসেট সময় ভাই বানাতে
+---
+This code imports the necessary libraries and loads <b>tonmoy",0,0,,text-generation,False,tonmoytalukder/Bangla-Key2Text,1,1
+False,,True,6398,0,,acce284bd3ba85bbff7a687be7ea231980733b7a,1,"The model&#39;s pretraining data, collected from clickbait-prone news websites, consists of 1 million unlabeled Bangla news headlines, ensuring adaptability across various contexts. || One of the primary challenges with models like BanglaClickBERT is data bias, as pretraining data collected from clickbait-prone sources can introduce biases.",2023-08-01,0,,25,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+language:
+- bn
+library_name: transformers
+pipeline_tag: fill-mask
+---
+# BanglaClickBERT",0,1,"url = ""https://aclanthology.org/2023.alta-1.1"",",fill-mask,False,samanjoy2/banglaclickbert_base,1,1
+False,HuggingFaceH4/zephyr-7b-beta,True,1448,0,,dab0d14ae8b1faad54b468995def399992a9e458,1,"results: []
+datasets:
+- rishiraj/bengalichat
+language:
+- bn
+---",2023-11-15,0,,19,1,"It achieves the following results on the evaluation set:
+- Loss: 1.4296 || ## Training and evaluation data",False,1,,True,True,True,True,bn,1,"---
+license: mit
+base_model: HuggingFaceH4/zephyr-7b-beta
+tags:
+- generated_from_trainer
+model-index:
+- name: bondhu-7b-alpha",1,0,,text-generation,False,rishiraj/bondhu-7b-alpha,1,1
+False,,True,2782,1,"## Training
+The training process was managed using the robust framework provided by MosaicML's [llm-foundry](https://github.com/mosaicml/llm-foundry) repository.",f12166bd26a3097ef84c606b2e79827674d53869,1,"---
+language:
+- bn
+license: apache-2.0
+datasets:
+- uonlp/CulturaX
+- wikipedia
+pipeline_tag: text-generation
+--- || Utilizing a decoder-style transformer architecture, this model has been extensively trained on a dataset comprising 4.51 billion Bangla tokens.",2023-12-04,0,,122,0,,False,1,,True,True,True,True,bn,1,"---
+language:
+- bn
+license: apache-2.0
+datasets:
+- uonlp/CulturaX
+- wikipedia
+pipeline_tag: text-generation
+---",11,0,,text-generation,False,hishab/titulm-mpt-1b-v1.0,1,1
+False,csebuetnlp/banglat5_banglaparaphrase,True,7488,0,,0d7b41e6cfc986b4ec23c823d42daaca87e8208d,1,"---
+datasets:
+- faisal4590aziz/bangla-t5-health
+language:
+- bn
+pipeline_tag: text-generation
+tags:
+- medical
+- healthcare
+- nlp
+- paraphrasing
+license: cc-by-4.0
+metrics:
+- bleu
+- rouge
+- meteor
+base_model:
+- csebuetnlp/banglat5_banglaparaphrase
+---
+# BanglaT5-mHealth || BanglaT5-mHealth is a Bengali paraphrasing model fine-tuned on the BanglaHealth dataset—an extensive collection of health-related Bengali sentences with high-quality paraphrase pairs.",2023-12-16,0,,17,0,,False,1,,True,True,True,True,bn,1,"---
+datasets:
+- faisal4590aziz/bangla-t5-health
+language:
+- bn
+pipeline_tag: text-generation
+tags:
+- medical
+- healthcare
+- nlp
+- paraphrasing
+license: cc-by-4.0
+metrics:
+- bleu
+- rouge
+- meteor
+base_model:
+- csebuetnlp/banglat5_banglaparaphrase
+---
+# BanglaT5-mHealth",0,1,"Mohammad Nazrul Islam, 2025](https://doi.org/10.1016/j.dib.2025.111699) || doi = {https://doi.org/10.1016/j.dib.2025.111699},",text-generation,False,faisal4590aziz/bangla-t5-mHealth,1,1
+False,,True,11621,0,,0b6a386f12d259f61ca7c09a1b4a7e7c23d5e12b,1,"---
+license: mit
+datasets:
+- lumatic-ai/BongChat-v0-10k
+language:
+- bn
+- en
+metrics:
+- accuracy
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- text-generation-inference
+- sft
+- llama
+- bongllama
+- tinyllama
+- llm
+--- || We have used a Bengali dataset of 10k data i.e lumatic-ai/BongChat-10k-v0 and finetuned on TinyLlama/TinyLlama-1.1B-Chat-v1.0 model to get our BongLlama 1.1B Chat Alpha v0 model.",2024-01-17,0,,15,0,,False,1,,True,True,True,True,bn;en,1,"---
+license: mit
+datasets:
+- lumatic-ai/BongChat-v0-10k
+language:
+- bn
+- en
+metrics:
+- accuracy
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- text-generation-inference
+- sft
+- llama
+- bongllama
+- tinyllama
+- llm
+---",0,1,(2021)](https://aclanthology.org/2021.acl-long.330.pdf) and [Bender et al. || (2019)](https://arxiv.org/abs/1910.09700).,text-generation,False,lumatic-ai/BongLlama-1.1B-Chat-alpha-v0,1,1
+False,,True,8166,0,,5436761c5615f6743c7b6f46cca3e9de6e051d51,1,"---
+license: mit
+datasets:
+- lumatic-ai/BongChat-v1-253k
+language:
+- bn
+- en
+metrics:
+- accuracy
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- text-generation-inference
+- sft
+- mistral
+- Bongstral
+- bongstral
+- llm
+--- || We have used a Bengali dataset of 253k data and finetuned on Mistral 7b model to get our Bongstral 7b model.",2024-01-19,0,,19,0,,False,1,,True,True,True,True,bn;en,1,"---
+license: mit
+datasets:
+- lumatic-ai/BongChat-v1-253k
+language:
+- bn
+- en
+metrics:
+- accuracy
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- text-generation-inference
+- sft
+- mistral
+- Bongstral
+- bongstral
+- llm
+---",1,1,(2021)](https://aclanthology.org/2021.acl-long.330.pdf) and [Bender et al. || (2019)](https://arxiv.org/abs/1910.09700).,text-generation,False,lumatic-ai/bongstral_7b_instruct_alpha_v1,1,1
+False,,True,3626,1,"- **Language(s):** Bangla and English
+- **License:** GNU General Public License v3.0
+- **Source Model:** [meta-llama/Llama-2-7b-hf](https://huggingface.co/meta-llama/Llama-2-7b-hf)
+- **Training Precision:** `float16`
+- **Code:** [GitHub](https://github.com/brishtiteveja5/Bangla-llama)",00e0e7c3bc85ca5b2cafbc3196230bcba0237513,1,- **Model type:** A 7B parameter model for Causal LM pre-trained on [CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) dataset's Bangla subset.,2024-02-01,0,,10,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+license: llama2
+---",0,1,"To dive deep into the development and capabilities of this model, please read the [research paper](https://arxiv.org/abs/2311.05845) and the [introductory blog post (WIP)]() that outlines our journey and the model's potential impact.",text-generation,False,brishtiteveja/bangla-llama-7b-base-v0.2,0,1
+False,,True,3383,1,"- **Language(s):** Bangla and English
+- **License:** GNU General Public License v3.0
+- **Source Model:** [meta-llama/Llama-2-7b-hf](https://huggingface.co/meta-llama/Llama-2-7b-hf)
+- **Training Precision:** `float16`
+- **Code:** [GitHub](https://github.com/brishtiteveja5/Bangla-llama)",869b308f49372a2481cd28d3b050e861ee826e77,1,- **Model type:** A 7B parameter model for Causal LM pre-trained on [CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) dataset's Bangla subset.,2024-02-01,0,,83,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+license: llama2
+---",5,0,,text-generation,False,BanglaLLM/bangla-llama-7b-base-v0.1,1,1
+False,,True,3393,1,"- **Language(s):** Bangla and English
+- **License:** GNU General Public License v3.0
+- **Finetuned from model:** [BanglaLLM/Bangla-llama-7b-base-v0.1](https://huggingface.co/BanglaLLM/Bangla-llama-7b-base-v0.1)
+- **Training Precision:** `float16`
+- **Code:** [GitHub](https://github.com/BanglaLLM/Ban",762f05b48bd325319c87d78a2e54d2814bca89a3,1,- **Model type:** A 7B parameter GPT-like model fine-tuned on [Bangla-Alpaca-Orca](https://huggingface.co/datasets/BanglaLLM/Bangla-alpaca-orca) - a mix of Bangla-translated [Stanford-Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) and a subset of [OpenOrca](https://huggingface.co/datasets,2024-02-06,0,,264,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+license: llama2
+---",5,0,,text-generation,False,BanglaLLM/bangla-llama-7b-instruct-v0.1,1,1
+False,,True,3287,1,"- **Language(s):** Bangla and English
+- **License:** GNU General Public License v3.0
+- **Source Model:** [meta-llama/Llama-2-13b-hf](https://huggingface.co/meta-llama/Llama-2-13b-hf)
+- **Training Precision:** `float16`
+- **Code:** [GitHub](https://github.com/abhinand5/bangla-llama)",6adafc1d8274befe6f865e8b687912f90767c276,1,- **Model type:** A 13B parameter model for Causal LM pre-trained on [CulturaX](https://huggingface.co/datasets/uonlp/CulturaX) dataset's Bangla subset.,2024-02-07,0,,32,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+license: llama2
+---",7,0,,text-generation,False,BanglaLLM/bangla-llama-13b-base-v0.1,1,1
+False,,True,3395,1,"- **Language(s):** Bangla and English
+- **License:** GNU General Public License v3.0
+- **Finetuned from model:** [BanglaLLM/bangla-llama-13b-base-v0.1](https://huggingface.co/banglallm/bangla-llama-13b-base-v0.1)
+- **Training Precision:** `float16`
+- **Code:** [GitHub](https://github.com/BanglaLLM/b",a5986f8599cd749ab4e8a2afb068b881493dac28,1,- **Model type:** A 13B parameter GPT-like model fine-tuned on [Bangla-Alpaca-Orca](https://huggingface.co/datasets/banglallm/bangla-alpaca-orca) - a mix of Bangla-translated [Stanford-Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) and a subset of [OpenOrca](https://huggingface.co/dataset,2024-02-09,0,,88,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+license: llama2
+---",3,0,,text-generation,False,BanglaLLM/bangla-llama-13b-instruct-v0.1,1,1
+False,,True,138,0,,5ecf31322b32424c57978524da2b2b3bf2e55688,1,"---
+license: apache-2.0
+datasets:
+- saifulhaq9/indicmarco
+language:
+- bn
+library_name: transformers
+pipeline_tag: text2text-generation
+---",2024-04-03,0,,15,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+datasets:
+- saifulhaq9/indicmarco
+language:
+- bn
+library_name: transformers
+pipeline_tag: text2text-generation
+---",0,0,,text-generation,False,iutsslir/doc2query-banglat5-indicmarco,1,1
+False,,True,3117,1,The training process was managed using the robust framework provided by MosaicML's [llm-foundry](https://github.com/mosaicml/llm-foundry) repository. || Code: https://github.com/hishab-nlp/titulm,6295518ea490851255db89bde72e4543d1c14e50,1,"---
+datasets:
+- togethercomputer/RedPajama-Data-V2
+- uonlp/CulturaX
+- wikipedia
+language:
+- en
+- bn
+license: apache-2.0
+pipeline_tag: text-generation
+library_name: transformers
+--- || Utilizing a decoder-style transformer architecture, this model has been extensively trained on a dataset comprising __43.19__ billion Bangla, English and codes tokens.",2024-04-03,0,,46,0,,False,1,,True,True,True,True,en;bn,1,"---
+datasets:
+- togethercomputer/RedPajama-Data-V2
+- uonlp/CulturaX
+- wikipedia
+language:
+- en
+- bn
+license: apache-2.0
+pipeline_tag: text-generation
+library_name: transformers
+---",0,0,,text-generation,False,hishab/titulm-mpt-1b-v2.0,1,1
+False,,True,5792,1,[The training code](https://github.com/hplt-project/HPLT-WP4).,80365560f2bc1337b36a384068ecc5166b240289,1,"---
+language:
+- bn
+inference: false
+tags:
+- BERT
+- HPLT
+- encoder
+license: apache-2.0
+datasets:
+- HPLT/hplt_monolingual_v1_2
+--- || Every model uses its own tokenizer trained on language-specific HPLT data.",2024-04-22,0,,42,0,,False,1,,True,True,True,True,bn,1,"---
+language:
+- bn
+inference: false
+tags:
+- BERT
+- HPLT
+- encoder
+license: apache-2.0
+datasets:
+- HPLT/hplt_monolingual_v1_2
+---",0,1,"In particular, we used the modification of the classic BERT model named [LTG-BERT](https://aclanthology.org/2023.findings-eacl.146/). || url = ""https://aclanthology.org/2023.findings-eacl.146"",",fill-mask,False,HPLT/hplt_bert_base_bn,1,1
+False,,True,5242,1,"We fine-tune a pertained model, namely [mBart50](https://huggingface.co/facebook/mbart-large-50) with a [dataset](https://github.com/hishab-nlp/BNSECData) of 1.3 M samples for 6500 steps and achieve a score of ```BLEU: 0.443, CER:0.159, WER:0.406, Meteor: 0.655``` when tested on unseen data. || The full training process with the original training notebook can be found here: [GitHub](https://github.com/himisir/Bengali-Sentence-Error-Correction).",c78727cf70ce87b437bd6783f0a3718b00ae8645,1,"I already have a script, [Scrapper](https://github.com/himisir/Scrape-Any-Sites), that I can use with the [Data Pipeline](simulate_error.py) that I just created for more diverse training data.",2024-05-05,0,,26,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+language:
+- bn
+metrics:
+- bleu
+- cer
+- wer
+- meteor
+library_name: transformers
+pipeline_tag: text2text-generation
+tags:
+- text-generation-inference
+---
+# Bengali Sentence Error Correction",2,0,,text-generation,False,asif00/mbart_bn_error_correction,1,1
+False,,True,121,0,,f164527145c429edc6b57f311513ec6620898e53,0,,2024-05-07,0,,22,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+language:
+- bn
+# Uploaded  model",5,0,,text-generation,False,ragibhasan/phi-3-bangla-instruct,1,1
+False,meta-llama/Llama-2-7b-hf,True,1939,1,"- **Language(s):** Bangla and English
+- **License:** GNU General Public License v3.0
+- **Source Model:** [meta-llama/Llama-2-7b-hf](https://huggingface.co/meta-llama/Llama-2-7b-hf)
+- **Training Precision:** `float16`
+- **Code:** [GitHub](https://github.com/meheraj2325/bangla-llama)",17a4c802030ba508fc84a5cbc4d23f2dee9fd7a8,1,- **Model type:** A 7B parameter model for Causal LM pre-trained on Bangla 2B+ BERT dataset.,2024-05-11,0,,11,0,,False,1,,True,True,True,True,bn;en,1,"---
+license: llama2
+language:
+- bn
+- en
+base_model:
+- meta-llama/Llama-2-7b-hf
+tags:
+- text-generation-inference
+---",0,0,,text-generation,False,meherajj/Bangla-Llama-2-7b-base-v0.1,1,1
+False,,True,3699,1,"- **Language(s):** Bangla and English
+- **License:** GNU General Public License v3.0
+- **Source Model:** [meta-llama/Meta-Llama-3-8B](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
+- **Training Precision:** `float16`
+- **Code:** [GitHub](https://github.com/brishtiteveja5/Bangla-llama)",eb97fcb8096c056a1545a8e37b1d1b83f2df19af,1,"---
+language:
+- bn
+- en
+license: llama3
+tags:
+- bangla
+- large language model
+datasets:
+- wikimedia/wikipedia
+--- || - **Model type:** A 8B parameter model for Causal LM pre-trained on [Wikimedia/Wikipedia](https://huggingface.co/datasets/wikimedia/wikipedia) dataset's Bangla subset.",2024-06-08,0,,27,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+license: llama3
+tags:
+- bangla
+- large language model
+datasets:
+- wikimedia/wikipedia
+---",1,0,,text-generation,False,BanglaLLM/BanglaLLama-3-8b-BnWiki-Base,1,1
+False,,True,4061,1,"- **Language(s):** Bangla and English
+- **License:** GNU General Public License v3.0
+- **Source Model:** [meta-llama/Meta-Llama-3-8B](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
+- **Training Precision:** `float16`
+- **Code:** [GitHub](https://github.com/brishtiteveja5/Bangla-llama)",cfc22dab3438ebd9026fb2ccf852484ef31bc80f,1,"---
+language:
+- bn
+- en
+license: llama3
+tags:
+- bangla
+- large language model
+datasets:
+- BanglaLLM/bangla-alpaca-orca
+--- || - **Model type:** A 8B parameter model for Causal LM pre-trained on [Wikimedia/Wikipedia](https://huggingface.co/datasets/wikimedia/wikipedia) dataset's Bangla subset.",2024-06-11,0,,33,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+license: llama3
+tags:
+- bangla
+- large language model
+datasets:
+- BanglaLLM/bangla-alpaca-orca
+---",1,0,,text-generation,False,BanglaLLM/BanglaLLama-3-8b-BnWiki-Instruct,1,1
+False,meta-llama/Llama-3.1-8B-Instruct,True,4663,1,- [GitHub Repo](https://github.com/AI4Bharat/CIA) || Check them out on our [github repository](https://github.com/AI4Bharat/CIA) – we highly recommend using them!,9fee41f79bce37d4634580aa1a4ad6da54c0d937,1,"Fine-tuned on the INTEL dataset, Hercule demonstrates better alignment with human judgments compared to zero-shot evaluations by proprietary models like GPT-4, on the RECON test set. || Hercule in fine-tuned on [Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) using Intel training data and evaluated on Recon test set.",2024-09-18,0,,83,1,"Fine-tuned on the INTEL dataset, Hercule demonstrates better alignment with human judgments compared to zero-shot evaluations by proprietary models like GPT-4, on the RECON test set. || Hercule in fine-tuned on [Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) using Intel training data and evaluated on Recon test set.",False,1,,True,True,True,True,bn,1,"---
+library_name: transformers
+license: mit
+language:
+- bn
+metrics:
+- pearsonr
+- spearmanr
+- accuracy
+base_model:
+- meta-llama/Llama-3.1-8B-Instruct
+pipeline_tag: text-generation
+---",1,1,"- [Research paper](https://arxiv.org/abs/2410.13394) || - **Repository**: https://github.com/AI4Bharat/CIA 
+- **Paper**: https://arxiv.org/abs/2410.13394
+- **Point of Contact**: sumanthd@cse.iitm.ac.in, safikhan@ai4bharat.org",text-generation,False,ai4bharat/hercule-bn,1,1
+False,meta-llama/Llama-3.1-8B-Instruct,True,4663,1,- [GitHub Repo](https://github.com/AI4Bharat/CIA) || Check them out on our [github repository](https://github.com/AI4Bharat/CIA) – we highly recommend using them!,d811841b4ff18ae2af4ea485899557b1d761119e,1,"Fine-tuned on the INTEL dataset, Hercule demonstrates better alignment with human judgments compared to zero-shot evaluations by proprietary models like GPT-4, on the RECON test set. || Hercule in fine-tuned on [Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) using Intel training data and evaluated on Recon test set.",2024-09-19,0,,22,1,"Fine-tuned on the INTEL dataset, Hercule demonstrates better alignment with human judgments compared to zero-shot evaluations by proprietary models like GPT-4, on the RECON test set. || Hercule in fine-tuned on [Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) using Intel training data and evaluated on Recon test set.",False,1,,True,True,True,True,bn,1,"---
+library_name: transformers
+license: mit
+language:
+- bn
+metrics:
+- pearsonr
+- spearmanr
+- accuracy
+base_model:
+- meta-llama/Llama-3.1-8B-Instruct
+pipeline_tag: text-generation
+---",0,1,"- [Research paper](https://arxiv.org/abs/2410.13394) || - **Repository**: https://github.com/AI4Bharat/CIA 
+- **Paper**: https://arxiv.org/abs/2410.13394
+- **Point of Contact**: sumanthd@cse.iitm.ac.in, safikhan@ai4bharat.org",text-generation,False,ai4bharat/hercule-bn-lora,1,1
+False,meta-llama/Llama-3.2-1B,True,10095,1,"Use of Llama 3.2 is governed by the [Llama 3.2 Community License](https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/LICENSE) (a custom, commercial license agreement). || **Training Factors:** We used [llama-factory](https://github.com/hiyouga/LLaMA-Factory) training library, Cloud GPU cluster, and production infrastructure for pretraining.",ded054abba24a30dc9d1ba6766a11b0b3c35c95c,1,"This model is a continually pre-trained version of the [meta-llama/Llama-3.2-1B](https://huggingface.co/meta-llama/Llama-3.2-1B) architecture, fine-tuned on extensive Bangla datasets. || |  | Training Data | Params | Input modalities | Output modalities | Context Length | GQA | Shared Embeddings | Token count | Knowledge cutoff |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Llama 3.2 (text only)  | Hishab curated Bangla text corpus | 1B (1.23B)",2024-10-03,0,,66,1,"### Evaluation Datasets
+We evaluated our pre-trained models on both Bangla and English benchmark datasets. || Although the model is trained on Bangla data, its English capability is also evaluated on English benchmark datasets.",False,1,,True,True,True,True,bn,1,"---
+language:
+- bn
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- hishab
+- titulm
+- pytorch
+- llama
+- llama-3
+- llama-factory
+license: llama3.2
+base_model:
+- meta-llama/Llama-3.2-1B
+---",0,0,,text-generation,False,hishab/titulm-llama-3.2-1b-v1.0,1,1
+False,google/gemma-2-2b,True,9558,1,"**Training Factors:** We used [llama-factory](https://github.com/hiyouga/LLaMA-Factory) training library, cloud GPU cluster, and production infrastructure for pretraining. || For all these evaluations, we used [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) evaluations library.",12fd976fa2fdb5a2d2b9d9f67ba6525385fc8c57,1,"This model is a continually pretrained version of the [google/gemma-2-2b](https://huggingface.co/google/gemma-2-2b) architecture, fine-tuned on extensive Bangla datasets. || |  | Training Data | Params | Input modalities | Output modalities | Context Length | Token count |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Gemma 2  | Hishab curated Bangla text corpus | 2B | Monolingual Text(Bangla) | Monolingual Text(Bangla)  | 4096 | 3B tokens | |",2024-10-03,0,,18,1,"### Evaluation Datasets
+We evaluated our pre-trained models on both Bangla and English benchmark datasets. || Although the model is trained on Bangla data, its English capability is also evaluated on English benchmark datasets.",False,1,,True,True,True,True,bn,1,"---
+language:
+- bn
+tags:
+- hishab
+- titulm
+- pytorch
+- gemma
+- gemma-2
+license: gemma
+library_name: transformers
+pipeline_tag: text-generation
+base_model:
+- google/gemma-2-2b
+---",0,0,,text-generation,False,hishab/titulm-gemma-2-2b-v1.0,1,1
+False,meta-llama/Llama-3.2-1B,True,10944,1,"Use of Llama 3.2 is governed by the [Llama 3.2 Community License](https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/LICENSE) (a custom, commercial license agreement). || **Training Factors:** We used [llama-factory](https://github.com/hiyouga/LLaMA-Factory) training library, Cloud GPU cluster, and production infrastructure for pretraining.",521da712ac50c53ea2fb6ccdd9abeab8f79e0820,1,"This model is a continually pre-trained version of the [meta-llama/Llama-3.2-1B](https://huggingface.co/meta-llama/Llama-3.2-1B) architecture, fine-tuned on extensive Bangla datasets. || |  | Training Data | Params | Input modalities | Output modalities | Context Length | GQA | Shared Embeddings | Token count | Knowledge cutoff |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Llama 3.2 (text only)  | Hishab curated Bangla text corpus | 1B (1.23B)",2024-10-04,0,,230,1,"### Evaluation Datasets
+We evaluated our pre-trained models on both Bangla and English benchmark datasets. || Although the model is trained on Bangla data, its English capability is also evaluated on English benchmark datasets.",False,1,,True,True,True,True,bn,1,"---
+base_model:
+- meta-llama/Llama-3.2-1B
+language:
+- bn
+library_name: transformers
+license: llama3.2
+pipeline_tag: text-generation
+tags:
+- hishab
+- titulm
+- pytorch
+- llama
+- llama-3
+- llama-factory
+---",2,1,"url={https://arxiv.org/abs/2502.11187}, 
+}
+```",text-generation,False,hishab/titulm-llama-3.2-1b-v1.1,1,1
+False,meta-llama/Llama-3.2-3B,True,10519,1,"The code for training and evaluation can be found [here](https://github.com/hishab/TituLM). || Use of Llama 3.2 is governed by the [Llama 3.2 Community License](https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/LICENSE) (a custom, commercial license agreement).",a16bd4623b3e181ba63923265551698dade38113,1,"This model is a continually pre-trained version of the [meta-llama/Llama-3.2-3B](https://huggingface.co/meta-llama/Llama-3.2-3B) architecture, fine-tuned on extensive Bangla datasets. || |  | Training Data | Params | Input modalities | Output modalities | Context Length | GQA | Shared Embeddings | Token count | Knowledge cutoff |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Llama 3.2 (text only)  | Hishab curated Bangla text corpus | 3B(3.21B) ",2024-10-04,0,,27,1,"### Evaluation Datasets
+We evaluated our pre-trained models on both Bangla and English benchmark datasets. || Although the model is trained on Bangla data, its English capability is also evaluated on English benchmark datasets.",False,1,,True,True,True,True,bn,1,"---
+base_model:
+- meta-llama/Llama-3.2-3B
+language:
+- bn
+library_name: transformers
+license: llama3.2
+pipeline_tag: text-generation
+tags:
+- hishab
+- titulm
+- pytorch
+- llama
+- llama-3
+- llama-factory
+---",0,0,,text-generation,False,hishab/titulm-llama-3.2-3b-v1.0,1,1
+False,google/gemma-2-2b,True,9584,1,"**Training Factors:** We used the [llama-factory](https://github.com/hiyouga/LLaMA-Factory) training library, a cloud GPU cluster, and production infrastructure for pretraining. || For all these evaluations, we used [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) evaluations library.",b445fdfaeb9f072fa76340d6251c39524d372074,1,"This model is a continually pre-trained version of the [google/gemma-2-2b](https://huggingface.co/google/gemma-2-2b) architecture, fine-tuned on extensive Bangla datasets. || |  | Training Data | Params | Input modalities | Output modalities | Context Length | Token count |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Gemma 2  | Hishab curated Bangla text corpus | 2B | Monolingual Text(Bangla) | Monolingual Text(Bangla)  | 4096 | 4.4B tokens | |",2024-10-05,0,,69,1,"### Evaluation Datasets
+We evaluated our pre-trained models on both Bangla and English benchmark datasets. || Although the model is trained on Bangla data, its English capability is also evaluated on English benchmark datasets.",False,1,,True,True,True,True,bn,1,"---
+language:
+- bn
+tags:
+- hishab
+- titulm
+- pytorch
+- gemma
+- gemma-2
+license: gemma
+library_name: transformers
+pipeline_tag: text-generation
+base_model:
+- google/gemma-2-2b
+---",2,0,,text-generation,False,hishab/titulm-gemma-2-2b-v1.1,1,1
+False,BanglaLLM/BanglaLLama-3.2-1b-unolp-culturax-base-v0.0.1,True,4402,1,"- **Language(s):** Bangla and English
+- **License:** GNU General Public License v3.0
+- **Source Model:** [BanglaLLM/BanglaLLama-3.2-1b-unolp-culturax-base-v0.0.1](https://huggingface.co/BanglaLLM/BanglaLLama-3.2-1b-unolp-culturax-base-v0.0.1)
+- **Training Precision:** `float16`
+- **Code:** [GitHub](",21f9d13512218a6060e95cacad21bb91b80828a9,1,"---
+language:
+- bn
+- en
+license: llama3.2
+base_model:
+- BanglaLLM/BanglaLLama-3.2-1b-unolp-culturax-base-v0.0.1
+datasets:
+- BanglaLLM/bangla-alpaca-orca
+tags:
+- bangla
+- banglaLLM
+- banglaNLP
+- LLM
+- LLama
+- Transformer
+- LLama 3.2
+- bengali
+- low_resource_language
+pipeline_tag: text-generation
+---",2024-10-05,0,,53,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+license: llama3.2
+base_model:
+- BanglaLLM/BanglaLLama-3.2-1b-unolp-culturax-base-v0.0.1
+datasets:
+- BanglaLLM/bangla-alpaca-orca
+tags:
+- bangla
+- banglaLLM
+- banglaNLP
+- LLM
+- LLama
+- Transformer
+- LLama 3.2
+- bengali
+- low_resource_language
+pipeline_tag: text-generation
+---",0,0,,text-generation,False,BanglaLLM/BanglaLLama-3.2-1b-bangla-alpaca-orca-instruct-v0.0.1,1,1
+False,meta-llama/Llama-3.2-3B,True,9992,1,"Use of Llama 3.2 is governed by the [Llama 3.2 Community License](https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/LICENSE) (a custom, commercial license agreement). || **Training Factors:** We used [llama-factory](https://github.com/hiyouga/LLaMA-Factory) training library, Cloud GPU cluster, and production infrastructure for pretraining.",73ae924330e293fe2e1d94818277b93cd7c8e71d,1,"This model is a continually pre-trained version of the [meta-llama/Llama-3.2-3B](https://huggingface.co/meta-llama/Llama-3.2-3B) architecture, fine-tuned on extensive Bangla datasets. || |  | Training Data | Params | Input modalities | Output modalities | Context Length | GQA | Shared Embeddings | Token count | Knowledge cutoff |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Llama 3.2 (text only)  | Hishab curated Bangla text corpus | 3B(3.21B) ",2024-10-06,0,,59,1,"### Evaluation Datasets
+We evaluated our pre-trained models on both Bangla and English benchmark datasets. || Although the model is trained on Bangla data, its English capability is also evaluated on English benchmark datasets.",False,1,,True,True,True,True,bn,1,"---
+language:
+- bn
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- hishab
+- titulm
+- pytorch
+- llama
+- llama-3
+- llama-factory
+license: llama3.2
+base_model:
+- meta-llama/Llama-3.2-3B
+---",0,0,,text-generation,False,hishab/titulm-llama-3.2-3b-v1.1,1,1
+False,,True,10502,1,"Use of Llama 3.2 is governed by the [Llama 3.2 Community License](https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/LICENSE) (a custom, commercial license agreement). || **Training Factors:** We used [llama-factory](https://github.com/hiyouga/LLaMA-Factory) training library, Cloud GPU cluster, and production infrastructure for pretraining.",cf9ebaf81f39560a6fa4dfead3fe1159d8a4d663,1,"This model is a continually pretrained version of the [meta-llama/Llama-3.2-1B](https://huggingface.co/meta-llama/Llama-3.2-1B) architecture with extended about 42k Bangla tokens, fine-tuned on extensive Bangla datasets. || |  | Training Data | Params | Input modalities | Output modalities | Context Length | GQA | Shared Embeddings | Token count | Knowledge cutoff |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Llama 3.2 (text only)  | Hishab curated Bangla text corpus | 1B (1.23B)",2024-10-09,0,,739,1,"### Evaluation Datasets
+We evaluated our pretrained models on both Bangla and English benchmark datasets. || Although the model is trained on Bangla data, its English capability is also evaluated on English benchmark datasets.",False,1,,True,True,True,True,bn,1,"---
+language:
+- bn
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- hishab
+- titulm
+- pytorch
+- llama
+- llama-3
+- llama-factory
+license: llama3.2
+---",0,0,,text-generation,False,hishab/titulm-llama-3.2-1b-v2.0,1,1
+False,,True,11320,1,"Use of Llama 3.2 is governed by the [Llama 3.2 Community License](https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/LICENSE) (a custom, commercial license agreement). || **Training Factors:** We used [llama-factory](https://github.com/hiyouga/LLaMA-Factory) training library, Cloud GPU cluster, and production infrastructure for pretraining.",ce14af760eff9f6eeed2c44d35266e2e038b688a,1,"This model is a continually pretrained version of the [meta-llama/Llama-3.2-3B](https://huggingface.co/meta-llama/Llama-3.2-3B) architecture with extended about 42K Bangla tokens, fine-tuned on extensive Bangla datasets. || |  | Training Data | Params | Input modalities | Output modalities | Context Length | GQA | Shared Embeddings | Token count | Knowledge cutoff |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Llama 3.2 (text only)  | Hishab curated Bangla text corpus | 3B(3.21B) ",2024-10-16,0,,1235,1,"### Evaluation Datasets
+We evaluated our pretrained models on both Bangla and English benchmark datasets. || Although the model is trained on Bangla data, it's English capability is also evaluated on English benchmark datasets.",False,1,,True,True,True,True,bn,1,"---
+language:
+- bn
+library_name: transformers
+license: llama3.2
+pipeline_tag: text-generation
+tags:
+- hishab
+- titulm
+- pytorch
+- llama
+- llama-3
+- llama-factory
+---",8,1,"url={https://arxiv.org/abs/2502.11187}, 
+}
+```",text-generation,False,hishab/titulm-llama-3.2-3b-v2.0,1,1
+False,Qwen/Qwen2.5-7B-Instruct,True,1762,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",abf5bd19c2c2b3ff7f195d10fe35fc452eff8b1a,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen2.5-7B-Instruct
+library_name: transformers
+---
+# Qwen2.5 7B Instruct for Bengali: Vocabulary expansion || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2024-11-21,0,,33,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen2.5-7B-Instruct
+library_name: transformers
+---
+# Qwen2.5 7B Instruct for Bengali: Vocabulary expansion",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Qwen2.5-7B-Instruct-bn-madlad-mean-tuned,1,1
+False,meta-llama/Llama-3.1-8B-Instruct,True,1811,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",1010ef4635a0e8fcf19d8660512ddefa8c646836,1,"---
+license: llama3.1
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- meta-llama/Llama-3.1-8B-Instruct
+library_name: transformers
+---
+# Llama 3.1 8B Instruct for Bengali: Vocabulary expansion || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2024-11-22,0,,19,0,,False,1,,True,True,True,True,bn,1,"---
+license: llama3.1
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- meta-llama/Llama-3.1-8B-Instruct
+library_name: transformers
+---
+# Llama 3.1 8B Instruct for Bengali: Vocabulary expansion",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Llama-3.1-8B-Instruct-bn-madlad-mean-tuned,1,1
+False,Qwen/Qwen2.5-7B-Instruct,True,1603,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",aeb2bb3b35f8722034226e5180bf2e09cfcfe3cb,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen2.5-7B-Instruct
+library_name: transformers
+---
+# Qwen2.5 7B Instruct for Bengali: Continual pre-training only || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2024-11-22,0,,33,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen2.5-7B-Instruct
+library_name: transformers
+---
+# Qwen2.5 7B Instruct for Bengali: Continual pre-training only",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Qwen2.5-7B-Instruct-bn-lapt-madlad,1,1
+False,meta-llama/Llama-3.1-8B-Instruct,True,1660,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",37ffb8e274defa01f8dcdd6ca19e4adcceb4d9a4,1,"---
+license: llama3.1
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- meta-llama/Llama-3.1-8B-Instruct
+library_name: transformers
+---
+# Llama 3.1 8B Instruct for Bengali: Continual pre-training only || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2024-11-22,0,,13,0,,False,1,,True,True,True,True,bn,1,"---
+license: llama3.1
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- meta-llama/Llama-3.1-8B-Instruct
+library_name: transformers
+---
+# Llama 3.1 8B Instruct for Bengali: Continual pre-training only",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Llama-3.1-8B-Instruct-bn-lapt-madlad,1,1
+False,Qwen/Qwen2.5-7B,True,1540,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",2fe4c8c7819909d83cd6ce8018bc160ba111c07d,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen2.5-7B
+library_name: transformers
+---
+# Qwen2.5 7B for Bengali: Continual pre-training only || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2024-11-23,0,,15,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen2.5-7B
+library_name: transformers
+---
+# Qwen2.5 7B for Bengali: Continual pre-training only",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Qwen2.5-7B-bn-lapt-madlad,1,1
+False,Qwen/Qwen2.5-7B,True,1708,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",315d99a104df61993df02cc87f5c019ea01006a3,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen2.5-7B
+library_name: transformers
+---
+# Qwen2.5 7B for Bengali: Vocabulary expansion || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2024-11-24,0,,19,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen2.5-7B
+library_name: transformers
+---
+# Qwen2.5 7B for Bengali: Vocabulary expansion",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Qwen2.5-7B-bn-madlad-mean-tuned,1,1
+False,meta-llama/Llama-3.1-8B,True,1757,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",127d223101f3568a2080d2952f651122c8c717e7,1,"---
+license: llama3.1
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- meta-llama/Llama-3.1-8B
+library_name: transformers
+---
+# Llama 3.1 8B for Bengali: Vocabulary expansion || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2024-11-26,0,,11,0,,False,1,,True,True,True,True,bn,1,"---
+license: llama3.1
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- meta-llama/Llama-3.1-8B
+library_name: transformers
+---
+# Llama 3.1 8B for Bengali: Vocabulary expansion",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Llama-3.1-8B-bn-madlad-mean-tuned,1,1
+False,atsuki-yamaguchi/Llama-3.1-8B-Instruct-bn-madlad-mean-tuned,True,2015,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",8ede34eb2cce8a0b7777cb35fafd7bd0f516011f,1,"---
+license: llama3.1
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- meta-llama/Llama-3.1-8B-Instruct
+- atsuki-yamaguchi/Llama-3.1-8B-Instruct-bn-madlad-mean-tuned
+library_name: transformers
+---
+# Llama 3.1 8B Instruct for Bengali: ElChat || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2024-11-30,0,,16,0,,False,1,,True,True,True,True,bn,1,"---
+license: llama3.1
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- meta-llama/Llama-3.1-8B-Instruct
+- atsuki-yamaguchi/Llama-3.1-8B-Instruct-bn-madlad-mean-tuned
+library_name: transformers
+---
+# Llama 3.1 8B Instruct for Bengali: ElChat",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Llama-3.1-8B-Instruct-bn-madlad-mean-slerp0305-emb-special,1,1
+False,Qwen/Qwen2.5-7B-Instruct,True,1964,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",67e2f4f19b1433bf233933628b0eac49827baba8,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen2.5-7B-Instruct
+- atsuki-yamaguchi/Qwen2.5-7B-Instruct-bn-madlad-mean-tuned
+library_name: transformers
+---
+# Qwen2.5 7B Instruct for Bengali: ElChat || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2024-11-30,0,,26,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen2.5-7B-Instruct
+- atsuki-yamaguchi/Qwen2.5-7B-Instruct-bn-madlad-mean-tuned
+library_name: transformers
+---
+# Qwen2.5 7B Instruct for Bengali: ElChat",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Qwen2.5-7B-Instruct-bn-madlad-mean-slerp0305-emb-special,1,1
+False,atsuki-yamaguchi/Llama-3.1-8B-Instruct-bn-madlad-mean-tuned,True,1975,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",f83f9f4a84b63ac0cb95c0abc8348b8ebc48c8f5,1,"---
+license: llama3.1
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- meta-llama/Llama-3.1-8B-Instruct
+- atsuki-yamaguchi/Llama-3.1-8B-Instruct-bn-madlad-mean-tuned
+library_name: transformers
+---
+# Llama 3.1 8B Instruct for Bengali: ElChat (Linear merging) || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2024-11-30,0,,13,0,,False,1,,True,True,True,True,bn,1,"---
+license: llama3.1
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- meta-llama/Llama-3.1-8B-Instruct
+- atsuki-yamaguchi/Llama-3.1-8B-Instruct-bn-madlad-mean-tuned
+library_name: transformers
+---
+# Llama 3.1 8B Instruct for Bengali: ElChat (Linear merging)",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Llama-3.1-8B-Instruct-bn-madlad-mean-trans0305-emb-special,1,1
+False,atsuki-yamaguchi/Llama-3.1-8B-Instruct-bn-madlad-mean-tuned,True,2083,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",af73aa32f436d49e0d1f228eb2a8efd8395594d8,1,"---
+license: llama3.1
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- meta-llama/Llama-3.1-8B-Instruct
+- atsuki-yamaguchi/Llama-3.1-8B-Instruct-bn-madlad-mean-tuned
+library_name: transformers
+---
+# Llama 3.1 8B Instruct for Bengali: ElChat (No Copy) || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2024-11-30,0,,10,0,,False,1,,True,True,True,True,bn,1,"---
+license: llama3.1
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- meta-llama/Llama-3.1-8B-Instruct
+- atsuki-yamaguchi/Llama-3.1-8B-Instruct-bn-madlad-mean-tuned
+library_name: transformers
+---
+# Llama 3.1 8B Instruct for Bengali: ElChat (No Copy)",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Llama-3.1-8B-Instruct-bn-madlad-mean-slerp0305-emb,1,1
+False,,True,5200,0,,ebf48c42dd26126df799c5cbecc19dafb5502d69,1,"### Training Data || <!-- This should link to a Dataset Card, perhaps with a short stub of information on what the training data is all about as well as documentation related to data pre-processing or additional filtering.",2024-12-19,0,,16,0,,False,1,,True,True,True,True,en;bn,0,,0,1,(2019)](https://arxiv.org/abs/1910.09700).,text-generation,False,as272/english-bengali-chat-llama,1,1
+False,facebook/mbart-large-50,True,2828,0,,2c76514e39c3a35e78ef4651e2c5909190218238,1,"---
+datasets:
+- SKNahin/bengali-transliteration-data
+language:
+- bn
+- en
+base_model:
+- facebook/mbart-large-50
+tags:
+- banglish
+- bangla
+- translator
+- avro
+pipeline_tag: text2text-generation
+---",2024-12-21,0,,31,0,,False,1,,True,True,True,True,bn;en,0,,3,0,,text-generation,False,Mdkaif2782/banglish-to-bangla,1,1
+False,Qwen/Qwen2.5-7B,True,1918,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",36eb6cdd1d925c9295f1ac89162a0721c62007b4,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen2.5-7B
+- Qwen/Qwen2.5-7B-Instruct
+- atsuki-yamaguchi/Qwen2.5-7B-bn-madlad-mean-tuned
+library_name: transformers
+---
+# Qwen2.5 7B for Bengali: Chat Vector || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2025-02-19,0,,19,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen2.5-7B
+- Qwen/Qwen2.5-7B-Instruct
+- atsuki-yamaguchi/Qwen2.5-7B-bn-madlad-mean-tuned
+library_name: transformers
+---
+# Qwen2.5 7B for Bengali: Chat Vector",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Qwen2.5-7B-bn-madlad-mean-cv,1,1
+False,atsuki-yamaguchi/Llama-3.1-8B-bn-madlad-mean-tuned,True,1977,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",969ae0c93b84600a2fa2048b58fe36431b14a526,1,"---
+license: llama3.1
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- meta-llama/Llama-3.1-8B
+- meta-llama/Llama-3.1-8B-Instruct
+- atsuki-yamaguchi/Llama-3.1-8B-bn-madlad-mean-tuned
+library_name: transformers
+---
+# Llama 3.1 8B for Bengali: Chat Vector || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2025-02-19,0,,12,0,,False,1,,True,True,True,True,bn,1,"---
+license: llama3.1
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- meta-llama/Llama-3.1-8B
+- meta-llama/Llama-3.1-8B-Instruct
+- atsuki-yamaguchi/Llama-3.1-8B-bn-madlad-mean-tuned
+library_name: transformers
+---
+# Llama 3.1 8B for Bengali: Chat Vector",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Llama-3.1-8B-bn-madlad-mean-cv,1,1
+False,facebook/mbart-large-50-many-to-many-mmt,True,5375,1,It has been generated using [this raw template](https://github.com/huggingface/huggingface_hub/blob/main/src/huggingface_hub/templates/modelcard_template.md?plain=1).,6d38198abffea7ff54c3cc4b81dc52810bdcb4c6,1,"---
+license: mit
+datasets:
+- mutiyama/alt
+language:
+- bn
+- en
+base_model:
+- facebook/mbart-large-50-many-to-many-mmt
+pipeline_tag: text2text-generation
+---
+# Model Card for Model ID || ### Training Data",2025-04-08,0,,10,0,,False,1,,True,True,True,True,bn;en,1,"---
+license: mit
+datasets:
+- mutiyama/alt
+language:
+- bn
+- en
+base_model:
+- facebook/mbart-large-50-many-to-many-mmt
+pipeline_tag: text2text-generation
+---
+# Model Card for Model ID",0,1,(2019)](https://arxiv.org/abs/1910.09700).,text-generation,False,Nova35/mbart-en-bg,1,1
+False,openai-community/gpt2,True,6116,0,,081e947303f03a566ab24553c9ad134e2f8082ec,1,"---
+library_name: transformers
+license: apache-2.0
+datasets:
+- ai4bharat/naamapadam
+language:
+- bn
+base_model:
+- openai-community/gpt2
+--- || While GPT-2 was originally trained only on English data, this model has been adapted to Bengali using the AI4Bharat NaamaPadam dataset — a corpus focused on Named Entity Recognition (NER).",2025-07-04,0,,14,1,The model was evaluated on the validation split of the ai4bharat/naamapadam dataset to measure how well it models Bengali text.,False,1,,True,True,True,True,bn,1,"---
+library_name: transformers
+license: apache-2.0
+datasets:
+- ai4bharat/naamapadam
+language:
+- bn
+base_model:
+- openai-community/gpt2
+---",0,1,"## Model Details
+| **Attribute**                      | **Description**                                                                                                        |
+| ---------------------------------- | ------------------------------------------------------------------------------------",text-generation,False,SwastikGuhaRoy/AddaGPT2.0,1,1
+False,Qwen/Qwen3-14B,True,1533,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",56f84d4c2e1093baa7b148f907f434f02eb4ff6d,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen3-14B
+library_name: transformers
+---
+# Qwen3 14B for Bengali: Continual pre-training only || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2025-07-07,0,,11,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen3-14B
+library_name: transformers
+---
+# Qwen3 14B for Bengali: Continual pre-training only",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Qwen3-14B-bn-lapt-madlad,1,1
+False,Qwen/Qwen3-14B,True,1702,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",ea178f35afd2f4c9f0bb6f3dbf9938e3de982b0e,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen3-14B
+library_name: transformers
+---
+# Qwen3 14B for Bengali: Vocabulary expansion || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2025-07-07,0,,13,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen3-14B
+library_name: transformers
+---
+# Qwen3 14B for Bengali: Vocabulary expansion",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Qwen3-14B-bn-madlad-mean-tuned,1,1
+False,Qwen/Qwen3-14B-Base,True,1732,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",1c5b1d797361c3b5201fad32130856630072e5ea,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen3-14B-Base
+library_name: transformers
+---
+# Qwen3 14B Base for Bengali: Vocabulary expansion || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2025-07-07,0,,11,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen3-14B-Base
+library_name: transformers
+---
+# Qwen3 14B Base for Bengali: Vocabulary expansion",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Qwen3-14B-Base-bn-madlad-mean-tuned,1,1
+False,Qwen/Qwen3-14B,True,1936,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",9b3df959a6fb4f8489431bdd0e21c49370049f9f,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen3-14B-Base
+- Qwen/Qwen3-14B
+- atsuki-yamaguchi/Qwen3-14B-Base-bn-madlad-mean-tuned
+library_name: transformers
+---
+# Qwen3 14B Base for Bengali: Chat Vector || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2025-07-07,0,,11,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen3-14B-Base
+- Qwen/Qwen3-14B
+- atsuki-yamaguchi/Qwen3-14B-Base-bn-madlad-mean-tuned
+library_name: transformers
+---
+# Qwen3 14B Base for Bengali: Chat Vector",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Qwen3-14B-Base-bn-madlad-mean-cv,1,1
+False,Qwen/Qwen3-14B,True,1836,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",f6988d8ad6904a501e78be5154b13b72b78e7421,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen3-14B
+library_name: transformers
+---
+# Qwen3 14B for Bengali: ElChat || * **Training**: This model was continually pre-trained on 500M target language tokens sampled from MADLAD-400.",2025-07-07,0,,15,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+datasets:
+- allenai/MADLAD-400
+language:
+- bn
+base_model:
+- Qwen/Qwen3-14B
+library_name: transformers
+---
+# Qwen3 14B for Bengali: ElChat",0,1,"- **Repository:** https://github.com/gucci-j/chat-cve
+- **Paper:** https://arxiv.org/abs/2412.11704",text-generation,False,atsuki-yamaguchi/Qwen3-14B-bn-madlad-mean-slerp-emb-special,1,1
+False,,True,9045,0,,705a9be4d31a143a7f4070b613ab0dda28b3af67,1,"---
+language:
+- bn
+- en
+license: cc-by-4.0
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- bengali
+- bangla
+- gemma3
+- instruction-tuned
+- tigerllm
+datasets:
+- md-nishat-008/Bangla-Instruct
+--- || ## Training data",2025-09-09,0,,1672,1,"| Identity fine-tune | Value |
+|---|---|
+| Data | 2,000 TigerLLM identity examples (Bangla and English) mixed with 6,000 Bangla-Instruct examples, so earlier skills are kept |
+| Method | LoRA (rank 16, alpha 32) on all attention and MLP projections, merged into the weights |
+| Epochs / learning rate",False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+license: cc-by-4.0
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- bengali
+- bangla
+- gemma3
+- instruction-tuned
+- tigerllm
+datasets:
+- md-nishat-008/Bangla-Instruct
+---",8,1,"[![ACL 2025](https://img.shields.io/badge/ACL_2025-Paper-blue?style=for-the-badge)](https://aclanthology.org/2025.acl-short.69/)
+[![TigerLLM-12B-it](https://img.shields.io/badge/🤗_TigerLLM--12B--it-orange?style=for-the-badge)](https://huggingface.co/md-nishat-008/TigerLLM-12B-it)
+[![TigerCoder-1B](h || Scores on six Bangla benchmarks, from Table 2 of the [TigerLLM paper (ACL 2025)](https://aclanthology.org/2025.acl-short.69/).",text-generation,False,md-nishat-008/TigerLLM-1B-it,1,1
+False,,True,9379,0,,373b305a92303c11a95320a61525e825d6bf7da3,1,"---
+language:
+- bn
+- en
+license: cc-by-4.0
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- bengali
+- bangla
+- gemma3
+- instruction-tuned
+- tigerllm
+datasets:
+- md-nishat-008/Bangla-Instruct
+--- || ## Training data",2025-09-14,0,,1802,1,"| Setting | Value |
+|---|---|
+| Base model | Gemma 3 (12B) |
+| Data | Bangla-Instruct: 312,577 unique instruction-response pairs (exact duplicates and one empty row removed), plus 2,000 TigerLLM identity examples in Bangla and English |
+| Method | LoRA on the decoder attention and MLP projections, m",False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+license: cc-by-4.0
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- bengali
+- bangla
+- gemma3
+- instruction-tuned
+- tigerllm
+datasets:
+- md-nishat-008/Bangla-Instruct
+---",5,1,"[![ACL 2025](https://img.shields.io/badge/ACL_2025-Paper-blue?style=for-the-badge)](https://aclanthology.org/2025.acl-short.69/)
+[![TigerLLM-1B-it](https://img.shields.io/badge/🤗_TigerLLM--1B--it-orange?style=for-the-badge)](https://huggingface.co/md-nishat-008/TigerLLM-1B-it)
+[![TigerCoder-12B](htt || Scores on six Bangla benchmarks, from Table 2 of the [TigerLLM paper (ACL 2025)](https://aclanthology.org/2025.acl-short.69/).",text-generation,False,md-nishat-008/TigerLLM-12B-it,1,1
+False,,True,23553,1,url: https://github.com/Polygl0t/lm-evaluation-harness/tree/polyglot_harness_bengali || url: https://github.com/Polygl0t/lm-evaluation-harness/tree/polyglot_harness_bengali,846c6594eff7bd0bcf9bb0da9ae7371fbc21a582,1,"---
+language:
+- bn
+license: apache-2.0
+library_name: transformers
+tags:
+- text-generation-inference
+datasets:
+- Polygl0t/gigakriya-v1
+metrics:
+- perplexity
+pipeline_tag: text-generation
+widget:
+- text: ""বাংলাদেশের রাজধানী হলো"" || dataset:",2025-10-01,0,,26,0,,False,1,,True,True,True,True,bn,1,"---
+language:
+- bn
+license: apache-2.0
+library_name: transformers
+tags:
+- text-generation-inference
+datasets:
+- Polygl0t/gigakriya-v1
+metrics:
+- perplexity
+pipeline_tag: text-generation
+widget:
+- text: ""বাংলাদেশের রাজধানী হলো""",0,0,,text-generation,False,Polygl0t/LilTii-v0.1,1,1
+False,,True,24690,1,url: https://github.com/Polygl0t/lm-evaluation-harness/tree/polyglot_harness_bengali || url: https://github.com/Polygl0t/lm-evaluation-harness/tree/polyglot_harness_bengali,ed36d2c99364551bccdda7bfe79b4d4789c16791,1,"---
+language:
+- bn
+- en
+license: apache-2.0
+library_name: transformers
+tags:
+- text-generation-inference
+datasets:
+- Polygl0t/gigakriya-v1
+- allenai/big-reasoning-traces
+- HuggingFaceTB/smollm-corpus
+- HuggingFaceTB/finemath
+- HuggingFaceFW/fineweb-edu
+- allenai/math-meta-reasoning-filtered
+- nvidia || dataset:",2025-10-09,0,,96,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+license: apache-2.0
+library_name: transformers
+tags:
+- text-generation-inference
+datasets:
+- Polygl0t/gigakriya-v1
+- allenai/big-reasoning-traces
+- HuggingFaceTB/smollm-corpus
+- HuggingFaceTB/finemath
+- HuggingFaceFW/fineweb-edu
+- allenai/math-meta-reasoning-filtered
+- nvidia",0,0,,text-generation,False,Polygl0t/LilTii-v0.2,1,1
+False,Qwen/Qwen3-1.7B,True,5081,1,"[![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",6b3c3f0ca6e083ba03aa38f045487036b27ba2f1,1,"- sft
+datasets: || **Supervised Fine-Tuning (SFT)**: Trained on GANIT-SFT (~11k examples) to ground reasoning in Bengali",2025-10-18,0,,19,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: apache-2.0
+base_model: Qwen/Qwen3-1.7B
+pipeline_tag: text-generation
+language:",0,1,"<a href=""https://arxiv.org/abs/2601.06767""> || [![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",text-generation,False,dipta007/GanitLLM-1.7B-SFT,1,1
+False,Qwen/Qwen3-4B,True,5025,1,"[![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",181b6a38f762f2c62f8d5c6e786197cb5e227795,1,"- sft
+datasets: || **Supervised Fine-Tuning (SFT)**: Trained on GANIT-SFT (~11k examples) to ground reasoning in Bengali",2025-10-20,0,,29,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: apache-2.0
+base_model: Qwen/Qwen3-4B
+pipeline_tag: text-generation
+language:",0,1,"<a href=""https://arxiv.org/abs/2601.06767""> || [![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",text-generation,False,dipta007/GanitLLM-4B-SFT,1,1
+False,Qwen/Qwen3-1.7B,True,8655,0,,285c591dfb555044807be449b979b6ca1d688b1b,1,"---
+library_name: transformers
+license: mit
+datasets:
+- md-nishat-008/Bangla-Instruct
+language:
+- en
+- bn
+metrics:
+- bleu
+- accuracy
+base_model:
+- Qwen/Qwen3-1.7B
+--- || - **Base Repository:** [Qwen/Qwen3-1.7B](https://huggingface.co/Qwen/Qwen3-1.7B)
+- **Training Dataset:** [swapnillo/Bangla-Instruction-Tuning-100K](https://huggingface.co/datasets/swapnillo/Bangla-Instruction-Tuning-100K)",2025-11-05,0,,30,1,"**Data Split:**
+- Training: 99% (~99,000 examples)
+- Validation: 1% (~1,000 examples)
+- Test split ratio: 0.01, seed: 42",False,1,,True,True,True,True,en;bn,1,"---
+library_name: transformers
+license: mit
+datasets:
+- md-nishat-008/Bangla-Instruct
+language:
+- en
+- bn
+metrics:
+- bleu
+- accuracy
+base_model:
+- Qwen/Qwen3-1.7B
+---",0,1,(2019)](https://arxiv.org/abs/1910.09700).,text-generation,False,swapnillo/Bangla-AI-1.7B,1,1
+False,,True,2876,0,,8bdea2b0692d18ee4a342cb5ddf09e031dc9999b,0,,2025-11-07,0,,22,0,,False,1,,True,True,True,True,bn,1,"---
+language: bn
+license: apache-2.0
+tags:",0,0,,text-generation,False,dheeyantra/dhee-nxtgen-qwen3-bengali-v2,1,1
+False,Qwen/Qwen3-0.6B,True,5060,1,"[![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",e142f4df5ec1c32fc9cf74ddf5e0e3ce6b6407cb,1,"- sft
+datasets: || **Supervised Fine-Tuning (SFT)**: Trained on GANIT-SFT (~11k examples) to ground reasoning in Bengali",2025-11-18,0,,53,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: apache-2.0
+base_model: Qwen/Qwen3-0.6B
+pipeline_tag: text-generation
+language:",0,1,"<a href=""https://arxiv.org/abs/2601.06767""> || [![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",text-generation,False,dipta007/GanitLLM-0.6B-SFT,1,1
+False,Qwen/Qwen2.5-1.5B;Qwen/Qwen2.5-1.5B-Instruct,True,884,1,"## 🛠️ Method
+Merged using [MergeKit](https://github.com/arcee-ai/mergekit) with the following config:
+- **Method:** SLERP
+- **Precision:** float16
+- **Parameters:** 1.5 Billion",a80d64f9126da4827c993f4c93db5ce9f24ade87,0,,2025-11-19,0,,22,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+library_name: transformers
+tags:
+- merge
+- mergekit
+- low-resource
+- mathematics
+base_model:
+- Qwen/Qwen2.5-1.5B
+- Qwen/Qwen2.5-1.5B-Instruct
+license: apache-2.0
+---",0,0,,text-generation,False,Noushad999/Polymath-1.5B-Bengali-Math,1,1
+False,,True,1641,0,,2ce3c2763c382f05dcd9bf4eef120636657e2f88,1,"---
+base_model: unsloth/qwen2.5-3b-instruct-unsloth-bnb-4bit
+tags:
+- text-generation
+- conversational
+- emotional-ai
+- mental-health
+- multilingual
+- bengali
+- unsloth
+- qwen2
+- transformers
+language:
+- en
+- bn
+license: apache-2.0
+datasets:
+- Amod/mental_health_counseling_conversations
+- iamshnoo/al || - 🇧🇩 Speaks **English and Bengali** fluently
+- 💬 Trained on real emotional support conversations
+- 🎯 Recognizes when you're struggling and responds with care
+- 🌍 Understands cultural context (especially South Asian family dynamics)",2025-11-29,0,,10,0,,False,1,,True,True,True,True,en;bn,1,"---
+base_model: unsloth/qwen2.5-3b-instruct-unsloth-bnb-4bit
+tags:
+- text-generation
+- conversational
+- emotional-ai
+- mental-health
+- multilingual
+- bengali
+- unsloth
+- qwen2
+- transformers
+language:
+- en
+- bn
+license: apache-2.0
+datasets:
+- Amod/mental_health_counseling_conversations
+- iamshnoo/al",2,0,,text-generation,False,inanxr/Arete-OSS-3B,1,0
+False,MarinaraSpaghetti/NemoMix-Unleashed-12B;Retreatcost/KansenSakura-Eclipse-RP-12b;elinas/Chronos-Gold-12B-1.0;inflatebot/MN-12B-Mag-Mell-R1;redrix/patricide-12B-Unslop-Mell-v2,True,2102,1,"RP-king-12b is a merge of the following models using [mergekit](https://github.com/cg123/mergekit):
+* [MarinaraSpaghetti/NemoMix-Unleashed-12B](https://huggingface.co/MarinaraSpaghetti/NemoMix-Unleashed-12B)
+* [inflatebot/MN-12B-Mag-Mell-R1](https://huggingface.co/inflatebot/MN-12B-Mag-Mell-R1)
+* [e",8a0158579b2359a40268783b9babe0a491f619a8,0,,2025-11-30,0,,26,1,"0.1 Top A or 0.01-0.1 Min P,
+and with 0.8/1.75/2/0 DRY.",False,1,,True,True,True,True,en;bn,1,"---
+library_name: transformers
+license: apache-2.0
+tags:
+- merge
+- mergekit
+- lazymergekit
+- sillytavern
+- roleplay
+- rp
+- math
+- coding
+- mistral
+- 12b
+base_model:
+- MarinaraSpaghetti/NemoMix-Unleashed-12B
+- inflatebot/MN-12B-Mag-Mell-R1
+- elinas/Chronos-Gold-12B-1.0
+- Retreatcost/KansenSakura-Ecli",6,0,,text-generation,False,kainatq/RP-king-12b,1,1
+False,,True,5837,1,"- **Issues**: [GitHub Issues](https://github.com/KothaGPT/bilingual/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/KothaGPT/bilingual/discussions)
+- **Documentation**: [Project Docs](https://kothagpt.github.io/bilingual/)",476dca0e1c929e0e595c51538fcb60c125cd68a5,1,"- bangla
+datasets: || - KothaGPT/bilingual-corpus
+---",2025-12-10,0,,82,1,"### Benchmark Results
+- **Perplexity**: < 25 on bilingual test set
+- **Accuracy**: > 85% on classification tasks
+- **Inference Speed**: ~50 tokens/second on CPU",False,1,,True,True,True,True,bn;en,1,"- en
+license: apache-2.0
+library_name: transformers
+pipeline_tag: text-generation
+tags:",0,0,,text-generation,False,KothaGPT/bilingual-lm,1,1
+False,,True,2301,0,,5eaed7dcfa8e1e75b65990a17f3083e731d84270,1,"---
+language:
+- bn
+datasets:
+- osamabinlikhon/bengali-text-dataset
+widget:
+- text: ""বাংলা ভাষা হলো""
+license: apache-2.0
+tags:
+- bengali
+- gpt2
+- language-model
+- text-generation
+- pytorch
+--- || - **Training Data:** Bengali text corpus
+- **Epochs:** 20
+- **Batch Size:** 4
+- **Learning Rate:** 0.001
+- **Max Length:** 256 tokens
+- **Optimizer:** AdamW",2025-12-26,0,,41,0,,False,1,,True,True,True,True,bn,1,"---
+language:
+- bn
+datasets:
+- osamabinlikhon/bengali-text-dataset
+widget:
+- text: ""বাংলা ভাষা হলো""
+license: apache-2.0
+tags:
+- bengali
+- gpt2
+- language-model
+- text-generation
+- pytorch
+---",0,0,,text-generation,False,OsamaBinLikhon/sheikh-bangla-110m,1,1
+False,Qwen/Qwen3-4B,True,5038,1,"[![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",54762e3dafe8f034fed5893da68057f9e124f0df,1,"- curriculum-learning
+datasets: || **Supervised Fine-Tuning (SFT)**: Trained on GANIT-SFT (~11k examples) to ground reasoning in Bengali
+2.",2026-01-01,0,,41,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: apache-2.0
+base_model: Qwen/Qwen3-4B
+pipeline_tag: text-generation
+language:",0,1,"<a href=""https://arxiv.org/abs/2601.06767""> || [![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",text-generation,False,dipta007/GanitLLM-4B_SFT_CGRPO,1,1
+False,Qwen/Qwen3-4B,True,4976,1,"[![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",708dceaf116f6ea05b1f3a92e66f1c1d29407c33,1,"- grpo
+datasets: || **Supervised Fine-Tuning (SFT)**: Trained on GANIT-SFT (~11k examples) to ground reasoning in Bengali
+2.",2026-01-01,0,,25,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: apache-2.0
+base_model: Qwen/Qwen3-4B
+pipeline_tag: text-generation
+language:",1,1,"<a href=""https://arxiv.org/abs/2601.06767""> || [![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",text-generation,False,dipta007/GanitLLM-4B_SFT_GRPO,1,1
+False,Qwen/Qwen3-4B,True,5161,1,"[![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",b50d6c5eb1885377b0dd5503fed6dc4602747db6,1,"- curriculum-learning
+datasets:",2026-01-01,0,,17,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: apache-2.0
+base_model: Qwen/Qwen3-4B
+pipeline_tag: text-generation
+language:",0,1,"<a href=""https://arxiv.org/abs/2601.06767""> || [![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",text-generation,False,dipta007/GanitLLM-4B_CGRPO,1,1
+False,Qwen/Qwen3-1.7B,True,5189,1,"[![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",f24e8023ede31d18ed8f6a6392336b83020f4ed3,1,"- curriculum-learning
+datasets:",2026-01-01,0,,57,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: apache-2.0
+base_model: Qwen/Qwen3-1.7B
+pipeline_tag: text-generation
+language:",0,1,"<a href=""https://arxiv.org/abs/2601.06767""> || [![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",text-generation,False,dipta007/GanitLLM-1.7B_CGRPO,1,1
+False,Qwen/Qwen3-1.7B,True,4999,1,"[![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",76945b0055717abc2bedda5afc6078777183b2bf,1,"- grpo
+datasets: || **Supervised Fine-Tuning (SFT)**: Trained on GANIT-SFT (~11k examples) to ground reasoning in Bengali
+2.",2026-01-01,0,,45,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: apache-2.0
+base_model: Qwen/Qwen3-1.7B
+pipeline_tag: text-generation
+language:",0,1,"<a href=""https://arxiv.org/abs/2601.06767""> || [![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",text-generation,False,dipta007/GanitLLM-1.7B_SFT_GRPO,1,1
+False,Qwen/Qwen3-1.7B,True,5071,1,"[![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",1d2b265e4e204118b403ab3336b1b9da1ce4fb6f,1,"- curriculum-learning
+datasets: || **Supervised Fine-Tuning (SFT)**: Trained on GANIT-SFT (~11k examples) to ground reasoning in Bengali
+2.",2026-01-01,0,,92,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: apache-2.0
+base_model: Qwen/Qwen3-1.7B
+pipeline_tag: text-generation
+language:",0,1,"<a href=""https://arxiv.org/abs/2601.06767""> || [![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",text-generation,False,dipta007/GanitLLM-1.7B_SFT_CGRPO,1,1
+False,Qwen/Qwen3-0.6B,True,5116,1,"[![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",60c46425ad429de80839123a86826f7ed3365474,1,"- curriculum-learning
+datasets: || **Supervised Fine-Tuning (SFT)**: Trained on GANIT-SFT (~11k examples) to ground reasoning in Bengali
+2.",2026-01-01,0,,32,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: apache-2.0
+base_model: Qwen/Qwen3-0.6B
+pipeline_tag: text-generation
+language:",0,1,"<a href=""https://arxiv.org/abs/2601.06767""> || [![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",text-generation,False,dipta007/GanitLLM-0.6B_SFT_CGRPO,1,1
+False,Qwen/Qwen3-0.6B,True,5044,1,"[![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",d112be0460a2d7ba8eb7f31310c0aff05f2bbf36,1,"- grpo
+datasets: || **Supervised Fine-Tuning (SFT)**: Trained on GANIT-SFT (~11k examples) to ground reasoning in Bengali
+2.",2026-01-01,0,,50,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: apache-2.0
+base_model: Qwen/Qwen3-0.6B
+pipeline_tag: text-generation
+language:",0,1,"<a href=""https://arxiv.org/abs/2601.06767""> || [![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",text-generation,False,dipta007/GanitLLM-0.6B_SFT_GRPO,1,1
+False,Qwen/Qwen3-0.6B,True,5171,1,"[![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",d433517a461e086096df1b751fe6ba45652cb57d,1,"- curriculum-learning
+datasets:",2026-01-01,0,,58,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: apache-2.0
+base_model: Qwen/Qwen3-0.6B
+pipeline_tag: text-generation
+language:",0,1,"<a href=""https://arxiv.org/abs/2601.06767""> || [![ACL 2026 (Findings)](https://img.shields.io/badge/ACL%202026-Findings-blue)](https://arxiv.org/abs/2601.06767)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06767-red)](https://arxiv.org/abs/2601.06767)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.github",text-generation,False,dipta007/GanitLLM-0.6B_CGRPO,1,1
+False,google/gemma-3-4b-it,True,6866,1,"[![EMNLP 2026 (Findings)](https://img.shields.io/badge/EMNLP%202026-Findings-blue)](https://arxiv.org/abs/2601.06853)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06853-red)](https://arxiv.org/abs/2601.06853)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.gi",5a7b2724ea050924c197dc65490a9710448a3233,1,"---
+library_name: transformers
+license: gemma
+license_link: https://ai.google.dev/gemma/terms
+pipeline_tag: text-generation
+tags:
+- math
+- reasoning
+- computational-graph
+- bangla
+- low-resource
+- distractor-aware
+- sft
+- small-model
+base_model:
+- google/gemma-3-4b-it
+language:
+- bn
+- en
+datasets:
+- || **Training data is not fully permissive.** Part of the SFT data and all GRPO prompts come
+from `numina-math-cot-bn`, which is **CC BY-NC-SA 4.0 (NonCommercial, ShareAlike)**.",2026-01-01,0,,29,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: gemma
+license_link: https://ai.google.dev/gemma/terms
+pipeline_tag: text-generation
+tags:
+- math
+- reasoning
+- computational-graph
+- bangla
+- low-resource
+- distractor-aware
+- sft
+- small-model
+base_model:
+- google/gemma-3-4b-it
+language:
+- bn
+- en
+datasets:
+-",1,1,"<a href=""https://arxiv.org/abs/2601.06853""> || [![EMNLP 2026 (Findings)](https://img.shields.io/badge/EMNLP%202026-Findings-blue)](https://arxiv.org/abs/2601.06853)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06853-red)](https://arxiv.org/abs/2601.06853)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.gi",text-generation,False,dipta007/dagger-4B_SFT,1,1
+False,google/gemma-3-12b-it,True,7511,1,"[![EMNLP 2026 (Findings)](https://img.shields.io/badge/EMNLP%202026-Findings-blue)](https://arxiv.org/abs/2601.06853)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06853-red)](https://arxiv.org/abs/2601.06853)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.gi",907f0400d10d74593e3ecdd2b4aef0933ab1776d,1,"---
+library_name: transformers
+license: gemma
+license_link: https://ai.google.dev/gemma/terms
+pipeline_tag: text-generation
+tags:
+- math
+- reasoning
+- computational-graph
+- bangla
+- low-resource
+- distractor-aware
+- sft
+base_model:
+- google/gemma-3-12b-it
+language:
+- bn
+- en
+datasets:
+- dipta007/dag || **Training data is not fully permissive.** Part of the SFT data and all GRPO prompts come
+from `numina-math-cot-bn`, which is **CC BY-NC-SA 4.0 (NonCommercial, ShareAlike)**.",2026-01-01,0,,39,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: gemma
+license_link: https://ai.google.dev/gemma/terms
+pipeline_tag: text-generation
+tags:
+- math
+- reasoning
+- computational-graph
+- bangla
+- low-resource
+- distractor-aware
+- sft
+base_model:
+- google/gemma-3-12b-it
+language:
+- bn
+- en
+datasets:
+- dipta007/dag",1,1,"<a href=""https://arxiv.org/abs/2601.06853""> || [![EMNLP 2026 (Findings)](https://img.shields.io/badge/EMNLP%202026-Findings-blue)](https://arxiv.org/abs/2601.06853)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06853-red)](https://arxiv.org/abs/2601.06853)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.gi",text-generation,False,dipta007/dagger-12B_SFT,1,1
+False,google/gemma-3-12b-it,True,12531,1,"[![EMNLP 2026 (Findings)](https://img.shields.io/badge/EMNLP%202026-Findings-blue)](https://arxiv.org/abs/2601.06853)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06853-red)](https://arxiv.org/abs/2601.06853)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.gi || - [Google Gemma](https://ai.google.dev/gemma) for the base model
+- [Unsloth](https://github.com/unslothai/unsloth) for efficient fine-tuning
+- [TRL](https://github.com/huggingface/trl) for GRPO implementation",b1ed309bdb9e3ad0fa6bfe3f269994c485f7050c,1,"---
+library_name: transformers
+license: gemma
+license_link: https://ai.google.dev/gemma/terms
+pipeline_tag: text-generation
+tags:
+- math
+- reasoning
+- computational-graph
+- bangla
+- low-resource
+- distractor-aware
+base_model:
+- google/gemma-3-12b-it
+language:
+- bn
+- en
+datasets:
+- dipta007/dagger
+-  || dataset:",2026-01-01,0,,26,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: gemma
+license_link: https://ai.google.dev/gemma/terms
+pipeline_tag: text-generation
+tags:
+- math
+- reasoning
+- computational-graph
+- bangla
+- low-resource
+- distractor-aware
+base_model:
+- google/gemma-3-12b-it
+language:
+- bn
+- en
+datasets:
+- dipta007/dagger
+- ",1,1,"<a href=""https://arxiv.org/abs/2601.06853""> || [![EMNLP 2026 (Findings)](https://img.shields.io/badge/EMNLP%202026-Findings-blue)](https://arxiv.org/abs/2601.06853)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06853-red)](https://arxiv.org/abs/2601.06853)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.gi",text-generation,False,dipta007/dagger-12B_SFT_GRPO,1,1
+False,google/gemma-3-4b-it,True,7779,1,"[![EMNLP 2026 (Findings)](https://img.shields.io/badge/EMNLP%202026-Findings-blue)](https://arxiv.org/abs/2601.06853)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06853-red)](https://arxiv.org/abs/2601.06853)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.gi",393b2c1a7bea9b731e35c5e6407804d9a4906d83,1,"---
+library_name: transformers
+license: gemma
+license_link: https://ai.google.dev/gemma/terms
+pipeline_tag: text-generation
+tags:
+- math
+- reasoning
+- computational-graph
+- bangla
+- low-resource
+- distractor-aware
+- small-model
+base_model:
+- google/gemma-3-4b-it
+language:
+- bn
+- en
+datasets:
+- dipta || **Training data is not fully permissive.** Part of the SFT data and all GRPO prompts come
+from `numina-math-cot-bn`, which is **CC BY-NC-SA 4.0 (NonCommercial, ShareAlike)**.",2026-01-04,0,,23,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: gemma
+license_link: https://ai.google.dev/gemma/terms
+pipeline_tag: text-generation
+tags:
+- math
+- reasoning
+- computational-graph
+- bangla
+- low-resource
+- distractor-aware
+- small-model
+base_model:
+- google/gemma-3-4b-it
+language:
+- bn
+- en
+datasets:
+- dipta",0,1,"<a href=""https://arxiv.org/abs/2601.06853""> || [![EMNLP 2026 (Findings)](https://img.shields.io/badge/EMNLP%202026-Findings-blue)](https://arxiv.org/abs/2601.06853)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06853-red)](https://arxiv.org/abs/2601.06853)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.gi",text-generation,False,dipta007/dagger-4B_SFT_GRPO,1,1
+False,google/gemma-3-4b-it,True,7738,1,"[![EMNLP 2026 (Findings)](https://img.shields.io/badge/EMNLP%202026-Findings-blue)](https://arxiv.org/abs/2601.06853)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06853-red)](https://arxiv.org/abs/2601.06853)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.gi",285647910a67bb51f5fc6aaaafa59cd420a039c4,1,"---
+library_name: transformers
+license: gemma
+license_link: https://ai.google.dev/gemma/terms
+pipeline_tag: text-generation
+tags:
+- math
+- reasoning
+- computational-graph
+- bangla
+- low-resource
+- distractor-aware
+- grpo
+- reinforcement-learning
+- small-model
+base_model:
+- google/gemma-3-4b-it
+langu || **Training data is not fully permissive.** Part of the SFT data and all GRPO prompts come
+from `numina-math-cot-bn`, which is **CC BY-NC-SA 4.0 (NonCommercial, ShareAlike)**.",2026-01-04,0,,18,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: gemma
+license_link: https://ai.google.dev/gemma/terms
+pipeline_tag: text-generation
+tags:
+- math
+- reasoning
+- computational-graph
+- bangla
+- low-resource
+- distractor-aware
+- grpo
+- reinforcement-learning
+- small-model
+base_model:
+- google/gemma-3-4b-it
+langu",0,1,"<a href=""https://arxiv.org/abs/2601.06853""> || [![EMNLP 2026 (Findings)](https://img.shields.io/badge/EMNLP%202026-Findings-blue)](https://arxiv.org/abs/2601.06853)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06853-red)](https://arxiv.org/abs/2601.06853)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.gi",text-generation,False,dipta007/dagger-4B_GRPO,1,1
+False,google/gemma-3-12b-it,True,7645,1,"[![EMNLP 2026 (Findings)](https://img.shields.io/badge/EMNLP%202026-Findings-blue)](https://arxiv.org/abs/2601.06853)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06853-red)](https://arxiv.org/abs/2601.06853)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.gi",0423a9d433e8d66d27696a561082bcd54bf89dc8,1,"---
+library_name: transformers
+license: gemma
+license_link: https://ai.google.dev/gemma/terms
+pipeline_tag: text-generation
+tags:
+- math
+- reasoning
+- computational-graph
+- bangla
+- low-resource
+- distractor-aware
+- grpo
+- reinforcement-learning
+base_model:
+- google/gemma-3-12b-it
+language:
+- bn
+- e || **Training data is not fully permissive.** Part of the SFT data and all GRPO prompts come
+from `numina-math-cot-bn`, which is **CC BY-NC-SA 4.0 (NonCommercial, ShareAlike)**.",2026-01-04,0,,21,0,,False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+license: gemma
+license_link: https://ai.google.dev/gemma/terms
+pipeline_tag: text-generation
+tags:
+- math
+- reasoning
+- computational-graph
+- bangla
+- low-resource
+- distractor-aware
+- grpo
+- reinforcement-learning
+base_model:
+- google/gemma-3-12b-it
+language:
+- bn
+- e",0,1,"<a href=""https://arxiv.org/abs/2601.06853""> || [![EMNLP 2026 (Findings)](https://img.shields.io/badge/EMNLP%202026-Findings-blue)](https://arxiv.org/abs/2601.06853)
+[![Paper](https://img.shields.io/badge/arXiv-2601.06853-red)](https://arxiv.org/abs/2601.06853)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://dipta007.gi",text-generation,False,dipta007/dagger-12B_GRPO,1,1
+False,,True,10889,0,,3445b9d01ac99af35fbdc9bf16a96d8ae69436fb,1,"The tokenizer is a **SentencePiece BPE (Byte-Pair Encoding) tokenizer**, trained exclusively on a **Bangla-only corpus**. || It features a **vocabulary size of 32,000** unique tokens and incorporates several mandatory special tokens:",2026-01-08,0,,11,0,,False,1,,True,True,True,True,bn,1,"---
+library_name: transformers
+tags:
+- Bangla
+- nlp
+- decoder-only
+- causal-lm
+- Lora
+- code-generation
+- agentic-ai
+- from-scratch
+metrics:
+- pass@k
+- task-completion-rate
+model_name: Sheikh-ABF
+language: bn
+license: mit
+---",0,0,,text-generation,False,likhonsheikh/Sheikh-ABF,1,1
+False,ibm-granite/granite-4.0-micro,True,7612,1,[[Paper]](https://arxiv.org/abs/2601.14051) [[Code]](https://github.com/Peter-Devine/kakugo) [[Dataset]](https://huggingface.co/datasets/ptrdvn/kakugo-ben) || Full details of how this model was created (and how you can train a model in your own chosen language) can be found on our [Github repo](https://github.com/Peter-Devine/kakugo).,3e0ac5c9402d9a407be674fe5df39e73cc509f7e,1,"---
+license: apache-2.0
+datasets:
+- ptrdvn/kakugo-ben
+language:
+- bn
+base_model:
+- ibm-granite/granite-4.0-micro
+pipeline_tag: text-generation
+tags:
+- low-resource-language
+- data-distillation
+- conversation
+- bn
+- Bengali || # Training data",2026-01-27,0,,24,0,,False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+datasets:
+- ptrdvn/kakugo-ben
+language:
+- bn
+base_model:
+- ibm-granite/granite-4.0-micro
+pipeline_tag: text-generation
+tags:
+- low-resource-language
+- data-distillation
+- conversation
+- bn
+- Bengali",2,1,[[Paper]](https://arxiv.org/abs/2601.14051) [[Code]](https://github.com/Peter-Devine/kakugo) [[Dataset]](https://huggingface.co/datasets/ptrdvn/kakugo-ben) || More details about exactly how we created our data can be found in [our paper](https://arxiv.org/abs/2601.14051).,text-generation,False,ptrdvn/kakugo-3B-ben,1,1
+False,google/mt5-small,True,3534,1,"- **Developed by:** Manav Dhamecha, Gaurav Damor, Sunil Choudhary, Pruthwik Mishra
+- **License:** MIT
+- **Base model:** [google/mt5-small](https://huggingface.co/google/mt5-small)
+- **Paper:** [Team Horizon at BHASHA Task 1](https://aclanthology.org/2025.bhasha-1.14/)
+- **Repository:** [manavdhamech",136849e747da592cd4539ece6a7658daa596cb5c,1,Training data was expanded from ~598 annotated pairs to ~10k pairs using a synthetic error injection pipeline that introduces realistic errors across 10 linguistic categories.,2026-01-28,0,,16,1,"**GLEU Score on Bangla test set: 82.69** || | Parameter | Value |
+|---|---|
+| Optimizer | AdamW |
+| Learning Rate | 5e-5 |
+| Batch Size | 16–32 |
+| Epochs | 10–15 |
+| Max Sequence Length | 128 |
+| Early Stopping | Based on GLEU (dev set) |",False,1,,True,True,True,True,bn,1,"---
+license: mit
+language:
+- bn
+metrics:
+- google_bleu
+base_model:
+- google/mt5-small
+pipeline_tag: text2text-generation
+library_name: transformers
+tags:
+- grammatical-error-correction
+- indic-nlp
+- bangla
+- bengali
+- gec
+---",1,1,"- **Developed by:** Manav Dhamecha, Gaurav Damor, Sunil Choudhary, Pruthwik Mishra
+- **License:** MIT
+- **Base model:** [google/mt5-small](https://huggingface.co/google/mt5-small)
+- **Paper:** [Team Horizon at BHASHA Task 1](https://aclanthology.org/2025.bhasha-1.14/)
+- **Repository:** [manavdhamech || url       = {https://aclanthology.org/2025.bhasha-1.14/}
+}
+```",text-generation,False,manavdhamecha77/GEC-mT5-Small-Bangla,1,1
+False,mistralai/Mistral-7B-Instruct-v0.2,True,262,1,🔗 https://github.com/tajshuvoo/bangla_llm_distillation,1f4e957a263ef5ed4534b40ed4351b270f79497f,1,"---
+license: mit
+datasets:
+- md-nishat-008/Bangla-Instruct
+language:
+- bn
+base_model:
+- mistralai/Mistral-7B-Instruct-v0.2
+pipeline_tag: text-generation
+library_name: transformers
+---",2026-02-17,0,,18,0,,False,1,,True,True,True,True,bn,1,"---
+license: mit
+datasets:
+- md-nishat-008/Bangla-Instruct
+language:
+- bn
+base_model:
+- mistralai/Mistral-7B-Instruct-v0.2
+pipeline_tag: text-generation
+library_name: transformers
+---",2,0,,text-generation,False,tajshuvo/Bangla-Mistral-7B-Instruct-v0.2,1,1
+False,TinyLlama/TinyLlama-1.1B-Chat-v1.0,True,298,1,🔗 https://github.com/tajshuvoo/bangla_llm_distillation,2ff36d0803b4e426b172f2d661924f2a9f3dcce4,1,"---
+library_name: transformers
+license: mit
+datasets:
+- md-nishat-008/Bangla-Instruct
+language:
+- bn
+base_model:
+- TinyLlama/TinyLlama-1.1B-Chat-v1.0
+- mistralai/Mistral-7B-Instruct-v0.2
+pipeline_tag: text-generation
+---
+## GitHub Repository",2026-02-19,0,,25,0,,False,1,,True,True,True,True,bn,1,"---
+library_name: transformers
+license: mit
+datasets:
+- md-nishat-008/Bangla-Instruct
+language:
+- bn
+base_model:
+- TinyLlama/TinyLlama-1.1B-Chat-v1.0
+- mistralai/Mistral-7B-Instruct-v0.2
+pipeline_tag: text-generation
+---
+## GitHub Repository",0,0,,text-generation,False,tajshuvo/Bangla-TinyLlama-1.1B-Distilled,1,1
+False,md-nishat-008/TigerLLM-1B-it,True,11238,0,,5b95365917daf8a1129093879a2739ff0d761a1d,1,"---
+license: cc-by-4.0
+language:
+- bn
+- en
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- code
+- bangla
+- bengali
+- code-generation
+- gemma3
+- low-resource
+- tigercoder
+datasets:
+- md-nishat-008/Bangla-Code-Instruct
+base_model:
+- md-nishat-008/TigerLLM-1B-it
+--- || | Hyperparameter | Value |
+|:---|:---|
+| Base model | TigerLLM-1B-it |
+| Training data | Bangla-Code-Instruct (300K examples) |
+| Max sequence length | 2048 |
+| Batch size (train / eval) | 16 |
+| Gradient accumulation steps | 4 |
+| Epochs | 3 |
+| Learning rate | 1 × 10⁻⁵ |
+| Weight decay | 0.02 |
+| ",2026-02-27,0,,1234,1,"| Identity fine-tune | Value |
+|---|---|
+| Data | 2,000 TigerCoder identity examples (Bangla and English) mixed with 6,000 Bangla-Code-Instruct examples, so coding skill is kept |
+| Method | LoRA (rank 16, alpha 32) on all attention and MLP projections, merged into the weights |
+| Epochs / learning ",False,1,,True,True,True,True,bn;en,1,"---
+license: cc-by-4.0
+language:
+- bn
+- en
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- code
+- bangla
+- bengali
+- code-generation
+- gemma3
+- low-resource
+- tigercoder
+datasets:
+- md-nishat-008/Bangla-Code-Instruct
+base_model:
+- md-nishat-008/TigerLLM-1B-it
+---",0,1,"[![LREC 2026](https://img.shields.io/badge/LREC_2026-Paper-blue?style=for-the-badge)](https://aclanthology.org/2026.lrec-1.238/)
+[![TigerCoder-12B](https://img.shields.io/badge/🤗_TigerCoder--12B-orange?style=for-the-badge)](https://huggingface.co/md-nishat-008/TigerCoder-12B)
+[![TigerLLM-1B-it](http || Pass@K on Python tasks with Bangla prompts, from the [TigerCoder paper (LREC 2026)](https://aclanthology.org/2026.lrec-1.238/).",text-generation,False,md-nishat-008/TigerCoder-1B,1,1
+False,md-nishat-008/TigerLLM-12B-it,True,12484,0,,33e9dc202683b202db915abd61fb46113e1e0628,1,"---
+license: cc-by-4.0
+language:
+- bn
+- en
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- code
+- bangla
+- bengali
+- code-generation
+- gemma3
+- low-resource
+- tigercoder
+datasets:
+- md-nishat-008/Bangla-Code-Instruct
+base_model:
+- md-nishat-008/TigerLLM-12B-it
+--- || | Hyperparameter | Value |
+|:---|:---|
+| Training data | Bangla-Code-Instruct (300K examples) |
+| Max sequence length | 2048 |
+| Batch size (train / eval) | 32 |
+| Gradient accumulation steps | 8 |
+| Epochs | 3 |
+| Learning rate | 1 × 10⁻⁶ |
+| Weight decay | 0.04 |
+| Warm-up | 15% of steps |
+| Optim",2026-02-27,0,,591,1,"| Setting | Value |
+|---|---|
+| Base model | [TigerLLM-12B-it](https://huggingface.co/md-nishat-008/TigerLLM-12B-it) |
+| Data | Bangla-Code-Instruct: 294,883 unique instruction-code pairs (exact duplicates and one empty row removed), plus 2,000 TigerCoder identity examples in Bangla and English |
+| ",False,1,,True,True,True,True,bn;en,1,"---
+license: cc-by-4.0
+language:
+- bn
+- en
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- code
+- bangla
+- bengali
+- code-generation
+- gemma3
+- low-resource
+- tigercoder
+datasets:
+- md-nishat-008/Bangla-Code-Instruct
+base_model:
+- md-nishat-008/TigerLLM-12B-it
+---",0,1,"[![LREC 2026](https://img.shields.io/badge/LREC_2026-Paper-blue?style=for-the-badge)](https://aclanthology.org/2026.lrec-1.238/)
+[![TigerCoder-1B](https://img.shields.io/badge/🤗_TigerCoder--1B-orange?style=for-the-badge)](https://huggingface.co/md-nishat-008/TigerCoder-1B)
+[![TigerLLM-12B-it](https: || Pass@K on Python tasks with Bangla prompts, from the [TigerCoder paper (LREC 2026)](https://aclanthology.org/2026.lrec-1.238/).",text-generation,False,md-nishat-008/TigerCoder-12B,1,1
+False,,True,599,0,,d617f5b8fed10fd2e0a71764cf7444d65f758a47,0,,2026-03-10,0,,28,0,,False,1,,True,True,True,True,en;bn,1,"---
+language: [en, bn]
+license: apache-2.0
+tags:",0,0,,text-generation,False,red1-for-hek/drishti-ilm-x1,1,1
+False,HuggingFaceTB/SmolLM2-1.7B,True,5868,0,,58979054e52ed1afdad1f33a7c83f1edfbffac14,1,"---
+language:
+- bn
+- en
+license: apache-2.0
+library_name: transformers
+pipeline_tag: text-generation
+base_model: HuggingFaceTB/SmolLM2-1.7B
+tags:
+- banglish
+- bengali
+- conversational
+- fine-tuned
+- smollm2
+- local-inference
+- safety-aligned
+- low-resource-languages
+- code-switching
+- perception-lay || Built on [SmolLM2-1.7B](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B),
+further trained on Banglish conversation.",2026-03-15,0,,65,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+license: apache-2.0
+library_name: transformers
+pipeline_tag: text-generation
+base_model: HuggingFaceTB/SmolLM2-1.7B
+tags:
+- banglish
+- bengali
+- conversational
+- fine-tuned
+- smollm2
+- local-inference
+- safety-aligned
+- low-resource-languages
+- code-switching
+- perception-lay",0,1,"Cite the technical report, which describes how the models were built,
+trained and measured: <https://doi.org/10.5281/zenodo.22371896> || url       = {https://doi.org/10.5281/zenodo.22371896},",text-generation,False,sifat-febo/banglish-companion,1,1
+False,,True,10420,1,url: https://github.com/Polygl0t/lm-evaluation-harness || url: https://github.com/Polygl0t/lm-evaluation-harness,d0851b2656db3f89866100023110aa46ecffeaff,1,"- text-generation-inference
+datasets: || dataset:",2026-05-07,0,,22,0,,False,1,,True,True,True,True,bn,1,"- bn
+license: apache-2.0
+library_name: transformers
+tags:",0,0,,text-generation,False,Polygl0t/GigaKriya-ablation-EDU-1.5B,1,1
+False,,True,10450,1,url: https://github.com/Polygl0t/lm-evaluation-harness || url: https://github.com/Polygl0t/lm-evaluation-harness,3f1ab16ad478a6131aae58f02c961597927dfb20,1,"- text-generation-inference
+datasets: || dataset:",2026-05-07,0,,16,0,,False,1,,True,True,True,True,bn,1,"- bn
+license: apache-2.0
+library_name: transformers
+tags:",0,0,,text-generation,False,Polygl0t/GigaKriya-ablation-NonEDU-1.5B,1,1
+False,Qwen/Qwen3-1.7B,True,1312,0,,1a3165d888a574d2845f4a6f57991a5aaaebf3ad,0,,2026-05-25,0,,12,0,,False,1,,True,True,True,True,bn;en,1,"---
+base_model: Qwen/Qwen3-1.7B
+library_name: peft
+pipeline_tag: text-generation
+tags:
+- qwen3
+- lora
+- qlora
+- peft
+- maasathi
+- maternal-health
+- classifier
+language:
+- bn
+- en
+license: apache-2.0
+---",0,0,,text-generation,False,asim-alam/maasathi-qwen3-1-7b-query-classifier-lora,1,1
+False,ahmed-farhanur-rashid/bangla-gamba-base,True,4187,1,"- **GitHub Repository:** [ahmed-farhanur-rashid/bangla-gamba](https://github.com/ahmed-farhanur-rashid/bangla-gamba)
+- **Training Dataset:** [datasets/ahmed-farhanur-rashid/bn-foundational-pretrain-corpus](https://huggingface.co/datasets/ahmed-farhanur-rashid/bn-foundational-pretrain-corpus)",c8d6d3e6e76742a397452937578b1c9d462b11e8,1,"---
+language:
+- bn
+- en
+library_name: transformers
+tags:
+- custom-architecture
+- bangla
+- mamba-3
+- gqa
+- language-model
+license: cc-by-nc-sa-4.0
+datasets:
+- ahmed-farhanur-rashid/bn-foundational-pretrain-corpus
+base_model:
+- ahmed-farhanur-rashid/bangla-gamba-base
+---
+# BanglaGamba || | Property | Value |
+|----------|-------|
+| Parameters | ~200M |
+| Context Length | 2048 |
+| Architecture | Hybrid Mamba-3 + GQA (1:1 interleaved) |
+| Primary Language | Bengali |
+| Secondary Language | English |
+| Training Tokens | ~9.62B |
+| Training Dataset | `ahmed-farhanur-rashid/bn-foundationa",2026-06-16,0,,11,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+library_name: transformers
+tags:
+- custom-architecture
+- bangla
+- mamba-3
+- gqa
+- language-model
+license: cc-by-nc-sa-4.0
+datasets:
+- ahmed-farhanur-rashid/bn-foundational-pretrain-corpus
+base_model:
+- ahmed-farhanur-rashid/bangla-gamba-base
+---
+# BanglaGamba",1,0,,text-generation,False,ahmed-farhanur-rashid/bangla-gamba,1,1
+False,Qwen/Qwen3-8B,True,930,0,,8fa715a1a8587ff12d183b0e9d969e724db44938,1,"---
+library_name: peft
+base_model: Qwen/Qwen3-8B
+base_model_relation: adapter
+datasets:
+- Vacaspati/Vaiyakarana
+language:
+- bn
+license: apache-2.0
+tags:
+- lora
+- peft
+- bangla
+- grammar-correction
+- spelling-correction
+- shuddho
+- continued-training
+pipeline_tag: text-generation
+---",2026-06-22,0,,11,0,,False,1,,True,True,True,True,bn,1,"---
+library_name: peft
+base_model: Qwen/Qwen3-8B
+base_model_relation: adapter
+datasets:
+- Vacaspati/Vaiyakarana
+language:
+- bn
+license: apache-2.0
+tags:
+- lora
+- peft
+- bangla
+- grammar-correction
+- spelling-correction
+- shuddho
+- continued-training
+pipeline_tag: text-generation
+---",0,0,,text-generation,False,rummanali65/shuddho-qwen3-8b-vaiyakarana-98k-continued-lora,1,1
+False,,True,3187,0,,a6cfe6144bb113aeed7f13430b7b1ce6497a103a,1,"---
+language:
+- bn
+- en
+library_name: transformers
+tags:
+- custom-architecture
+- bangla
+- gdn
+- swa
+- gqa
+- language-model
+license: cc-by-nc-sa-4.0
+datasets:
+- ahmed-farhanur-rashid/bn-foundational-pretrain-corpus
+--- || BanglaGSG is a custom hybrid language model trained from scratch on a mixed corpus of Bangla (\~7.37B tokens), English (\~1.23B tokens) and Dual Translation set (\~1.03B tokens) totalling at \~9.62B tokens.",2026-07-05,0,,27,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+library_name: transformers
+tags:
+- custom-architecture
+- bangla
+- gdn
+- swa
+- gqa
+- language-model
+license: cc-by-nc-sa-4.0
+datasets:
+- ahmed-farhanur-rashid/bn-foundational-pretrain-corpus
+---",1,0,,text-generation,False,tasmin-jahan/bangla-gsg,1,1
+False,sumitsen/BanglaGptAi1.0,True,3570,0,,19e8aff7c5bbbc38abee69f3c4c2ac4c513f277c,0,,2026-07-07,0,,12,0,,False,1,,True,True,True,True,en;bn,1,"---
+license: apache-2.0
+license_link: https://huggingface.co/sumitsen/BanglaGptAi1.0/blob/main/LICENSE
+language:
+- en
+- bn
+pipeline_tag: text-generation
+base_model:
+- sumitsen/BanglaGptAi1.0
+tags:
+- chat
+library_name: transformers
+---",0,0,,text-generation,False,sumitsen/BanglaGptAi1.0,1,1
+False,spitfire4794/Alo-70m-Base,True,5976,0,,6106c2290ed2414ec554a2a800b00285bef90e46,1,"---
+language:
+- bn
+license: apache-2.0
+tags:
+- bengali
+- bangla
+- causal-lm
+- llama
+- custom-tokenizer
+- parameter-efficient
+- instruction-tuning
+- sft
+datasets:
+- spitfire4794/Bangla-SFT-50k
+metrics:
+- accuracy
+base_model:
+- spitfire4794/Alo-70m-Base
+pipeline_tag: text-generation
+library_name: tran || Fine-tuned on a curated dataset of instruction-response pairs using the **ChatML** format, Alo-70M is aligned for tasks such as summarization, entity extraction, text editing, and question answering in native Bengali.",2026-07-11,0,,35,0,,False,1,,True,True,True,True,bn,1,"---
+language:
+- bn
+license: apache-2.0
+tags:
+- bengali
+- bangla
+- causal-lm
+- llama
+- custom-tokenizer
+- parameter-efficient
+- instruction-tuning
+- sft
+datasets:
+- spitfire4794/Bangla-SFT-50k
+metrics:
+- accuracy
+base_model:
+- spitfire4794/Alo-70m-Base
+pipeline_tag: text-generation
+library_name: tran",3,0,,text-generation,False,spitfire4794/Alo-70m,1,1
+False,,True,5749,0,,1037f554794df7aad2bfb918599d89318a17edc4,1,"- distilbert
+datasets: || - nahid-hub/B-CORE-bengali-corpus
+model-index:",2026-07-11,0,,10,0,,False,1,,True,True,True,True,bn,1,"- bn
+license: cc-by-4.0
+library_name: transformers
+pipeline_tag: fill-mask
+tags:",0,0,,fill-mask,False,nahid-hub/BnLM-F-135m,1,1
+False,Qwen/Qwen3-8B,True,5777,1,"- 🌐 Website: [arifadito.com](https://arifadito.com)
+- 💻 GitHub: [github.com/Adiuk24](https://github.com/Adiuk24)
+- 📄 Eyla identity paper: [arXiv:2604.00009](https://arxiv.org/abs/2604.00009)
+- 🔧 Rust ML training verification tooling: [gradient-flow-arbiter](https://github.com/Adiuk24/gradient-flow-a",9e684abe21899925f5c498c72bcd29ac417d8ea2,1,"- **Coding-agent tendencies.** Trained on developer-style traces, it can over-prefer `shell_exec`/exploration for simple tasks and occasionally rewrite a provided file path — mitigate with a path-repair guard and tool-scoping in the harness.",2026-07-12,0,,33,0,,False,1,,True,True,True,True,en;bn,1,"---
+license: apache-2.0
+base_model: Qwen/Qwen3-8B
+language:
+- en
+- bn
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- trl
+- sft
+- tool-calling
+- function-calling
+- agent
+- on-device
+- eyla
+- bangla
+- qwen3
+---",0,1,"- 🌐 Website: [arifadito.com](https://arifadito.com)
+- 💻 GitHub: [github.com/Adiuk24](https://github.com/Adiuk24)
+- 📄 Eyla identity paper: [arXiv:2604.00009](https://arxiv.org/abs/2604.00009)
+- 🔧 Rust ML training verification tooling: [gradient-flow-arbiter](https://github.com/Adiuk24/gradient-flow-a",text-generation,False,Adiuk/eyla-qwen3-8b-tools-v2,1,1
+False,,True,5505,0,,02770ef484beee6c433b2ada98ec4182f34c5516,1,"- distilbert
+datasets: || - nahid-hub/B-CORE-bengali-corpus
+model-index:",2026-07-13,0,,26,0,,False,1,,True,True,True,True,bn,1,"- bn
+license: cc-by-4.0
+library_name: transformers
+pipeline_tag: fill-mask
+tags:",0,0,,fill-mask,False,nahid-hub/BnLM-C-66m,1,1
+False,DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking,True,7258,1,https://github.com/DropLychee/droplychee-2.0-40b,1819b7198f7533948875bb4623ce546cf18ac4e3,1,The model was fine-tuned using a curated multilingual instruction corpus emphasizing:,2026-07-19,0,,37,0,,False,1,,True,True,True,True,en;bn;multilingual,1,"---
+license: apache-2.0
+base_model:",2,0,,text-generation,False,droplychee/droplychee-2.0-40b,1,1
+False,HuggingFaceTB/SmolLM-135M,True,1936,0,,448f02ee028f7eaf4db4e0c35894d3a6c3c467e9,1,"## Model Summary
+- **Architecture**: SmolLM-135M Causal LM (135 Million Parameters)
+- **Tokenizer**: `ManipuriGPT-Tokenizer-v1.0` (8,000 vocabulary size, 0 `<unk>` emissions)
+- **Training Corpus**: `ManipuriGPT-Corpus-v1.0`
+- **Training Epochs**: 3.0 (13,596 steps)
+- **Final Train Loss**: `3.6246`
+-",2026-07-28,0,,12,0,,False,1,,True,True,True,True,mni;en;bn,1,"- bn
+license: apache-2.0
+tags:",0,0,,text-generation,False,nanskong/ManipuriGPT-135M-Base-v1.0,1,1
+False,md-nishat-008/TigerLLM-1B-it,True,8330,1,"This model is one of four architectures compared in a broader study, **""Beyond BLEU: Evaluating Automated Metric Reliability for Bengali Paraphrase Generation""** ([GitHub repo](https://github.com/AvinabhDutta-Dev/bangla-paraphrase-benchmark)), which benchmarks full fine-tuning vs. || - **Reproducibility:** Trained on a fixed 100,000-pair subset of BanglaParaphrase with a documented train/val/test split (see `processed_data/metadata.json` in the [GitHub repo](https://github.com/AvinabhDutta-Dev/bangla-paraphrase-benchmark)); decoding was fully deterministic (greedy, `do_sample=Fa",a8ab88b7be5247f2f0c61b9c6d724262f155bc41,1,"- text-generation
+datasets: || dataset:",2026-08-16,0,,17,1,"Evaluated only on the BanglaParaphrase test distribution; not evaluated on other domains, dialects, or languages. || Real outputs from this model on the held-out test set, judged 5/5 for both meaning preservation and fluency by the study's LLM-judge evaluation:",False,1,,True,True,True,True,bn,1,"---
+license: cc-by-4.0
+base_model: md-nishat-008/TigerLLM-1B-it
+tags: || ---
+license: cc-by-4.0
+---",1,1,"A [QLoRA](https://arxiv.org/abs/2305.14314) fine-tune of [md-nishat-008/TigerLLM-1B-it](https://huggingface.co/md-nishat-008/TigerLLM-1B-it) for **Bengali paraphrase generation**, trained on the [BanglaParaphrase](https://huggingface.co/datasets/csebuetnlp/BanglaParaphrase) dataset. || url = ""https://aclanthology.org/2025.acl-short.69/""
+}",text-generation,False,AvinabhDutta-Dev/bangla-paraphrase-tigerllm-qlora,1,1
+False,Qwen/Qwen2.5-1.5B-Instruct,True,9651,1,"This model is one of four architectures compared in a broader study, **""Beyond BLEU: Evaluating Automated Metric Reliability for Bengali Paraphrase Generation""** ([GitHub repo](https://github.com/AvinabhDutta-Dev/bangla-paraphrase-benchmark)), which benchmarks full fine-tuning vs. || - **Reproducibility:** Trained on a fixed 100,000-pair subset of BanglaParaphrase with a documented train/val/test split (see `processed_data/metadata.json` in the [GitHub repo](https://github.com/AvinabhDutta-Dev/bangla-paraphrase-benchmark)); decoding was fully deterministic (greedy, `do_sample=Fa",9e363dd689eec5a01fcdc464b76ac75dfa818304,1,"- text-generation
+datasets: || dataset:",2026-08-17,0,,15,1,"Evaluated only on the BanglaParaphrase test distribution; not evaluated on other domains, dialects, or languages. || Real outputs from this model on the held-out test set — one strong example and one genuine failure case, both from the study's LLM-judge evaluation, shown here deliberately for transparency rather than only showcasing favorable results:",False,1,,True,True,True,True,bn,1,"---
+license: apache-2.0
+base_model: Qwen/Qwen2.5-1.5B-Instruct
+tags: || ---
+license: apache-2.0
+---",1,1,"A [QLoRA](https://arxiv.org/abs/2305.14314) fine-tune of [Qwen/Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) for **Bengali paraphrase generation**, trained on the [BanglaParaphrase](https://huggingface.co/datasets/csebuetnlp/BanglaParaphrase) dataset.",text-generation,False,AvinabhDutta-Dev/bangla-paraphrase-qwen2.5-qlora,1,1
+False,,True,2264,0,,a8cb1e5ccefeafc148e3af9942fda4c3b57f1984,0,,2026-08-23,0,,53,0,,False,1,,True,True,True,True,en;hi;bn,1,"---
+license: apache-2.0
+language:
+- en
+- hi
+- bn
+library_name: transformers
+pipeline_tag: text-generation
+tags:
+- arka
+- causal-lm
+- grouped-query-attention
+- custom-code
+---",0,0,,text-generation,False,Abhayn01/ARKA-v3,1,1
+False,mistralai/Ministral-3-3B-Base-2512,True,3772,0,,727b514ca70757deea908c5f63eee922a7a2b274,1,"[Ministral-3-3B](https://huggingface.co/mistralai/Ministral-3-3B-Base-2512),
+further trained on Banglish conversation.",2026-09-01,0,,82,0,,False,1,,True,True,True,True,bn;en,1,"---
+base_model: mistralai/Ministral-3-3B-Base-2512
+language: [bn, en]
+license: apache-2.0
+pipeline_tag: text-generation
+library_name: transformers
+tags: [banglish, bengali, bangla, conversational, low-resource-languages]
+---",0,1,"Cite the technical report, which describes how the models were built,
+trained and measured: <https://doi.org/10.5281/zenodo.22371896> || url       = {https://doi.org/10.5281/zenodo.22371896},",text-generation,False,sifat-febo/banglish-companion-3b,1,1
+False,,True,2784,0,,6dc4b81f7ab57a879232ed841521f1aaff8cd975,0,,2026-09-06,0,,41,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+license: apache-2.0
+library_name: transformers
+tags:
+- xe_droplychee
+- mla
+- moe
+- multi-token-prediction
+- grpo
+- reasoning
+- causal-lm
+pipeline_tag: text-generation
+---",0,0,,text-generation,False,MD-Mushfiqur123/m-droplychee,1,0
+False,,True,2784,0,,7afaab9fdbc16a872396e95121fa3284d501f530,0,,2026-09-06,0,,40,0,,False,1,,True,True,True,True,bn;en,1,"---
+language:
+- bn
+- en
+license: apache-2.0
+library_name: transformers
+tags:
+- xe_droplychee
+- mla
+- moe
+- multi-token-prediction
+- grpo
+- reasoning
+- causal-lm
+pipeline_tag: text-generation
+---",0,0,,text-generation,False,MD-Mushfiqur123/xe-droplychee-v2,1,0
+False,,True,944,0,,b71a1bbcac3b79b38f93d1a2d37363d2ca6cd778,0,,2026-09-11,0,,84,0,,False,1,,True,True,True,True,bn;en,0,,0,0,,text-generation,False,munzurul/SPEAKLAR-RAG-1.7B,1,1
+False,,True,1809,0,,1ccc28e94e43860822096cd7821185852b3d9333,1,## Training data,2026-09-11,0,,93,0,,False,1,,True,True,True,True,bn;en,0,,0,0,,text-generation,False,munzurul/speaklar_gemma-3-1b-it,1,1
+False,,True,902,0,,88e3fc9dfeb98861b6ca670a3b042198e820bea6,0,,2026-09-18,0,,15,0,,False,1,,True,True,True,True,en;bn;multilingual,1,"---
+language:
+- en
+- bn
+- multilingual
+license: apache-2.0
+tags:
+- moe
+- 3t
+- sovereign-ai
+- bangladesh
+- qwen3.8
+- sparse-mixture-of-experts
+pipeline_tag: text-generation
+---",0,0,,text-generation,False,MD-Mushfiqur123/M-3T-Moe,0,0
+False,Qwen/Qwen2.5-1.5B-Instruct,True,5426,0,,623ed3447b70cff49976588b3054d3c977bc08bd,1,"---
+library_name: transformers
+base_model: Qwen/Qwen2.5-1.5B-Instruct
+license: apache-2.0
+language:
+- bn
+- en
+tags:
+- mathematics
+- bangla
+- bengali
+- education
+- lora
+- qwen2.5
+- baamr-bench
+pipeline_tag: text-generation
+datasets:
+- mdhamidhosen/BaAMR-Math-12K
+--- || A LoRA adapter for `Qwen/Qwen2.5-1.5B-Instruct` fine-tuned on **BaAMR-Math-12K**, a bilingual (Bangla + English) mathematics dataset of 12,000 records covering all 61 chapters of the NCTB Classes 6–10 mathematics textbooks (2026 editions), each record grounded to a textbook page in both editions.",2026-09-19,0,,35,1,"## Evaluation — held-out `test` split || 1,200 records (100 item families × 6 cells × 2 languages) that share **no template** with training: whole skill templates were held out, so no numeric variant of any training item is in the test set.",False,1,,True,True,True,True,bn;en,1,"---
+library_name: transformers
+base_model: Qwen/Qwen2.5-1.5B-Instruct
+license: apache-2.0
+language:
+- bn
+- en
+tags:
+- mathematics
+- bangla
+- bengali
+- education
+- lora
+- qwen2.5
+- baamr-bench
+pipeline_tag: text-generation
+datasets:
+- mdhamidhosen/BaAMR-Math-12K
+---",0,0,,text-generation,False,mdhamidhosen/baamr-math-qwen2.5-1.5b-12k,1,1
+False,Qwen/Qwen2.5-7B-Instruct,True,5333,1,"Finetuned on top of **Qwen 2.5 7B Instruct** using [Unsloth](https://github.com/unslothai/unsloth), this model acts as an expert Bangladeshi board examiner.",1f6f6bcc68de1ae8933ef2b5d8cd6addc2a3029b,1,"Finetuned on top of **Qwen 2.5 7B Instruct** using [Unsloth](https://github.com/unslothai/unsloth), this model acts as an expert Bangladeshi board examiner.",2026-09-23,0,,235,0,,False,1,,True,True,True,True,bn;en,1,"---
+base_model: Qwen/Qwen2.5-7B-Instruct
+tags:
+- nctb
+- education
+- rubric-evaluation
+- bengali
+- stem
+- math
+- higher-math
+- unsloth
+- transformers
+- text-generation
+- qwen2
+license: apache-2.0
+language:
+- bn
+- en
+pipeline_tag: text-generation
+---",1,0,,text-generation,False,syed181/sheratutor-qwen2.5-7b,1,1
+False,,True,9962,0,,65a6f90283f975a1654fc802d47f2c3024107b7c,0,,2026-09-25,0,,97,0,,False,1,,True,True,True,True,en;bn,1,"---
+language:
+- en
+- bn
+license: apache-2.0
+tags:
+- craftly-robot
+- craftly_robot
+- craftly-robot-2.0
+- moe
+- 103b
+- conversational
+- text-generation
+- foundation-model
+pipeline_tag: text-generation
+library_name: transformers
+---",0,0,,text-generation,False,MD-Mushfiqur123/droplychee-103b,1,1
+False,unsloth/Qwen3-4B-Instruct-2507,True,6193,1,Built on [Qwen3-4B-Instruct-2507](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507) by the Qwen team and fine-tuned with [Unsloth](https://github.com/unslothai/unsloth).,5474e8413b01af5dda04992ad3b22da263eae3ca,1,"The user turn must follow the same layout the model was trained on: || | | |
+|---|---|
+| Base model | `unsloth/Qwen3-4B-Instruct-2507` (trained on its 4-bit version, merged into 16-bit weights) |
+| Method | QLoRA supervised fine-tuning, loss on assistant replies only (`train_on_responses_only`) |
+| LoRA | r = 32, alpha = 32, dropout 0, on `q, k, v, o, gate, up, down` p",2026-09-29,0,,901,0,,False,1,,True,True,True,True,en;bn,1,"---
+license: apache-2.0
+base_model: unsloth/Qwen3-4B-Instruct-2507
+language:
+- en
+- bn
+pipeline_tag: text-generation
+library_name: transformers
+tags:
+- unsloth
+- qwen3
+- lora
+- sft
+- rag
+- bangla
+- banglish
+- customer-assistant
+---",1,0,,text-generation,False,abdullahalbaki/mgi-assistant-v1-qwen3-4b,1,1
+False,,True,1867,0,,ed484a2a0131c8da353ce7aa0d8a4b1988d11a95,1,"- mit-0
+datasets:",2026-10-24,0,,184,0,,False,1,,True,True,True,True,bn;en,1,"---
+license: mit
+library_name: transformers
+pipeline_tag: text-generation
+language:",0,0,,text-generation,False,logicwahid/Kotha-S1,1,1
+False,,True,1587,0,,f5dc8253cf72f4f183a1474ccb6b12ec5bff39aa,1,"- mit-0
+datasets:",2026-10-25,0,,425,0,,False,1,,True,True,True,True,bn;en,1,"---
+license: mit
+library_name: transformers
+pipeline_tag: text-generation
+language:",0,0,,text-generation,False,logicwahid/Kotha-S1-Instruct,1,1

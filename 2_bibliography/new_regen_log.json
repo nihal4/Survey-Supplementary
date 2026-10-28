@@ -1,0 +1,122 @@
+[
+ {
+  "key": "hossain-etal-2020-banfakenews",
+  "source": "acl-anthology",
+  "id": "2020.lrec-1.349"
+ },
+ {
+  "key": "bhattacharyya-etal-2023-vacaspati",
+  "source": "acl-anthology",
+  "id": "2023.ijcnlp-main.72"
+ },
+ {
+  "key": "diskin2021distributed",
+  "source": "KEPT (arXiv/no DOI)",
+  "id": "https://papers.nips.cc/paper/2021/hash/41a60377ba920919939d83326ebee5a1-Abstract.html"
+ },
+ {
+  "key": "zehady-etal-2026-banglallama",
+  "source": "acl-anthology",
+  "id": "2026.loreslm-1.7"
+ },
+ {
+  "key": "suryanarayanan-etal-2025-pralekha",
+  "source": "acl-anthology",
+  "id": "2025.ijcnlp-long.37"
+ },
+ {
+  "key": "rony2024banglaquad",
+  "source": "KEPT (arXiv/no DOI)",
+  "id": "10.48550/arXiv.2410.10229"
+ },
+ {
+  "key": "shafayat-etal-2024-benqa",
+  "source": "acl-anthology",
+  "id": "2024.findings-acl.68"
+ },
+ {
+  "key": "ekram-etal-2022-banglarqa",
+  "source": "acl-anthology",
+  "id": "2022.findings-emnlp.186"
+ },
+ {
+  "key": "yue2025pangea",
+  "source": "KEPT (arXiv/no DOI)",
+  "id": "https://openreview.net/forum?id=a3g214yEys"
+ },
+ {
+  "key": "ortizsuarez2019oscar",
+  "source": "doi.org",
+  "id": "10.14618/ids-pub-9021"
+ },
+ {
+  "key": "wenzek-etal-2020-ccnet",
+  "source": "acl-anthology",
+  "id": "2020.lrec-1.494"
+ },
+ {
+  "key": "clark-etal-2020-tydi",
+  "source": "doi.org",
+  "id": "10.1162/tacl_a_00317"
+ },
+ {
+  "key": "nllb2024scaling",
+  "source": "doi.org",
+  "id": "10.1038/s41586-024-07335-x"
+ },
+ {
+  "key": "federmann-etal-2022-ntrex",
+  "source": "acl-anthology",
+  "id": "2022.sumeval-1.4"
+ },
+ {
+  "key": "rust-etal-2021-good",
+  "source": "acl-anthology",
+  "id": "2021.acl-long.243"
+ },
+ {
+  "key": "petrov2023unfairness",
+  "source": "doi.org",
+  "id": "10.52202/075280-1608"
+ },
+ {
+  "key": "ahia-etal-2023-languages",
+  "source": "acl-anthology",
+  "id": "2023.emnlp-main.614"
+ },
+ {
+  "key": "mitchell2019modelcards",
+  "source": "doi.org",
+  "id": "10.1145/3287560.3287596"
+ },
+ {
+  "key": "gebru2021datasheets",
+  "source": "doi.org",
+  "id": "10.1145/3458723"
+ },
+ {
+  "key": "pineau2021reproducibility",
+  "source": "KEPT (arXiv/no DOI)",
+  "id": "https://jmlr.org/papers/v22/20-303.html"
+ },
+ {
+  "key": "dodge-etal-2019-show",
+  "source": "acl-anthology",
+  "id": "D19-1224"
+ },
+ {
+  "key": "sainz-etal-2023-nlp",
+  "source": "acl-anthology",
+  "id": "2023.findings-emnlp.722"
+ },
+ {
+  "key": "page2021prisma",
+  "source": "doi.org",
+  "id": "10.1136/bmj.n71"
+ },
+ {
+  "key": "cohen1960kappa",
+  "source": "doi.org",
+  "id": "10.1177/001316446002000104"
+ }
+]

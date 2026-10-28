@@ -1,0 +1,2495 @@
+[
+ {
+  "key": "agarwala-etal-2025-code",
+  "status": "check",
+  "issues": [
+   "pages missing (record 663-668)"
+  ],
+  "record_authors": [
+   "Agarwala, Abhishek",
+   "Islam, Shifat",
+   "Ghosh, Emon"
+  ],
+  "record_year": 2025,
+  "record_pages": "663-668",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "ahmad-etal-2025-bncontextqa",
+  "status": "check",
+  "issues": [
+   "pages missing (record 357-365)"
+  ],
+  "record_authors": [
+   "Ahmad, Adnan",
+   "Adiba, Labiba",
+   "Rasul, Namirah",
+   "Laskar, Md Tahmid Rahman",
+   "Ahmed, Sabbir"
+  ],
+  "record_year": 2025,
+  "record_pages": "357-365",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "ahmed-etal-2023-score",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Ahmed, Kawsar",
+   "Osama, Md",
+   "Islam, Md. Sirajul",
+   "Islam, Md Taosiful",
+   "Das, Avishek",
+   "Hoque, Mohammed Moshiul"
+  ],
+  "record_year": 2023,
+  "record_pages": "185-189",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "alam-etal-2025-cou",
+  "status": "check",
+  "issues": [
+   "pages missing (record 492-497)"
+  ],
+  "record_authors": [
+   "Alam, Ashraful",
+   "Aziz, Abdul",
+   "Chy, Abu Nowshed"
+  ],
+  "record_year": 2025,
+  "record_pages": "492-497",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "alam2021review",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Alam, Firoj",
+   "Hasan, Arid",
+   "Alam, Tanvirul",
+   "Khan, Akib",
+   "Tajrin, Janntatul",
+   "Khan, Naira",
+   "Chowdhury, Shammur Absar"
+  ],
+  "record_year": 2021,
+  "record_pages": null,
+  "record_venue": null
+ },
+ {
+  "key": "alamgir-haque-2023-team",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Alamgir, Refaat Mohammad",
+   "Haque, Amira"
+  ],
+  "record_year": 2023,
+  "record_pages": "168-173",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "amina-etal-2025-form",
+  "status": "check",
+  "issues": [
+   "pages missing (record 366-372)"
+  ],
+  "record_authors": [
+   "Amina, ",
+   "Abdullah, ",
+   "Al Mushabbir, Mueeze",
+   "Ahmed, Sabbir"
+  ],
+  "record_year": 2025,
+  "record_pages": "366-372",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "anam-etal-2025-hatenet",
+  "status": "check",
+  "issues": [
+   "pages missing (record 544-550)"
+  ],
+  "record_authors": [
+   "Anam, Mohaymen Ul",
+   "Mazumder, Akm Moshiur Rahman",
+   "Islam, Ashraful",
+   "Rahman, Akmmahbubur",
+   "Amin, M Ashraful"
+  ],
+  "record_year": 2025,
+  "record_pages": "544-550",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "asib-etal-2025-retriv",
+  "status": "check",
+  "issues": [
+   "pages missing (record 587-594)"
+  ],
+  "record_authors": [
+   "Asib, K M Nafi",
+   "Saha, Sourav",
+   "Hoque, Mohammed Moshiul"
+  ],
+  "record_year": 2025,
+  "record_pages": "587-594",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "bhattacharjee-etal-2022-banglabert",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Bhattacharjee, Abhik",
+   "Hasan, Tahmid",
+   "Ahmad, Wasi",
+   "Mubasshir, Kazi Samin",
+   "Islam, Md Saiful",
+   "Iqbal, Anindya",
+   "Rahman, M. Sohel",
+   "Shahriyar, Rifat"
+  ],
+  "record_year": 2022,
+  "record_pages": "1318-1327",
+  "record_venue": "Findings of the Association for Computational Linguistics: NAACL 2022"
+ },
+ {
+  "key": "bhattacharjee-etal-2023-banglanlg",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Bhattacharjee, Abhik",
+   "Hasan, Tahmid",
+   "Ahmad, Wasi Uddin",
+   "Shahriyar, Rifat"
+  ],
+  "record_year": 2023,
+  "record_pages": "726-735",
+  "record_venue": "Findings of the Association for Computational Linguistics: EACL 2023"
+ },
+ {
+  "key": "bhattacharyya-bhattacharya-2025-banglabyt5",
+  "status": "check",
+  "issues": [
+   "pages missing (record 5551-5560)"
+  ],
+  "record_authors": [
+   "Bhattacharyya, Pramit",
+   "Bhattacharya, Arnab"
+  ],
+  "record_year": 2025,
+  "record_pages": "5551-5560",
+  "record_venue": "Findings of the Association for Computational Linguistics: EMNLP 2025"
+ },
+ {
+  "key": "bhuiyan-etal-2025-bhasabodh",
+  "status": "check",
+  "issues": [
+   "pages missing (record 113-118)"
+  ],
+  "record_authors": [
+   "Bhuiyan, Md. Tofael Ahmed",
+   "Rahman, Md. Abdur",
+   "Masum, Abdul Kadar Muhammad"
+  ],
+  "record_year": 2025,
+  "record_pages": "113-118",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "bijoy-etal-2023-advancing",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Bijoy, Mehedi Hasan",
+   "Faria, Mir Fatema Afroz",
+   "E Sobhani, Mahbub",
+   "Ferdoush, Tanzid",
+   "Shatabda, Swakkhar"
+  ],
+  "record_year": 2023,
+  "record_pages": "18-25",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "bojanowski2017enriching",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Bojanowski, Piotr",
+   "Grave, Edouard",
+   "Joulin, Armand",
+   "Mikolov, Tomas"
+  ],
+  "record_year": 2017,
+  "record_pages": "135-146",
+  "record_venue": "Transactions of the Association for Computational Linguistics"
+ },
+ {
+  "key": "bulbul-2025-bicap",
+  "status": "check",
+  "issues": [
+   "pages missing (record 80-90)"
+  ],
+  "record_authors": [
+   "Bulbul, Md Aminul Kader"
+  ],
+  "record_year": 2025,
+  "record_pages": "80-90",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "chakma-hasan-2023-lowresource",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Chakma, Aunabil",
+   "Hasan, Masum"
+  ],
+  "record_year": 2023,
+  "record_pages": "347-353",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "chatterjee-etal-2023-vaclm",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Chatterjee, Shilpa",
+   "Evenss, P J Leo",
+   "Bhattacharyya, Pramit"
+  ],
+  "record_year": 2023,
+  "record_pages": "196-200",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "chowdhury-ferdous-2025-boigenre",
+  "status": "check",
+  "issues": [
+   "pages missing (record 249-258)"
+  ],
+  "record_authors": [
+   "Chowdhury, Rafi Hassan",
+   "Ferdous, Rahanuma Ryaan"
+  ],
+  "record_year": 2025,
+  "record_pages": "249-258",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "conneau-etal-2020-unsupervised",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Conneau, Alexis",
+   "Khandelwal, Kartikay",
+   "Goyal, Naman",
+   "Chaudhary, Vishrav",
+   "Wenzek, Guillaume",
+   "Guzmán, Francisco",
+   "Grave, Edouard",
+   "Ott, Myle",
+   "Zettlemoyer, Luke",
+   "Stoyanov, Veselin"
+  ],
+  "record_year": 2020,
+  "record_pages": "8440-8451",
+  "record_venue": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics"
+ },
+ {
+  "key": "conneau2018xnli",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Conneau, Alexis",
+   "Rinott, Ruty",
+   "Lample, Guillaume",
+   "Williams, Adina",
+   "Bowman, Samuel",
+   "Schwenk, Holger",
+   "Stoyanov, Veselin"
+  ],
+  "record_year": 2018,
+  "record_pages": "2475-2485",
+  "record_venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing"
+ },
+ {
+  "key": "das-etal-2023-emptymind",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Das, Udoy",
+   "Fatema, Karnis",
+   "Mia, Md Ayon",
+   "Yahan, Mahshar",
+   "Mowla, Md Sajidul",
+   "Ullah, Md Fayez",
+   "Sarker, Arpita",
+   "Murad, Hasan"
+  ],
+  "record_year": 2023,
+  "record_pages": "174-178",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "das-etal-2023-team",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Das, Rajesh",
+   "Maowa, Jannatul",
+   "Ajmain, Moshfiqur",
+   "Yeiad, Kabid",
+   "Islam, Mirajul",
+   "Khushbu, Sharun"
+  ],
+  "record_year": 2023,
+  "record_pages": "236-240",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "das-etal-2023-team-error",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Das, Rajesh",
+   "Yeiad, Kabid",
+   "Ajmain, Moshfiqur",
+   "Maowa, Jannatul",
+   "Islam, Mirajul",
+   "Khushbu, Sharun"
+  ],
+  "record_year": 2023,
+  "record_pages": "331-335",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "dehan-etal-2023-investigating",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Dehan, Farhan",
+   "Fahim, Md",
+   "Ali, Amin Ahsan",
+   "Amin, M Ashraful",
+   "Rahman, Akmmahbubur"
+  ],
+  "record_year": 2023,
+  "record_pages": "104-116",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "devlin-etal-2019-bert",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Devlin, Jacob",
+   "Chang, Ming-Wei",
+   "Lee, Kenton",
+   "Toutanova, Kristina"
+  ],
+  "record_year": 2019,
+  "record_pages": "4171-4186",
+  "record_venue": "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)"
+ },
+ {
+  "key": "dewan-rifat-2025-pybhasha",
+  "status": "check",
+  "issues": [
+   "pages missing (record 624-628)"
+  ],
+  "record_authors": [
+   "Dewan, Foyez Ahmed",
+   "Rifat, Nahid Montasir"
+  ],
+  "record_year": 2025,
+  "record_pages": "624-628",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "dey-etal-2023-semantics",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Dey, Krishno",
+   "Tarannum, Prerona",
+   "Hasan, Md. Arid",
+   "Palma, Francis"
+  ],
+  "record_year": 2023,
+  "record_pages": "225-229",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "dey-etal-2023-semantics-squad",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Dey, Krishno",
+   "Hasan, Md. Arid",
+   "Tarannum, Prerona",
+   "Palma, Francis"
+  ],
+  "record_year": 2023,
+  "record_pages": "312-316",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "dihan-etal-2025-teamb2b",
+  "status": "check",
+  "issues": [
+   "pages missing (record 642-655)"
+  ],
+  "record_authors": [
+   "Dihan, Mahir Labib",
+   "Ahmed, Sadif",
+   "Rahman, Md Nafiu"
+  ],
+  "record_year": 2025,
+  "record_pages": "642-655",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "fahim-2023-aambela",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Fahim, Md"
+  ],
+  "record_year": 2023,
+  "record_pages": "201-207",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "fahim-2023-aambela-blp",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Fahim, Md"
+  ],
+  "record_year": 2023,
+  "record_pages": "317-323",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "fahim-etal-2023-contextual",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Fahim, Md",
+   "Ali, Amin Ahsan",
+   "Amin, M Ashraful",
+   "Rahman, Akmmahbubur"
+  ],
+  "record_year": 2023,
+  "record_pages": "94-103",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "fahim-khan-2025-perceptionlab",
+  "status": "check",
+  "issues": [
+   "pages missing (record 498-507)"
+  ],
+  "record_authors": [
+   "Fahim, Tamjid Hasan",
+   "Khan, Kaif Ahmed"
+  ],
+  "record_year": 2025,
+  "record_pages": "498-507",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "fahmid-etal-2025-nsu",
+  "status": "check",
+  "issues": [
+   "pages missing (record 595-600)"
+  ],
+  "record_authors": [
+   "Fahmid, Ahmad",
+   "Foysal, Fahim",
+   "Haider, Wasif",
+   "Rahman, Shafin",
+   "Arefeen, Md Adnan"
+  ],
+  "record_year": 2025,
+  "record_pages": "595-600",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "faisal2022bornon",
+  "status": "check",
+  "issues": [
+   "author count 7 vs record 5",
+   "author 1: bib 'faisal' vs record 'muhammad shah'",
+   "author 2: bib 'mayeesha' vs record 'humaira'",
+   "author 3: bib 'khan' vs record 'jim'",
+   "author 5: bib 'ahmed' vs record 'paul'",
+   "year 2022 vs record 2021"
+  ],
+  "record_authors": [
+   "Muhammad Shah, Faisal",
+   "Humaira, Mayeesha",
+   "Jim, Md Abidur Rahman Khan",
+   "Saha Ami, Amit",
+   "Paul, Shimul"
+  ],
+  "record_year": 2021,
+  "record_pages": null,
+  "record_venue": "SN Computer Science"
+ },
+ {
+  "key": "farazi-reza-2025-troopers",
+  "status": "check",
+  "issues": [
+   "pages missing (record 561-565)"
+  ],
+  "record_authors": [
+   "Farazi, Musa Tur",
+   "Reza, Nufayer Jahan"
+  ],
+  "record_year": 2025,
+  "record_pages": "561-565",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "fatema-etal-2023-emptymind",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Fatema, Karnis",
+   "Das, Udoy",
+   "Mia, Md Ayon",
+   "Mowla, Md Sajidul",
+   "Yahan, Mahshar",
+   "Ullah, Md Fayez",
+   "Sarker, Arpita",
+   "Murad, Hasan"
+  ],
+  "record_year": 2023,
+  "record_pages": "300-304",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "fetahu-etal-2023-multiconer",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Fetahu, Besnik",
+   "Chen, Zhiyu",
+   "Kar, Sudipta",
+   "Rokhlenko, Oleg",
+   "Malmasi, Shervin"
+  ],
+  "record_year": 2023,
+  "record_pages": "2027-2051",
+  "record_venue": "Findings of the Association for Computational Linguistics: EMNLP 2023"
+ },
+ {
+  "key": "gallegos-etal-2024-bias",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Gallegos, Isabel O.",
+   "Rossi, Ryan A.",
+   "Barrow, Joe",
+   "Tanjim, Md Mehrab",
+   "Kim, Sungchul",
+   "Dernoncourt, Franck",
+   "Yu, Tong",
+   "Zhang, Ruiyi",
+   "Ahmed, Nesreen K."
+  ],
+  "record_year": 2024,
+  "record_pages": "1097-1179",
+  "record_venue": "Computational Linguistics"
+ },
+ {
+  "key": "goswami-etal-2023-nlpbdpatriots",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Goswami, Dhiman",
+   "Raihan, Md Nishat",
+   "Puspo, Sadiya Sayara Chowdhury",
+   "Zampieri, Marcos"
+  ],
+  "record_year": 2023,
+  "record_pages": "286-292",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "goyal2022flores",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Goyal, Naman",
+   "Gao, Cynthia",
+   "Chaudhary, Vishrav",
+   "Chen, Peng-Jen",
+   "Wenzek, Guillaume",
+   "Ju, Da",
+   "Krishnan, Sanjana",
+   "Ranzato, Marc’Aurelio",
+   "Guzmán, Francisco",
+   "Fan, Angela"
+  ],
+  "record_year": 2022,
+  "record_pages": "522-538",
+  "record_venue": "Transactions of the Association for Computational Linguistics"
+ },
+ {
+  "key": "guo-etal-2023-pipeline",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Guo, Linsheng",
+   "Sifat, Md Habibur",
+   "Ahmed, Tashin"
+  ],
+  "record_year": 2023,
+  "record_pages": "26-33",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "haider-alam-2025-comprehensive",
+  "status": "check",
+  "issues": [
+   "pages missing (record 151-160)"
+  ],
+  "record_authors": [
+   "Haider, Irtifa",
+   "Alam, Shanjida",
+   "Hossan, Md. Tazel",
+   "Anwar, Md. Musfique",
+   "Aurpa, Tanjim Taharat"
+  ],
+  "record_year": 2025,
+  "record_pages": "151-160",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "haider-etal-2025-robustness",
+  "status": "check",
+  "issues": [
+   "pages missing (record 338-346)"
+  ],
+  "record_authors": [
+   "Haider, Fabiha",
+   "Ishmam, Md Farhan",
+   "Shifat, Fariha Tanjim",
+   "Adib, Md Tasmim Rahman",
+   "Fahim, Md",
+   "Bhuiyan, Md Farhad Alam"
+  ],
+  "record_year": 2025,
+  "record_pages": "338-346",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "haider2024banth",
+  "status": "check",
+  "issues": [
+   "author 5: bib 'rahman' vs record 'sourove'"
+  ],
+  "record_authors": [
+   "Haider, Fabiha",
+   "Shifat, Fariha Tanjim",
+   "Ishmam, Md Farhan",
+   "Barua, Deeparghya Dutta",
+   "Sourove, Md Sakib Ul Rahman",
+   "Fahim, Md",
+   "Alam, Md Farhad"
+  ],
+  "record_year": 2024,
+  "record_pages": null,
+  "record_venue": null
+ },
+ {
+  "key": "hasan-2025-catalyst",
+  "status": "check",
+  "issues": [
+   "pages missing (record 468-475)"
+  ],
+  "record_authors": [
+   "Hasan, Nahid"
+  ],
+  "record_year": 2025,
+  "record_pages": "468-475",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "hasan-etal-2023-blp",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Hasan, Md. Arid",
+   "Alam, Firoj",
+   "Anjum, Anika",
+   "Das, Shudipta",
+   "Anjum, Afiyat"
+  ],
+  "record_year": 2023,
+  "record_pages": "354-364",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "hasan-etal-2025-ecstasy",
+  "status": "check",
+  "issues": [
+   "pages missing (record 551-555)"
+  ],
+  "record_authors": [
+   "Hasan, Kazi Reyazul",
+   "Musarrat, Mubasshira",
+   "Adnan, Muhammad Abdullah"
+  ],
+  "record_year": 2025,
+  "record_pages": "551-555",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "hasan-etal-2025-musafir",
+  "status": "check",
+  "issues": [
+   "pages missing (record 577-581)"
+  ],
+  "record_authors": [
+   "Hasan, Sakibul",
+   "Abdullah, Md Tasin",
+   "Al Mahmud, Abdullah",
+   "Banu, Ayesha"
+  ],
+  "record_year": 2025,
+  "record_pages": "577-581",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "hasan-etal-2025-overview",
+  "status": "check",
+  "issues": [
+   "pages missing (record 388-401)"
+  ],
+  "record_authors": [
+   "Hasan, Md Arid",
+   "Alam, Firoj",
+   "Hossain, Md Fahad",
+   "Naseem, Usman",
+   "Ahmed, Syed Ishtiaque"
+  ],
+  "record_year": 2025,
+  "record_pages": "388-401",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "hasan-roy-dipta-2025-banglatalk",
+  "status": "check",
+  "issues": [
+   "pages missing (record 44-60)"
+  ],
+  "record_authors": [
+   "Hasan, Jakir",
+   "Roy Dipta, Shubhashis"
+  ],
+  "record_year": 2025,
+  "record_pages": "44-60",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "hoque-etal-2025-gradient",
+  "status": "check",
+  "issues": [
+   "pages missing (record 408-413)"
+  ],
+  "record_authors": [
+   "Hoque, Syed Mohaiminul",
+   "Rahman, Naimur",
+   "Hossain, Md Sakhawat"
+  ],
+  "record_year": 2025,
+  "record_pages": "408-413",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "hossain-etal-2023-nlp",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Hossain, Jawad",
+   "Ali Taher, Hasan Mesbaul",
+   "Das, Avishek",
+   "Hoque, Mohammed Moshiul"
+  ],
+  "record_year": 2023,
+  "record_pages": "241-246",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "hossan-etal-2025-cuet-nlp-zenith",
+  "status": "check",
+  "issues": [
+   "pages missing (record 443-452)"
+  ],
+  "record_authors": [
+   "Hossan, Md. Refaj",
+   "Ahmed, Kawsar",
+   "Hoque, Mohammed Moshiul"
+  ],
+  "record_year": 2025,
+  "record_pages": "443-452",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "hossan-roy-dipta-2025-promptguard",
+  "status": "check",
+  "issues": [
+   "pages missing (record 414-420)"
+  ],
+  "record_authors": [
+   "Hossan, Rakib",
+   "Roy Dipta, Shubhashis"
+  ],
+  "record_year": 2025,
+  "record_pages": "414-420",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "islam-etal-2021-sentnob-dataset",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Islam, Khondoker Ittehadul",
+   "Kar, Sudipta",
+   "Islam, Md Saiful",
+   "Amin, Mohammad Ruhul"
+  ],
+  "record_year": 2021,
+  "record_pages": "3265-3271",
+  "record_venue": "Findings of the Association for Computational Linguistics: EMNLP 2021"
+ },
+ {
+  "key": "islam-etal-2025-code",
+  "status": "check",
+  "issues": [
+   "pages missing (record 513-522)"
+  ],
+  "record_authors": [
+   "Islam, Shifat",
+   "Agarwala, Abhishek",
+   "Ghosh, Emon"
+  ],
+  "record_year": 2025,
+  "record_pages": "513-522",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "islam-etal-2025-pybangla",
+  "status": "check",
+  "issues": [
+   "pages missing (record 566-570)"
+  ],
+  "record_authors": [
+   "Islam, Jahidul",
+   "Ataullha, Md",
+   "Azad, Saiful"
+  ],
+  "record_year": 2025,
+  "record_pages": "566-570",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "islam-sarti-2025-reveal",
+  "status": "check",
+  "issues": [
+   "pages missing (record 31-43)"
+  ],
+  "record_authors": [
+   "Islam, Khondoker Ittehadul",
+   "Sarti, Gabriele"
+  ],
+  "record_year": 2025,
+  "record_pages": "31-43",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "jalil-etal-2025-barrier",
+  "status": "check",
+  "issues": [
+   "pages missing (record 571-576)"
+  ],
+  "record_authors": [
+   "Jalil, Sajed",
+   "Saha, Shuvo",
+   "Seym, Hossain Mohammad"
+  ],
+  "record_year": 2025,
+  "record_pages": "571-576",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "jawad-etal-2025-benchmarking",
+  "status": "check",
+  "issues": [
+   "pages missing (record 322-337)"
+  ],
+  "record_authors": [
+   "Jawad, Md Mahir",
+   "Ahmed, Rafid",
+   "Apan, Ishita Sur",
+   "Tomal, Tasnimul Hossain",
+   "Haider, Fabiha",
+   "Hossain, Mir Sazzat",
+   "Bhuiyan, Md Farhad Alam"
+  ],
+  "record_year": 2025,
+  "record_pages": "322-337",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "joy2025bnmmlu",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Joy, Saman Sarker",
+   "Shatabda, Swakkhar"
+  ],
+  "record_year": 2025,
+  "record_pages": null,
+  "record_venue": null
+ },
+ {
+  "key": "juboraj-etal-2025-bracu",
+  "status": "check",
+  "issues": [
+   "pages missing (record 656-662)"
+  ],
+  "record_authors": [
+   "Juboraj, Md. Fahmid-Ul-Alam",
+   "Niloy, Soumik Deb",
+   "E Sobhani, Mahbub",
+   "Sadeque, Farig"
+  ],
+  "record_year": 2025,
+  "record_pages": "656-662",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "kabir-etal-2023-bemolexbert",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Kabir, Ahasan",
+   "Roy, Animesh",
+   "Taheri, Zaima"
+  ],
+  "record_year": 2023,
+  "record_pages": "56-61",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "kabir-etal-2025-advancing",
+  "status": "check",
+  "issues": [
+   "pages missing (record 131-141)"
+  ],
+  "record_authors": [
+   "Kabir, Md Minhazul",
+   "Ahmed, Kawsar",
+   "Habib, Mohammad Ashfak",
+   "Hoque, Mohammed Moshiul"
+  ],
+  "record_year": 2025,
+  "record_pages": "131-141",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "kabir-etal-2025-bluck",
+  "status": "check",
+  "issues": [
+   "pages missing (record 161-179)"
+  ],
+  "record_authors": [
+   "Kabir, Daeen",
+   "Mahim, Minhajur Rahman Chowdhury",
+   "Shafayat, Sheikh",
+   "Sadik, Adnan",
+   "Ahmed, Arian",
+   "Kim, Eunsu",
+   "Oh, Alice"
+  ],
+  "record_year": 2025,
+  "record_pages": "161-179",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "kawser-etal-2025-hybrid",
+  "status": "check",
+  "issues": [
+   "pages missing (record 107-112)"
+  ],
+  "record_authors": [
+   "Kawser, Md Siddikul Imam",
+   "Al Abrar, Jidan",
+   "Kabir, Mehebub Bin",
+   "Chowdhury, Md. Rayhan",
+   "Bahari, Md Ataullah"
+  ],
+  "record_year": 2025,
+  "record_pages": "107-112",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "khan-etal-2023-banglachq",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Khan, Alvi",
+   "Kamal, Fida",
+   "Chowdhury, Mohammad Abrar",
+   "Ahmed, Tasnim",
+   "Laskar, Md Tahmid Rahman",
+   "Ahmed, Sabbir"
+  ],
+  "record_year": 2023,
+  "record_pages": "85-93",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "khisa-etal-2025-exploring",
+  "status": "check",
+  "issues": [
+   "pages missing (record 280-291)"
+  ],
+  "record_authors": [
+   "Khisa, Adity",
+   "Lia, Nusrat Jahan",
+   "Nafis, Tasnim Mahfuz",
+   "Masud, Zarif",
+   "Pial, Tanzir",
+   "Rayana, Shebuti",
+   "Kabir, Ahmedul"
+  ],
+  "record_year": 2025,
+  "record_pages": "280-291",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "khushbu-etal-2023-ushoshi2023",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Khushbu, Sharun",
+   "Nur, Nasheen",
+   "Ahmed, Mohiuddin",
+   "Nur, Nashtarin"
+  ],
+  "record_year": 2023,
+  "record_pages": "293-299",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "kudo2018sentencepiece",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Kudo, Taku",
+   "Richardson, John"
+  ],
+  "record_year": 2018,
+  "record_pages": "66-71",
+  "record_venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing: System Demonstrations"
+ },
+ {
+  "key": "laskar-paul-2025-bahash",
+  "status": "check",
+  "issues": [
+   "pages missing (record 402-407)"
+  ],
+  "record_authors": [
+   "Laskar, Sahinur Rahman",
+   "Paul, Bishwaraj"
+  ],
+  "record_year": 2025,
+  "record_pages": "402-407",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "li-etal-2023-crosslingual",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Li, Xiaoqian",
+   "Nie, Ercong",
+   "Liang, Sheng"
+  ],
+  "record_year": 2023,
+  "record_pages": "136-151",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "lia-etal-2025-read",
+  "status": "check",
+  "issues": [
+   "pages missing (record 61-79)"
+  ],
+  "record_authors": [
+   "Lia, Nusrat Jahan",
+   "Roy Dipta, Shubhashis",
+   "Zehady, Abdullah Khan",
+   "Islam, Naymul",
+   "Chakraborty, Madhusodan",
+   "Al Wasif, Abdullah"
+  ],
+  "record_year": 2025,
+  "record_pages": "61-79",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "liu-etal-2023-knowdee",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Liu, Xiaoyi",
+   "Teng, Mao",
+   "Yang, SHuangtao",
+   "Fu, Bo"
+  ],
+  "record_year": 2023,
+  "record_pages": "273-278",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "mahim-hasan-2025-teamhatemate",
+  "status": "check",
+  "issues": [
+   "pages missing (record 453-460)"
+  ],
+  "record_authors": [
+   "Mahim, Mahbub Islam",
+   "Hasan, Mehedi"
+  ],
+  "record_year": 2025,
+  "record_pages": "453-460",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "mahjabin-etal-2025-human",
+  "status": "check",
+  "issues": [
+   "pages missing (record 223-236)"
+  ],
+  "record_authors": [
+   "Mahjabin, Nowshin",
+   "Ruhan, Ahmed Shafin",
+   "Chowdhury, Mehreen",
+   "Fahim, Md",
+   "Hossain, MD Azam"
+  ],
+  "record_year": 2025,
+  "record_pages": "223-236",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "mahmud-etal-2025-grasp",
+  "status": "check",
+  "issues": [
+   "pages missing (record 8-30)"
+  ],
+  "record_authors": [
+   "Mahmud, Rasel",
+   "Mollah, Md. Abdur Rakib",
+   "Sharma, Aninda Kumar",
+   "Osama, Omar Faruq"
+  ],
+  "record_year": 2025,
+  "record_pages": "8-30",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "malmasi2022multiconer",
+  "status": "check",
+  "issues": [
+   "pages missing (record 1412-1437)"
+  ],
+  "record_authors": [
+   "Malmasi, Shervin",
+   "Fang, Anjie",
+   "Fetahu, Besnik",
+   "Kar, Sudipta",
+   "Rokhlenko, Oleg"
+  ],
+  "record_year": 2022,
+  "record_pages": "1412-1437",
+  "record_venue": "Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)"
+ },
+ {
+  "key": "mia-fahim-2025-banhateme",
+  "status": "check",
+  "issues": [
+   "pages missing (record 180-195)"
+  ],
+  "record_authors": [
+   "Mia, Md Ayon",
+   "Fahim, Md"
+  ],
+  "record_year": 2025,
+  "record_pages": "180-195",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "mobin2025summarization_review",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Mobin, MD Iftekharul",
+   "Mahadi, Mahamodul Hasan",
+   "Pathan, Al-Sakib Khan",
+   "Akhter, A. F. M. Suaib"
+  ],
+  "record_year": 2025,
+  "record_pages": "117",
+  "record_venue": "Big Data and Cognitive Computing"
+ },
+ {
+  "key": "monsur-etal-2023-synthnid",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Monsur, Syed",
+   "Kabir, Shariar",
+   "Chowdhury, Sakib"
+  ],
+  "record_year": 2023,
+  "record_pages": "117-123",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "mukherjee-etal-2023-low",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Mukherjee, Sourabrata",
+   "Bansal, Akanksha",
+   "Majumdar, Pritha",
+   "Ojha, Atul",
+   "Dusek, Ondrej"
+  ],
+  "record_year": 2023,
+  "record_pages": "34-47",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "mukherjee-etal-2023-ufal",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Mukherjee, Sourabrata",
+   "Ojha, Atul",
+   "Dusek, Ondrej"
+  ],
+  "record_year": 2023,
+  "record_pages": "220-224",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "mukherjee-etal-2023-ufal-uld",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Mukherjee, Sourabrata",
+   "Ojha, Atul",
+   "Dusek, Ondrej"
+  ],
+  "record_year": 2023,
+  "record_pages": "336-339",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "nabil-etal-2025-nsu",
+  "status": "check",
+  "issues": [
+   "pages missing (record 461-467)"
+  ],
+  "record_authors": [
+   "Nabil, Md. Mohibur Rahman",
+   "Kabir, Muhammad Rafsan",
+   "Islam, Rakib",
+   "Rahman, Fuad",
+   "Mohammed, Nabeel",
+   "Rahman, Shafin"
+  ],
+  "record_year": 2025,
+  "record_pages": "461-467",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "nahin2025titullms",
+  "status": "check",
+  "issues": [
+   "truncated author list ('and others'); record has 10"
+  ],
+  "record_authors": [
+   "Nahin, Shahriar Kabir",
+   "Nandi, Rabindra Nath",
+   "Sarker, Sagor",
+   "Muhtaseem, Quazi Sarwar",
+   "Kowsher, Md",
+   "Shill, Apu Chandraw",
+   "Ibrahim, Md",
+   "Menon, Mehadi Hasan",
+   "Muntasir, Tareq Al",
+   "Alam, Firoj"
+  ],
+  "record_year": 2025,
+  "record_pages": null,
+  "record_venue": null
+ },
+ {
+  "key": "nandi-etal-2023-pseudo",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Nandi, Rabindra Nath",
+   "Menon, Mehadi",
+   "Muntasir, Tareq",
+   "Sarker, Sagor",
+   "Muhtaseem, Quazi Sarwar",
+   "Islam, Md. Tariqul",
+   "Chowdhury, Shammur",
+   "Alam, Firoj"
+  ],
+  "record_year": 2023,
+  "record_pages": "152-162",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "niyogi-etal-2026-paramanu",
+  "status": "check",
+  "issues": [
+   "pages missing (record 41431-41458)"
+  ],
+  "record_authors": [
+   "Niyogi, Mitodru",
+   "Gaussier, Eric",
+   "Bhattacharya, Arnab"
+  ],
+  "record_year": 2026,
+  "record_pages": "41431-41458",
+  "record_venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+ },
+ {
+  "key": "oshin-etal-2023-bateclacor",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Oshin, Nabilah",
+   "Hoque, Syed",
+   "Fahim, Md",
+   "Ali, Amin Ahsan",
+   "Amin, M Ashraful",
+   "Rahman, Akmmahbubur"
+  ],
+  "record_year": 2023,
+  "record_pages": "124-135",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "ouyang2022instructgpt",
+  "status": "check",
+  "issues": [
+   "truncated author list ('and others'); record has 20",
+   "pages missing (record 27730-27744)"
+  ],
+  "record_authors": [
+   "Ouyang, Long",
+   "Wu, Jeffrey",
+   "Jiang, Xu",
+   "Almeida, Diogo",
+   "Wainwright, Carroll",
+   "Mishkin, Pamela",
+   "Zhang, Chong",
+   "Agarwal, Sandhini",
+   "Slama, Katarina",
+   "Ray, Alex",
+   "Schulman, John",
+   "Hilton, Jacob",
+   "Kelton, Fraser",
+   "Miller, Luke",
+   "Simens, Maddie",
+   "Askell, Amanda",
+   "Welinder, Peter",
+   "Christiano, Paul",
+   "Leike, Jan",
+   "Lowe, Ryan"
+  ],
+  "record_year": 2022,
+  "record_pages": "27730-27744",
+  "record_venue": "Advances in Neural Information Processing Systems 35"
+ },
+ {
+  "key": "page-etal-2023-mavericks",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Page, Saurabh",
+   "Mangalvedhekar, Sudeep",
+   "Deshpande, Kshitij",
+   "Chavan, Tanmay",
+   "Sonawane, Sheetal"
+  ],
+  "record_year": 2023,
+  "record_pages": "190-195",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "pal-das-2025-checksent",
+  "status": "check",
+  "issues": [
+   "pages missing (record 119-130)"
+  ],
+  "record_authors": [
+   "Pal, Pritam",
+   "Das, Dipankar"
+  ],
+  "record_year": 2025,
+  "record_pages": "119-130",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "pal-das-2025-ju",
+  "status": "check",
+  "issues": [
+   "pages missing (record 582-586)"
+  ],
+  "record_authors": [
+   "Pal, Pritam",
+   "Das, Dipankar"
+  ],
+  "record_year": 2025,
+  "record_pages": "582-586",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "poria-huang-2025-bhaasha",
+  "status": "check",
+  "issues": [
+   "pages missing (record 1386-1406)"
+  ],
+  "record_authors": [
+   "Poria, Sampoorna",
+   "Huang, Xiaolei"
+  ],
+  "record_year": 2025,
+  "record_pages": "1386-1406",
+  "record_venue": "Findings of the Association for Computational Linguistics: EMNLP 2025"
+ },
+ {
+  "key": "prama-2025-llms",
+  "status": "check",
+  "issues": [
+   "pages missing (record 292-308)"
+  ],
+  "record_authors": [
+   "Prama, Tabia Tanzin"
+  ],
+  "record_year": 2025,
+  "record_pages": "292-308",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "prama-etal-2025-computational",
+  "status": "check",
+  "issues": [
+   "pages missing (record 430-442)"
+  ],
+  "record_authors": [
+   "Prama, Tabia Tanzin",
+   "Danforth, Christopher M.",
+   "Dodds, Peter"
+  ],
+  "record_year": 2025,
+  "record_pages": "430-442",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "rahman-ali-2025-clustering",
+  "status": "check",
+  "issues": [
+   "pages missing (record 309-321)"
+  ],
+  "record_authors": [
+   "Rahman, Rifat",
+   "Ali, Mohammed Eunus"
+  ],
+  "record_year": 2025,
+  "record_pages": "309-321",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "rahman-etal-2023-bspell",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Rahman, Chowdhury",
+   "Rahman, MD.Hasibur",
+   "Zakir, Samiha",
+   "Rafsan, Mohammad",
+   "Ali, Mohammed Eunus"
+  ],
+  "record_year": 2023,
+  "record_pages": "7-17",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "rahman-etal-2025-alphaborno",
+  "status": "check",
+  "issues": [
+   "pages missing (record 615-623)"
+  ],
+  "record_authors": [
+   "Rahman, Mohammad Ashfaq Ur",
+   "Shochcho, Muhtasim Ibteda",
+   "Fahim, Md"
+  ],
+  "record_year": 2025,
+  "record_pages": "615-623",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "rahman-etal-2025-chakmabridge",
+  "status": "check",
+  "issues": [
+   "pages missing (record 259-265)"
+  ],
+  "record_authors": [
+   "Rahman, Md. Abdur",
+   "Bhuiyan, Md. Tofael Ahmed",
+   "Masum, Abdul Kadar Muhammad"
+  ],
+  "record_year": 2025,
+  "record_pages": "259-265",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "rahman-uzuner-2023-m1437",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Rahman, Majidur",
+   "Uzuner, Ozlem"
+  ],
+  "record_year": 2023,
+  "record_pages": "279-285",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "raihan-etal-2023-nlpbdpatriots",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Raihan, Md Nishat",
+   "Goswami, Dhiman",
+   "Puspo, Sadiya Sayara Chowdhury",
+   "Zampieri, Marcos"
+  ],
+  "record_year": 2023,
+  "record_pages": "179-184",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "raihan-etal-2023-offensive",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Raihan, Md Nishat",
+   "Tanmoy, Umma",
+   "Islam, Anika Binte",
+   "North, Kai",
+   "Ranasinghe, Tharindu",
+   "Anastasopoulos, Antonios",
+   "Zampieri, Marcos"
+  ],
+  "record_year": 2023,
+  "record_pages": "1-6",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "raihan-etal-2025-overview",
+  "status": "check",
+  "issues": [
+   "pages missing (record 373-387)"
+  ],
+  "record_authors": [
+   "Raihan, Nishat",
+   "Jawad, Mohammad Anas",
+   "Rahman, Md Mezbaur",
+   "Ulfat, Noshin",
+   "Gupta, Pranav",
+   "Rahman, Mehrab Mustafy",
+   "Karmaker, Santu",
+   "Zampieri, Marcos"
+  ],
+  "record_year": 2025,
+  "record_pages": "373-387",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "raihan2025tigerllm",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Raihan, Nishat",
+   "Zampieri, Marcos"
+  ],
+  "record_year": 2025,
+  "record_pages": null,
+  "record_venue": null
+ },
+ {
+  "key": "raquib-etal-2025-banhate",
+  "status": "check",
+  "issues": [
+   "pages missing (record 237-248)"
+  ],
+  "record_authors": [
+   "Raquib, Faisal Hossain",
+   "Mazumder, Akm Moshiur Rahman",
+   "Fuad, Md Tahmid Hasan",
+   "Ishmam, Md Farhan",
+   "Fahim, Md"
+  ],
+  "record_year": 2025,
+  "record_pages": "237-248",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "riad-2025-syntaxmind",
+  "status": "check",
+  "issues": [
+   "pages missing (record 508-512)"
+  ],
+  "record_authors": [
+   "Riad, Md. Shihab Uddin"
+  ],
+  "record_year": 2025,
+  "record_pages": "508-512",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "riyad-etal-2023-team",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Riyad, Omar",
+   "Chakraborty, Trina",
+   "Dey, Abhishek"
+  ],
+  "record_year": 2023,
+  "record_pages": "247-254",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "riyad-junaed-2025-adversaryai",
+  "status": "check",
+  "issues": [
+   "pages missing (record 629-641)"
+  ],
+  "record_authors": [
+   "Riyad, Omar Faruqe",
+   "Junaed, Jahedul Alam"
+  ],
+  "record_year": 2025,
+  "record_pages": "629-641",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "rohan-etal-2025-generative",
+  "status": "check",
+  "issues": [
+   "pages missing (record 347-356)"
+  ],
+  "record_authors": [
+   "Rohan, Shadman",
+   "Akhter, Mahmud Elahi",
+   "Moosa, Ibraheem Muhammad",
+   "Mohammed, Nabeel",
+   "Ali, Amin Ahsan",
+   "Rahman, Akmmahbubur"
+  ],
+  "record_year": 2025,
+  "record_pages": "347-356",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "romim-etal-2022-bd",
+  "status": "no-doi"
+ },
+ {
+  "key": "roy-2025-codeanubad",
+  "status": "check",
+  "issues": [
+   "pages missing (record 556-560)"
+  ],
+  "record_authors": [
+   "Roy, Soumyajit"
+  ],
+  "record_year": 2025,
+  "record_pages": "556-560",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "saadi-etal-2025-nala",
+  "status": "check",
+  "issues": [
+   "pages missing (record 601-607)"
+  ],
+  "record_authors": [
+   "Saadi, Hossain Shaikh",
+   "Alam, Faria",
+   "Sanz-Guerrero, Mario",
+   "Bui, Minh Duc",
+   "Mager, Manuel",
+   "von der Wense, Katharina"
+  ],
+  "record_year": 2025,
+  "record_pages": "601-607",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "saha-etal-2023-blp",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Saha, Sourav",
+   "Junaed, Jahedul Alam",
+   "Saleki, Maryam",
+   "Rahouti, Mohamed",
+   "Mohammed, Nabeel",
+   "Amin, Mohammad Ruhul"
+  ],
+  "record_year": 2023,
+  "record_pages": "255-265",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "saha-etal-2023-vio",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Saha, Sourav",
+   "Junaed, Jahedul Alam",
+   "Saleki, Maryam",
+   "Sen Sharma, Arnab",
+   "Rifat, Mohammad Rashidujjaman",
+   "Rahouti, Mohamed",
+   "Ahmed, Syed Ishtiaque",
+   "Mohammed, Nabeel",
+   "Amin, Mohammad Ruhul"
+  ],
+  "record_year": 2023,
+  "record_pages": "72-84",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "saha-etal-2025-retriv",
+  "status": "check",
+  "issues": [
+   "pages missing (record 485-491)"
+  ],
+  "record_authors": [
+   "Saha, Sourav",
+   "Asib, K M Nafi",
+   "Hoque, Mohammed Moshiul"
+  ],
+  "record_year": 2025,
+  "record_pages": "485-491",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "saha-nanda-2023-banglanlp",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Saha, Saumajit",
+   "Nanda, Albert"
+  ],
+  "record_year": 2023,
+  "record_pages": "163-167",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "saha-nanda-2023-banglanlp-blp",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Saha, Saumajit",
+   "Nanda, Albert"
+  ],
+  "record_year": 2023,
+  "record_pages": "266-272",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "sakib-etal-2023-intent",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Sakib, Fardin Ahsan",
+   "Karim, A H M Rezaul",
+   "Khan, Saadat Hasan",
+   "Rahman, Md Mushfiqur"
+  ],
+  "record_year": 2023,
+  "record_pages": "48-55",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "salim2023banglagpt",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Salim, Md. Shahidul",
+   "Murad, Hasan",
+   "Das, Dola",
+   "Ahmed, Faisal"
+  ],
+  "record_year": 2023,
+  "record_pages": "56-59",
+  "record_venue": "2023 International Conference on Information and Communication Technology for Sustainable Development (ICICT4SD)"
+ },
+ {
+  "key": "sami-etal-2025-comparative",
+  "status": "check",
+  "issues": [
+   "pages missing (record 266-279)"
+  ],
+  "record_authors": [
+   "Sami, K. M. Jubair",
+   "Sumit, Dipto",
+   "Hossain, Ariyan",
+   "Sadeque, Farig"
+  ],
+  "record_year": 2025,
+  "record_pages": "266-279",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "samin-2025-byte",
+  "status": "check",
+  "issues": [
+   "pages missing (record 1-7)"
+  ],
+  "record_authors": [
+   "Samin, Ahnaf Mozib"
+  ],
+  "record_year": 2025,
+  "record_pages": "1-7",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "sarkar-etal-2025-zero",
+  "status": "check",
+  "issues": [
+   "pages missing (record 91-106)"
+  ],
+  "record_authors": [
+   "Sarkar, Souvika",
+   "Hasan, Md Najib",
+   "Karmaker, Santu"
+  ],
+  "record_year": 2025,
+  "record_pages": "91-106",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "sayem-rahman-2025-velora",
+  "status": "check",
+  "issues": [
+   "pages missing (record 531-537)"
+  ],
+  "record_authors": [
+   "Sayem, Sad Yeamin",
+   "Rahman, Sabira"
+  ],
+  "record_year": 2025,
+  "record_pages": "531-537",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "sen2022bangla_review",
+  "status": "check",
+  "issues": [
+   "author count 7 vs record 11",
+   "author 5: bib 'kabir' vs record 'masud'",
+   "author 6: bib 'mamun' vs record 'hasan'",
+   "author 7: bib 'rahman' vs record 'awal'",
+   "pages 35811--35843 vs record 38999-39044"
+  ],
+  "record_authors": [
+   "Sen, Ovishake",
+   "Fuad, Mohtasim",
+   "Islam, Md. Nazrul",
+   "Rabbi, Jakaria",
+   "Masud, Mehedi",
+   "Hasan, Md. Kamrul",
+   "Awal, Md. Abdul",
+   "Ahmed Fime, Awal",
+   "Hasan Fuad, Md. Tahmid",
+   "Sikder, Delowar",
+   "Raihan Iftee, Md. Akil"
+  ],
+  "record_year": 2022,
+  "record_pages": "38999-39044",
+  "record_venue": "IEEE Access"
+ },
+ {
+  "key": "sennrich2016bpe",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Sennrich, Rico",
+   "Haddow, Barry",
+   "Birch, Alexandra"
+  ],
+  "record_year": 2016,
+  "record_pages": "1715-1725",
+  "record_venue": "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+ },
+ {
+  "key": "seth-etal-2023-rsm",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Seth, Pratinav",
+   "Goel, Rashi",
+   "Mathur, Komal",
+   "Vemulapalli, Swetha"
+  ],
+  "record_year": 2023,
+  "record_pages": "305-311",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "shahana-etal-2025-gen",
+  "status": "check",
+  "issues": [
+   "pages missing (record 142-150)"
+  ],
+  "record_authors": [
+   "Shahana, Shabrina Akter",
+   "Afrin, Nuzhat Nairy",
+   "Anwar, Md Musfique",
+   "Jahan, Israt"
+  ],
+  "record_year": 2025,
+  "record_pages": "142-150",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "shahriar-etal-2025-p6jiggasha",
+  "status": "check",
+  "issues": [
+   "pages missing (record 196-211)"
+  ],
+  "record_authors": [
+   "Shahriar, S.m.",
+   "Fuad, Md Tahmid Hasan",
+   "Fahim, Md",
+   "Hossain, Md. Azad"
+  ],
+  "record_year": 2025,
+  "record_pages": "196-211",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "shahrier-etal-2025-cuet",
+  "status": "check",
+  "issues": [
+   "pages missing (record 608-614)"
+  ],
+  "record_authors": [
+   "Shahrier, Md Kaf",
+   "Rashid, Suhana Binta",
+   "Ali Taher, Hasan Mesbaul",
+   "Hoque, Mohammed Moshiul"
+  ],
+  "record_year": 2025,
+  "record_pages": "608-614",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "shibu-etal-2023-sust",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Shibu, Hrithik",
+   "Datta, Shrestha",
+   "Rahman, Zhalok",
+   "Sami, Shahrab",
+   "Miah, Md. Sumon",
+   "Fairooz, Raisa",
+   "Mollah, Md"
+  ],
+  "record_year": 2023,
+  "record_pages": "208-213",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "tahmid-etal-2025-pentaml",
+  "status": "check",
+  "issues": [
+   "pages missing (record 538-543)"
+  ],
+  "record_authors": [
+   "Tahmid, Intesar",
+   "Ahmed, Rafid",
+   "Jawad, Md Mahir",
+   "Uddin, Anam Borhan",
+   "Fahim, Md",
+   "Bhuiyan, Md Farhad Alam"
+  ],
+  "record_year": 2025,
+  "record_pages": "538-543",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "tarannum-etal-2023-z",
+  "status": "check",
+  "issues": [
+   "author count 4 vs record 3"
+  ],
+  "record_authors": [
+   "Tarannum, Prerona",
+   "Hasan, Md. Arid",
+   "Dey, Krishno"
+  ],
+  "record_year": 2023,
+  "record_pages": "324-330",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "tariquzzaman-etal-2023-linguists",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Tariquzzaman, Md.",
+   "Kader, Md Wasif",
+   "Anam, Audwit",
+   "Haque, Naimul",
+   "Kabir, Mohsinul",
+   "Mahmud, Hasan",
+   "Hasan, Md Kamrul"
+  ],
+  "record_year": 2023,
+  "record_pages": "214-219",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "thapa-etal-2023-assessing",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Thapa, Surendrabikram",
+   "Maratha, Ashwarya",
+   "Hasib, Khan Md",
+   "Nasim, Mehwish",
+   "Naseem, Usman"
+  ],
+  "record_year": 2023,
+  "record_pages": "62-71",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "tomal-etal-2025-lp",
+  "status": "check",
+  "issues": [
+   "pages missing (record 212-222)"
+  ],
+  "record_authors": [
+   "Tomal, Tasnimul Hossain",
+   "Uddin, Anam Borhan",
+   "Tahmid, Intesar",
+   "Hossain, Mir Sazzat",
+   "Fahim, Md",
+   "Bhuiyan, Md Farhad Alam"
+  ],
+  "record_year": 2025,
+  "record_pages": "212-222",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "tonmoy-2023-embeddings",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Tonmoy, S.m Towhidul Islam"
+  ],
+  "record_year": 2023,
+  "record_pages": "340-346",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "tripty-etal-2025-belite",
+  "status": "check",
+  "issues": [
+   "pages missing (record 421-429)"
+  ],
+  "record_authors": [
+   "Tripty, Zannatul Fardaush",
+   "Adib, Ibnul Mohammad",
+   "Fahad, Nafiz",
+   "Hussain, Muhammad Tanjib",
+   "Morol, Md Kishor"
+  ],
+  "record_year": 2025,
+  "record_pages": "421-429",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "tripty-etal-2025-cuet",
+  "status": "check",
+  "issues": [
+   "pages missing (record 523-530)"
+  ],
+  "record_authors": [
+   "Tripty, Hafsa Hoque",
+   "Tabassum, Laiba",
+   "Ali Taher, Hasan Mesbaul",
+   "Ahmed, Kawsar",
+   "Hoque, Mohammed Moshiul"
+  ],
+  "record_year": 2025,
+  "record_pages": "523-530",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "vaswani2017attention",
+  "status": "no-doi"
+ },
+ {
+  "key": "veeramani-etal-2023-lowresourcenlu",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Veeramani, Hariram",
+   "Thapa, Surendrabikram",
+   "Naseem, Usman"
+  ],
+  "record_year": 2023,
+  "record_pages": "230-235",
+  "record_venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)"
+ },
+ {
+  "key": "yang2019pawsx",
+  "status": "check",
+  "issues": [
+   "pages 3687--3692 vs record 3685-3690"
+  ],
+  "record_authors": [
+   "Yang, Yinfei",
+   "Zhang, Yuan",
+   "Tar, Chris",
+   "Baldridge, Jason"
+  ],
+  "record_year": 2019,
+  "record_pages": "3685-3690",
+  "record_venue": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)"
+ },
+ {
+  "key": "yasir-2025-heisenberg",
+  "status": "check",
+  "issues": [
+   "pages 476--484\", vs record 476-484"
+  ],
+  "record_authors": [
+   "Yasir, Samin"
+  ],
+  "record_year": 2025,
+  "record_pages": "476-484",
+  "record_venue": "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+ },
+ {
+  "key": "pfeiffer-etal-2022-lifting",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Pfeiffer, Jonas",
+   "Goyal, Naman",
+   "Lin, Xi",
+   "Li, Xian",
+   "Cross, James",
+   "Riedel, Sebastian",
+   "Artetxe, Mikel"
+  ],
+  "record_year": 2022,
+  "record_pages": "3479-3495",
+  "record_venue": "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
+ },
+ {
+  "key": "ustun-etal-2024-aya",
+  "status": "check",
+  "issues": [
+   "author 5: bib 'd'souza' vs record 'dsouza'"
+  ],
+  "record_authors": [
+   "Üstün, Ahmet",
+   "Aryabumi, Viraat",
+   "Yong, Zheng",
+   "Ko, Wei-Yin",
+   "D’souza, Daniel",
+   "Onilude, Gbemileke",
+   "Bhandari, Neel",
+   "Singh, Shivalika",
+   "Ooi, Hui-Lee",
+   "Kayid, Amr",
+   "Vargus, Freddie",
+   "Blunsom, Phil",
+   "Longpre, Shayne",
+   "Muennighoff, Niklas",
+   "Fadaee, Marzieh",
+   "Kreutzer, Julia",
+   "Hooker, Sara"
+  ],
+  "record_year": 2024,
+  "record_pages": "15894-15939",
+  "record_venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+ },
+ {
+  "key": "huang2025hallucination",
+  "status": "check",
+  "issues": [
+   "pages missing (record 1-55)"
+  ],
+  "record_authors": [
+   "Huang, Lei",
+   "Yu, Weijiang",
+   "Ma, Weitao",
+   "Zhong, Weihong",
+   "Feng, Zhangyin",
+   "Wang, Haotian",
+   "Chen, Qianglong",
+   "Peng, Weihua",
+   "Feng, Xiaocheng",
+   "Qin, Bing",
+   "Liu, Ting"
+  ],
+  "record_year": 2025,
+  "record_pages": "1-55",
+  "record_venue": "ACM Transactions on Information Systems"
+ },
+ {
+  "key": "chang2024llmeval",
+  "status": "check",
+  "issues": [
+   "pages missing (record 1-45)"
+  ],
+  "record_authors": [
+   "Chang, Yupeng",
+   "Wang, Xu",
+   "Wang, Jindong",
+   "Wu, Yuan",
+   "Yang, Linyi",
+   "Zhu, Kaijie",
+   "Chen, Hao",
+   "Yi, Xiaoyuan",
+   "Wang, Cunxiang",
+   "Wang, Yidong",
+   "Ye, Wei",
+   "Zhang, Yue",
+   "Chang, Yi",
+   "Yu, Philip S.",
+   "Yang, Qiang",
+   "Xie, Xing"
+  ],
+  "record_year": 2024,
+  "record_pages": "1-45",
+  "record_venue": "ACM Transactions on Intelligent Systems and Technology"
+ },
+ {
+  "key": "kakwani2020indicnlpsuite",
+  "status": "check",
+  "issues": [
+   "author 4: bib 'avadhani' vs record 'n.c.'",
+   "author 5: bib 'kumar' vs record 'bhattacharyya'",
+   "author 6: bib 'bhattacharyya' vs record 'khapra'",
+   "pages missing (record 4948-4961)"
+  ],
+  "record_authors": [
+   "Kakwani, Divyanshu",
+   "Kunchukuttan, Anoop",
+   "Golla, Satish",
+   "N.C., Gokul",
+   "Bhattacharyya, Avik",
+   "Khapra, Mitesh M.",
+   "Kumar, Pratyush"
+  ],
+  "record_year": 2020,
+  "record_pages": "4948-4961",
+  "record_venue": "Findings of the Association for Computational Linguistics: EMNLP 2020"
+ },
+ {
+  "key": "doddapaneni2023indictools",
+  "status": "check",
+  "issues": [
+   "author 4: bib 'shreyam' vs record 'goyal'",
+   "author 5: bib 'kumar' vs record 'khapra'",
+   "author 6: bib 'khapra' vs record 'kunchukuttan'",
+   "author 7: bib 'kunchukuttan' vs record 'kumar'",
+   "pages missing (record 12402-12426)"
+  ],
+  "record_authors": [
+   "Doddapaneni, Sumanth",
+   "Aralikatte, Rahul",
+   "Ramesh, Gowtham",
+   "Goyal, Shreya",
+   "Khapra, Mitesh M.",
+   "Kunchukuttan, Anoop",
+   "Kumar, Pratyush"
+  ],
+  "record_year": 2023,
+  "record_pages": "12402-12426",
+  "record_venue": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+ },
+ {
+  "key": "mhaske2023naamapadam",
+  "status": "check",
+  "issues": [
+   "author 4: bib 'ramesh' vs record 'khapra'",
+   "author 6: bib 'khapra' vs record 'murthy'",
+   "pages missing (record 10441-10456)"
+  ],
+  "record_authors": [
+   "Mhaske, Arnav",
+   "Kedia, Harshit",
+   "Doddapaneni, Sumanth",
+   "Khapra, Mitesh M.",
+   "Kumar, Pratyush",
+   "Murthy, Rudra",
+   "Kunchukuttan, Anoop"
+  ],
+  "record_year": 2023,
+  "record_pages": "10441-10456",
+  "record_venue": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+ },
+ {
+  "key": "gala2023indicanubad",
+  "status": "check",
+  "issues": [
+   "author count 12 vs record 14",
+   "author 7: bib 'nagireddy' vs record 'nawale'",
+   "author 8: bib 'priya' vs record 'sujatha'",
+   "author 9: bib 'tiwari' vs record 'puduppully'",
+   "author 10: bib 'kumar' vs record 'raghavan'",
+   "author 11: bib 'khapra' vs record 'kumar'",
+   "author 12: bib 'kunchukuttan' vs record 'khapra'"
+  ],
+  "record_authors": [
+   "Gala, Jay",
+   "Chitale, Pranjal A.",
+   "AK, Raghavan",
+   "Gumma, Varun",
+   "Doddapaneni, Sumanth",
+   "Kumar, Aswanth",
+   "Nawale, Janki",
+   "Sujatha, Anupama",
+   "Puduppully, Ratish",
+   "Raghavan, Vivek",
+   "Kumar, Pratyush",
+   "Khapra, Mitesh M.",
+   "Dabre, Raj",
+   "Kunchukuttan, Anoop"
+  ],
+  "record_year": 2023,
+  "record_pages": null,
+  "record_venue": null
+ },
+ {
+  "key": "blasi2022inequalities",
+  "status": "check",
+  "issues": [
+   "pages missing (record 5486-5505)"
+  ],
+  "record_authors": [
+   "Blasi, Damian",
+   "Anastasopoulos, Antonios",
+   "Neubig, Graham"
+  ],
+  "record_year": 2022,
+  "record_pages": "5486-5505",
+  "record_venue": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+ },
+ {
+  "key": "aji2022onecountry",
+  "status": "check",
+  "issues": [
+   "author count 16 vs record 12",
+   "author 5: bib 'mukherjee' vs record 'romadhony'",
+   "author 6: bib 'romadhony' vs record 'mahendra'",
+   "author 9: bib 'cahya' vs record 'prasojo'",
+   "author 10: bib 'susanto' vs record 'baldwin'",
+   "author 12: bib 'sennrich' vs record 'ruder'",
+   "pages missing (record 7226-7249)"
+  ],
+  "record_authors": [
+   "Aji, Alham Fikri",
+   "Winata, Genta Indra",
+   "Koto, Fajri",
+   "Cahyawijaya, Samuel",
+   "Romadhony, Ade",
+   "Mahendra, Rahmad",
+   "Kurniawan, Kemal",
+   "Moeljadi, David",
+   "Prasojo, Radityo Eko",
+   "Baldwin, Timothy",
+   "Lau, Jey Han",
+   "Ruder, Sebastian"
+  ],
+  "record_year": 2022,
+  "record_pages": "7226-7249",
+  "record_venue": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+ },
+ {
+  "key": "joulin2017bagoftricks",
+  "status": "check",
+  "issues": [
+   "pages missing (record 427-431)"
+  ],
+  "record_authors": [
+   "Joulin, Armand",
+   "Grave, Edouard",
+   "Bojanowski, Piotr",
+   "Mikolov, Tomas"
+  ],
+  "record_year": 2017,
+  "record_pages": "427-431",
+  "record_venue": "Proceedings of the 15th Conference of the European Chapter of the\n          Association for Computational Linguistics: Volume 2, Short Papers"
+ },
+ {
+  "key": "penedo2023refinedweb",
+  "status": "ok",
+  "issues": [],
+  "record_authors": [
+   "Penedo, Guilherme",
+   "Malartic, Quentin",
+   "Hesslow, Daniel",
+   "Cojocaru, Ruxandra",
+   "Cappelli, Alessandro",
+   "Alobeidli, Hamza",
+   "Pannier, Baptiste",
+   "Almazrouei, Ebtesam",
+   "Launay, Julien"
+  ],
+  "record_year": 2023,
+  "record_pages": null,
+  "record_venue": null
+ },
+ {
+  "key": "bhaskar1707banglasum",
+  "status": "no-doi"
+ }
+]

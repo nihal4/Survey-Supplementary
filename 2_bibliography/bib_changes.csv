@@ -1,0 +1,45 @@
+key,change,detail
+faisal2022bornon,corrected,"authors: 7 -> 5 (faisal, mayeesha, khan... -> shah, mayeesha, jim...) | year: 2022 -> 2021"
+goyal2022flores,corrected,title: 'The {Flores-101} Evaluation Benchmark for Low-Resource Machi' -> 'The {Flores-101} Evaluation Benchmark for Low-Resource and M'
+haider2024banth,corrected,"authors: 7 -> 7 (haider, shifat, ishmam... -> haider, shifat, ishmam...) | year: 2024 -> 2025 | pages: - -> 7232--7251 | venue: preprint -> Findings of the {A}ssociation for {C}omputational {L}inguistics: {NAAC"
+joy2025bnmmlu,corrected,year: 2025 -> 2026 | pages: - -> 12211--12230 | venue: preprint -> Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL}
+malmasi2022multiconer,corrected,pages: - -> 1412--1437
+nahin2025titullms,corrected,"authors: 2 -> 10 (nahin, others... -> nahin, nandi, sarker...) | pages: - -> 24922--24940 | venue: preprint -> Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL}"
+ouyang2022instructgpt,corrected,"authors: 11 -> 20 (ouyang, wu, jiang... -> ouyang, wu, jiang...) | pages: - -> 27730--27744"
+raihan2025tigerllm,corrected,pages: - -> 887--896 | venue: preprint -> Proceedings of the 63rd Annual Meeting of the {A}ssociation for {C}omp
+sen2022bangla_review,corrected,"title: 'Bangla Natural Language Processing: A Comprehensive Review o' -> 'Bangla Natural Language Processing: A Comprehensive Analysis' | authors: 7 -> 11 (sen, fuad, islam... -> sen, fuad, islam...) | pages: 35811--35843 -> 38999--39044"
+huang2025hallucination,corrected,pages: - -> 1--55
+chang2024llmeval,corrected,pages: - -> 1--45
+kakwani2020indicnlpsuite,corrected,"authors: 7 -> 7 (kakwani, kunchukuttan, golla... -> kakwani, kunchukuttan, golla...) | pages: - -> 4948--4961"
+doddapaneni2023indictools,corrected,"title: 'Towards Leaving No {I}ndic Language Behind: Building Monolin' -> 'Towards Leaving No {I}ndic Language Behind: Building Monolin' | authors: 7 -> 7 (doddapaneni, aralikatte, ramesh... -> doddapaneni, aralikatte, ramesh...) | pages: - -> 12402--12426"
+mhaske2023naamapadam,corrected,"authors: 7 -> 7 (mhaske, kedia, doddapaneni... -> mhaske, kedia, doddapaneni...) | pages: - -> 10441--10456"
+gala2023indicanubad,corrected,"authors: 12 -> 14 (gala, chitale, ak... -> gala, chitale, ak...) | venue: preprint -> Transactions on Machine Learning Research"
+blasi2022inequalities,corrected,pages: - -> 5486--5505
+aji2022onecountry,corrected,"authors: 16 -> 12 (aji, winata, koto... -> aji, winata, koto...) | pages: - -> 7226--7249"
+joulin2017bagoftricks,corrected,pages: - -> 427--431
+penedo2023refinedweb,corrected,"authors: 9 -> 9 (penedo, malartic, hesslow... -> penedo, malartic, hesslow...) | pages: - -> 79155--79172 | venue: preprint -> Advances in Neural Information Processing Systems 36"
+bhaskar1707banglasum,corrected,year: 2025 -> 2026
+hossain-etal-2020-banfakenews,added,{B}an{F}ake{N}ews: A Dataset for Detecting Fake News in {B}angla
+bhattacharyya-etal-2023-vacaspati,added,{VACASPATI}: A Diverse Corpus of {B}angla Literature
+diskin2021distributed,added,Distributed Deep Learning In Open Collaborations
+zehady-etal-2026-banglallama,added,{B}angla{L}lama: {LL}a{MA} for {B}angla Language
+suryanarayanan-etal-2025-pralekha,added,{PRALEKHA}: Cross-Lingual Document Alignment for {I}ndic Languages
+rony2024banglaquad,added,{BanglaQuAD}: A {B}engali Open-domain Question Answering Dataset
+shafayat-etal-2024-benqa,added,{BE}n{QA}: A Question Answering Benchmark for {B}engali and {E}nglish
+ekram-etal-2022-banglarqa,added,{B}angla{RQA}: A Benchmark Dataset for Under-resourced {B}angla Language Reading Comprehen
+yue2025pangea,added,Pangea: A Fully Open Multilingual Multimodal {LLM} for 39 Languages
+ortizsuarez2019oscar,added,Asynchronous Pipelines for Processing Huge Corpora on Medium to Low Resource Infrastructur
+wenzek-etal-2020-ccnet,added,{CCN}et: Extracting High Quality Monolingual Datasets from Web Crawl Data
+clark-etal-2020-tydi,added,T<scp>y</scp>D<scp>i</scp> QA: A Benchmark for Information-Seeking Question Answering in <
+nllb2024scaling,added,Scaling neural machine translation to 200 languages
+federmann-etal-2022-ntrex,added,{NTREX}-128 {--} News Test References for {MT} Evaluation of 128 Languages
+rust-etal-2021-good,added,How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models
+petrov2023unfairness,added,Language Model Tokenizers Introduce Unfairness Between Languages
+ahia-etal-2023-languages,added,Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
+mitchell2019modelcards,added,Model Cards for Model Reporting
+gebru2021datasheets,added,Datasheets for datasets
+pineau2021reproducibility,added,Improving Reproducibility in Machine Learning Research (A Report from the {NeurIPS} 2019 R
+dodge-etal-2019-show,added,Show Your Work: Improved Reporting of Experimental Results
+sainz-etal-2023-nlp,added,{NLP} Evaluation in trouble: On the Need to Measure {LLM} Data Contamination for each Benc
+page2021prisma,added,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews
+cohen1960kappa,added,A Coefficient of Agreement for Nominal Scales

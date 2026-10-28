@@ -1,0 +1,29 @@
+model,axis,score,record_examined,evidence
+BanglaBERT,corpus,1,Findings NAACL 2022,"Bangla2B+, 27.5 GB crawled from 110 sites"
+BanglaBERT,fertility,0,Findings NAACL 2022,no tokens-per-word or equivalent statistic found in the paper text
+BanglaBERT,splits,1,Findings NAACL 2022,"'we are making the models, datasets, and a leaderboard publicly available at github.com/csebuetnlp/banglabert'"
+BanglaBERT,weights,1,Findings NAACL 2022,same release statement
+BanglaBERT,code,1,Findings NAACL 2022,github.com/csebuetnlp/banglabert
+BanglaT5,corpus,1,Findings EACL 2023,Bangla2B+ reused
+BanglaT5,fertility,0,Findings EACL 2023,no tokens-per-word statistic found
+BanglaT5,splits,1,Findings EACL 2023,'BanglaT5 and BanglaNLG benchmark resources ... publicly available at github.com/csebuetnlp/BanglaNLG'
+BanglaT5,weights,1,Findings EACL 2023,same
+BanglaT5,code,1,Findings EACL 2023,github.com/csebuetnlp/BanglaNLG
+BanglaGPT,all,,ICICT4SD 2023 (IEEE),row unchanged from submission; IEEE record not re-read in revision
+BanglaByT5,corpus,1,Findings EMNLP 2025,"14 GB merged literary and newspaper corpus (Vacaspati, IndicCorp)"
+BanglaByT5,fertility,n/a,Findings EMNLP 2025,byte-level; nevertheless reports 'a fertility score of 7.96' for its corpus
+BanglaByT5,splits,0,Findings EMNLP 2025,public datasets used; splits not confirmed
+BanglaByT5,weights,1,Findings EMNLP 2025,huggingface.co/Vacaspati/BanglaByT5
+BanglaByT5,code,0,Findings EMNLP 2025,no code repository found
+TituLLMs,corpus,1,Findings ACL 2025,"~37 billion tokens, collection pipeline described"
+TituLLMs,fertility,1,Findings ACL 2025,'we computed the average tokens per word (TPW)'; Appendix Table 5 per tokenizer variant
+TituLLMs,decontamination,0,Findings ACL 2025,no contamination analysis found
+TituLLMs,splits,1,Findings ACL 2025,'we have made the TituLLMs models and benchmarking datasets publicly available'
+TituLLMs,weights,1,Findings ACL 2025,Hugging Face hishab/titulm-*
+TituLLMs,code,1,Findings ACL 2025,"github.com/hishab-nlp/titulm (benchmark_evaluation.sh), checked 2026-10-28"
+TigerLLM,corpus,1,ACL 2025 short,"Bangla-TextBook, 9,897,623 tokens"
+TigerLLM,fertility,0,ACL 2025 short,no tokens-per-word statistic found
+TigerLLM,decontamination,0,ACL 2025 short,no contamination analysis found
+TigerLLM,splits,1,ACL 2025 short,"six named public benchmarks (MMLU-bn, PangBench-bn, BanglaQuaD, mHumanEval-bn, BEnQA, BanglaRQA)"
+TigerLLM,weights,1,ACL 2025 short,Hugging Face md-nishat-008/TigerLLM-*
+TigerLLM,code,1,ACL 2025 short,github.com/mraihan-gmu/TigerLLM

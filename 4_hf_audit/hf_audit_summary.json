@@ -1,0 +1,54 @@
+{
+ "n_repos": 134,
+ "n_families": 76,
+ "repo": {
+  "weights_public": 130,
+  "tokenizer_shipped": 132,
+  "code_linked": 85,
+  "eval_named": 48,
+  "split_reproducible": 26,
+  "decontamination": 1
+ },
+ "family_any": {
+  "weights_public": 73,
+  "tokenizer_shipped": 75,
+  "code_linked": 34,
+  "eval_named": 18,
+  "split_reproducible": 10,
+  "decontamination": 1
+ },
+ "largest_families": [
+  [
+   "dipta007/ganitllm",
+   12
+  ],
+  [
+   "atsuki-yamaguchi/qwen",
+   11
+  ],
+  [
+   "hishab/titulm",
+   10
+  ],
+  [
+   "atsuki-yamaguchi/llama",
+   7
+  ],
+  [
+   "dipta007/dagger",
+   6
+  ],
+  [
+   "banglallm/bangla",
+   4
+  ],
+  [
+   "banglallm/banglallama",
+   3
+  ],
+  [
+   "ai4bharat/hercule",
+   2
+  ]
+ ]
+}

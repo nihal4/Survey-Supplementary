@@ -1,0 +1,792 @@
+[
+ {
+  "key": "agarwala-etal-2025-code",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.68"
+ },
+ {
+  "key": "ahmad-etal-2025-bncontextqa",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.29"
+ },
+ {
+  "key": "ahmed-etal-2023-score",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.21"
+ },
+ {
+  "key": "alam-etal-2025-cou",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.44"
+ },
+ {
+  "key": "alam2021review",
+  "source": "KEPT (arXiv/no DOI)",
+  "id": "10.48550/arXiv.2107.03844"
+ },
+ {
+  "key": "alamgir-haque-2023-team",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.18"
+ },
+ {
+  "key": "amina-etal-2025-form",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.30"
+ },
+ {
+  "key": "anam-etal-2025-hatenet",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.51"
+ },
+ {
+  "key": "asib-etal-2025-retriv",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.59"
+ },
+ {
+  "key": "bhattacharjee-etal-2022-banglabert",
+  "source": "acl-anthology",
+  "id": "2022.findings-naacl.98"
+ },
+ {
+  "key": "bhattacharjee-etal-2023-banglanlg",
+  "source": "acl-anthology",
+  "id": "2023.findings-eacl.54"
+ },
+ {
+  "key": "bhattacharyya-bhattacharya-2025-banglabyt5",
+  "source": "acl-anthology",
+  "id": "2025.findings-emnlp.297"
+ },
+ {
+  "key": "bhuiyan-etal-2025-bhasabodh",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.9"
+ },
+ {
+  "key": "bijoy-etal-2023-advancing",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.3"
+ },
+ {
+  "key": "bojanowski2017enriching",
+  "source": "doi.org",
+  "id": "10.1162/tacl\\_a\\_00051"
+ },
+ {
+  "key": "bulbul-2025-bicap",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.6"
+ },
+ {
+  "key": "chakma-hasan-2023-lowresource",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.47"
+ },
+ {
+  "key": "chatterjee-etal-2023-vaclm",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.23"
+ },
+ {
+  "key": "chowdhury-ferdous-2025-boigenre",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.20"
+ },
+ {
+  "key": "conneau-etal-2020-unsupervised",
+  "source": "acl-anthology",
+  "id": "2020.acl-main.747"
+ },
+ {
+  "key": "conneau2018xnli",
+  "source": "acl-anthology",
+  "id": "D18-1269"
+ },
+ {
+  "key": "das-etal-2023-emptymind",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.19"
+ },
+ {
+  "key": "das-etal-2023-team",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.30"
+ },
+ {
+  "key": "das-etal-2023-team-error",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.44"
+ },
+ {
+  "key": "dehan-etal-2023-investigating",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.12"
+ },
+ {
+  "key": "devlin-etal-2019-bert",
+  "source": "acl-anthology",
+  "id": "N19-1423"
+ },
+ {
+  "key": "dewan-rifat-2025-pybhasha",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.64"
+ },
+ {
+  "key": "dey-etal-2023-semantics",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.28"
+ },
+ {
+  "key": "dey-etal-2023-semantics-squad",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.41"
+ },
+ {
+  "key": "dihan-etal-2025-teamb2b",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.66"
+ },
+ {
+  "key": "fahim-2023-aambela",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.24"
+ },
+ {
+  "key": "fahim-2023-aambela-blp",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.42"
+ },
+ {
+  "key": "fahim-etal-2023-contextual",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.11"
+ },
+ {
+  "key": "fahim-khan-2025-perceptionlab",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.45"
+ },
+ {
+  "key": "fahmid-etal-2025-nsu",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.60"
+ },
+ {
+  "key": "faisal2022bornon",
+  "source": "doi.org",
+  "id": "10.1007/s42979-021-00975-0"
+ },
+ {
+  "key": "farazi-reza-2025-troopers",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.54"
+ },
+ {
+  "key": "fatema-etal-2023-emptymind",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.39"
+ },
+ {
+  "key": "fetahu-etal-2023-multiconer",
+  "source": "acl-anthology",
+  "id": "2023.findings-emnlp.134"
+ },
+ {
+  "key": "gallegos-etal-2024-bias",
+  "source": "acl-anthology",
+  "id": "2024.cl-3.8"
+ },
+ {
+  "key": "goswami-etal-2023-nlpbdpatriots",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.37"
+ },
+ {
+  "key": "goyal2022flores",
+  "source": "doi.org",
+  "id": "10.1162/tacl\\_a\\_00474"
+ },
+ {
+  "key": "guo-etal-2023-pipeline",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.4"
+ },
+ {
+  "key": "haider-alam-2025-comprehensive",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.13"
+ },
+ {
+  "key": "haider-etal-2025-robustness",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.27"
+ },
+ {
+  "key": "haider2024banth",
+  "source": "KEPT (arXiv/no DOI)",
+  "id": "10.48550/arXiv.2410.13281"
+ },
+ {
+  "key": "hasan-2025-catalyst",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.41"
+ },
+ {
+  "key": "hasan-etal-2023-blp",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.48"
+ },
+ {
+  "key": "hasan-etal-2025-ecstasy",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.52"
+ },
+ {
+  "key": "hasan-etal-2025-musafir",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.57"
+ },
+ {
+  "key": "hasan-etal-2025-overview",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.32"
+ },
+ {
+  "key": "hasan-roy-dipta-2025-banglatalk",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.4"
+ },
+ {
+  "key": "hoque-etal-2025-gradient",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.34"
+ },
+ {
+  "key": "hossain-etal-2023-nlp",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.31"
+ },
+ {
+  "key": "hossan-etal-2025-cuet-nlp-zenith",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.38"
+ },
+ {
+  "key": "hossan-roy-dipta-2025-promptguard",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.35"
+ },
+ {
+  "key": "islam-etal-2021-sentnob-dataset",
+  "source": "acl-anthology",
+  "id": "2021.findings-emnlp.278"
+ },
+ {
+  "key": "islam-etal-2025-code",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.47"
+ },
+ {
+  "key": "islam-etal-2025-pybangla",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.55"
+ },
+ {
+  "key": "islam-sarti-2025-reveal",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.3"
+ },
+ {
+  "key": "jalil-etal-2025-barrier",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.56"
+ },
+ {
+  "key": "jawad-etal-2025-benchmarking",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.26"
+ },
+ {
+  "key": "joy2025bnmmlu",
+  "source": "KEPT (arXiv/no DOI)",
+  "id": "10.48550/arXiv.2505.18951"
+ },
+ {
+  "key": "juboraj-etal-2025-bracu",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.67"
+ },
+ {
+  "key": "kabir-etal-2023-bemolexbert",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.7"
+ },
+ {
+  "key": "kabir-etal-2025-advancing",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.11"
+ },
+ {
+  "key": "kabir-etal-2025-bluck",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.14"
+ },
+ {
+  "key": "kawser-etal-2025-hybrid",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.8"
+ },
+ {
+  "key": "khan-etal-2023-banglachq",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.10"
+ },
+ {
+  "key": "khisa-etal-2025-exploring",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.23"
+ },
+ {
+  "key": "khushbu-etal-2023-ushoshi2023",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.38"
+ },
+ {
+  "key": "kudo2018sentencepiece",
+  "source": "acl-anthology",
+  "id": "D18-2012"
+ },
+ {
+  "key": "laskar-paul-2025-bahash",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.33"
+ },
+ {
+  "key": "li-etal-2023-crosslingual",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.15"
+ },
+ {
+  "key": "lia-etal-2025-read",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.5"
+ },
+ {
+  "key": "liu-etal-2023-knowdee",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.35"
+ },
+ {
+  "key": "mahim-hasan-2025-teamhatemate",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.39"
+ },
+ {
+  "key": "mahjabin-etal-2025-human",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.18"
+ },
+ {
+  "key": "mahmud-etal-2025-grasp",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.2"
+ },
+ {
+  "key": "malmasi2022multiconer",
+  "source": "acl-anthology",
+  "id": "2022.semeval-1.196"
+ },
+ {
+  "key": "mia-fahim-2025-banhateme",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.15"
+ },
+ {
+  "key": "mobin2025summarization_review",
+  "source": "doi.org",
+  "id": "10.3390/bdcc9050117"
+ },
+ {
+  "key": "monsur-etal-2023-synthnid",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.13"
+ },
+ {
+  "key": "mukherjee-etal-2023-low",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.5"
+ },
+ {
+  "key": "mukherjee-etal-2023-ufal",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.27"
+ },
+ {
+  "key": "mukherjee-etal-2023-ufal-uld",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.45"
+ },
+ {
+  "key": "nabil-etal-2025-nsu",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.40"
+ },
+ {
+  "key": "nahin2025titullms",
+  "source": "KEPT (arXiv/no DOI)",
+  "id": "10.48550/arXiv.2502.11187"
+ },
+ {
+  "key": "nandi-etal-2023-pseudo",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.16"
+ },
+ {
+  "key": "niyogi-etal-2026-paramanu",
+  "source": "acl-anthology",
+  "id": "2026.acl-long.1922"
+ },
+ {
+  "key": "oshin-etal-2023-bateclacor",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.14"
+ },
+ {
+  "key": "ouyang2022instructgpt",
+  "source": "doi.org",
+  "id": "10.52202/068431-2011"
+ },
+ {
+  "key": "page-etal-2023-mavericks",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.22"
+ },
+ {
+  "key": "pal-das-2025-checksent",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.10"
+ },
+ {
+  "key": "pal-das-2025-ju",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.58"
+ },
+ {
+  "key": "poria-huang-2025-bhaasha",
+  "source": "acl-anthology",
+  "id": "2025.findings-emnlp.73"
+ },
+ {
+  "key": "prama-2025-llms",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.24"
+ },
+ {
+  "key": "prama-etal-2025-computational",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.37"
+ },
+ {
+  "key": "rahman-ali-2025-clustering",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.25"
+ },
+ {
+  "key": "rahman-etal-2023-bspell",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.2"
+ },
+ {
+  "key": "rahman-etal-2025-alphaborno",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.63"
+ },
+ {
+  "key": "rahman-etal-2025-chakmabridge",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.21"
+ },
+ {
+  "key": "rahman-uzuner-2023-m1437",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.36"
+ },
+ {
+  "key": "raihan-etal-2023-nlpbdpatriots",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.20"
+ },
+ {
+  "key": "raihan-etal-2023-offensive",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.1"
+ },
+ {
+  "key": "raihan-etal-2025-overview",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.31"
+ },
+ {
+  "key": "raihan2025tigerllm",
+  "source": "KEPT (arXiv/no DOI)",
+  "id": "10.48550/arXiv.2503.10995"
+ },
+ {
+  "key": "raquib-etal-2025-banhate",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.19"
+ },
+ {
+  "key": "riad-2025-syntaxmind",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.46"
+ },
+ {
+  "key": "riyad-etal-2023-team",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.32"
+ },
+ {
+  "key": "riyad-junaed-2025-adversaryai",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.65"
+ },
+ {
+  "key": "rohan-etal-2025-generative",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.28"
+ },
+ {
+  "key": "romim-etal-2022-bd",
+  "source": "acl-anthology",
+  "id": "2022.lrec-1.552"
+ },
+ {
+  "key": "roy-2025-codeanubad",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.53"
+ },
+ {
+  "key": "saadi-etal-2025-nala",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.61"
+ },
+ {
+  "key": "saha-etal-2023-blp",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.33"
+ },
+ {
+  "key": "saha-etal-2023-vio",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.9"
+ },
+ {
+  "key": "saha-etal-2025-retriv",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.43"
+ },
+ {
+  "key": "saha-nanda-2023-banglanlp",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.17"
+ },
+ {
+  "key": "saha-nanda-2023-banglanlp-blp",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.34"
+ },
+ {
+  "key": "sakib-etal-2023-intent",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.6"
+ },
+ {
+  "key": "salim2023banglagpt",
+  "source": "doi.org",
+  "id": "10.1109/icict4sd59951.2023.10303383"
+ },
+ {
+  "key": "sami-etal-2025-comparative",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.22"
+ },
+ {
+  "key": "samin-2025-byte",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.1"
+ },
+ {
+  "key": "sarkar-etal-2025-zero",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.7"
+ },
+ {
+  "key": "sayem-rahman-2025-velora",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.49"
+ },
+ {
+  "key": "sen2022bangla_review",
+  "source": "doi.org",
+  "id": "10.1109/ACCESS.2022.3165563"
+ },
+ {
+  "key": "sennrich2016bpe",
+  "source": "acl-anthology",
+  "id": "P16-1162"
+ },
+ {
+  "key": "seth-etal-2023-rsm",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.40"
+ },
+ {
+  "key": "shahana-etal-2025-gen",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.12"
+ },
+ {
+  "key": "shahriar-etal-2025-p6jiggasha",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.16"
+ },
+ {
+  "key": "shahrier-etal-2025-cuet",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.62"
+ },
+ {
+  "key": "shibu-etal-2023-sust",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.25"
+ },
+ {
+  "key": "tahmid-etal-2025-pentaml",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.50"
+ },
+ {
+  "key": "tarannum-etal-2023-z",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.43"
+ },
+ {
+  "key": "tariquzzaman-etal-2023-linguists",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.26"
+ },
+ {
+  "key": "thapa-etal-2023-assessing",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.8"
+ },
+ {
+  "key": "tomal-etal-2025-lp",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.17"
+ },
+ {
+  "key": "tonmoy-2023-embeddings",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.46"
+ },
+ {
+  "key": "tripty-etal-2025-belite",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.36"
+ },
+ {
+  "key": "tripty-etal-2025-cuet",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.48"
+ },
+ {
+  "key": "vaswani2017attention",
+  "source": "KEPT (arXiv/no DOI)",
+  "id": "https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html"
+ },
+ {
+  "key": "veeramani-etal-2023-lowresourcenlu",
+  "source": "acl-anthology",
+  "id": "2023.banglalp-1.29"
+ },
+ {
+  "key": "yang2019pawsx",
+  "source": "acl-anthology",
+  "id": "D19-1382"
+ },
+ {
+  "key": "yasir-2025-heisenberg",
+  "source": "acl-anthology",
+  "id": "2025.banglalp-1.42"
+ },
+ {
+  "key": "pfeiffer-etal-2022-lifting",
+  "source": "acl-anthology",
+  "id": "2022.naacl-main.255"
+ },
+ {
+  "key": "ustun-etal-2024-aya",
+  "source": "acl-anthology",
+  "id": "2024.acl-long.845"
+ },
+ {
+  "key": "huang2025hallucination",
+  "source": "doi.org",
+  "id": "10.1145/3703155"
+ },
+ {
+  "key": "chang2024llmeval",
+  "source": "doi.org",
+  "id": "10.1145/3641289"
+ },
+ {
+  "key": "kakwani2020indicnlpsuite",
+  "source": "acl-anthology",
+  "id": "2020.findings-emnlp.445"
+ },
+ {
+  "key": "doddapaneni2023indictools",
+  "source": "acl-anthology",
+  "id": "2023.acl-long.693"
+ },
+ {
+  "key": "mhaske2023naamapadam",
+  "source": "acl-anthology",
+  "id": "2023.acl-long.582"
+ },
+ {
+  "key": "gala2023indicanubad",
+  "source": "KEPT (arXiv/no DOI)",
+  "id": "10.48550/arXiv.2305.16307"
+ },
+ {
+  "key": "blasi2022inequalities",
+  "source": "acl-anthology",
+  "id": "2022.acl-long.376"
+ },
+ {
+  "key": "aji2022onecountry",
+  "source": "acl-anthology",
+  "id": "2022.acl-long.500"
+ },
+ {
+  "key": "joulin2017bagoftricks",
+  "source": "acl-anthology",
+  "id": "E17-2068"
+ },
+ {
+  "key": "penedo2023refinedweb",
+  "source": "KEPT (arXiv/no DOI)",
+  "id": "10.48550/arXiv.2306.01116"
+ },
+ {
+  "key": "bhaskar1707banglasum",
+  "source": "KEPT (arXiv/no DOI)",
+  "id": "https://huggingface.co/bhaskar1707/banglasum-qwen3-0.6b"
+ }
+]

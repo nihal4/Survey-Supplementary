@@ -1,0 +1,273 @@
+{
+ "coverage": {
+  "2023-T1": {
+   "papers": 16,
+   "teams": 27,
+   "top_quartile_with_paper": 5
+  },
+  "2023-T2": {
+   "papers": 15,
+   "teams": 28,
+   "top_quartile_with_paper": 6
+  },
+  "2025-T1": {
+   "papers": 20,
+   "teams": 36,
+   "top_quartile_with_paper": 8
+  },
+  "2025-T2": {
+   "papers": 16,
+   "teams": 31,
+   "top_quartile_with_paper": 8
+  }
+ },
+ "classification": [
+  {
+   "factor": "Ensemble",
+   "n_with": 18,
+   "n_without": 33,
+   "median_pct_with": 0.2142857142857143,
+   "median_pct_without": 0.48148148148148145,
+   "cliffs_delta": 0.5050505050505051,
+   "mw_p": 0.0032110837233758874,
+   "mean_pct_diff": -0.238613855280522,
+   "stratified_perm_p": 0.0031996800319968005,
+   "tasks": [
+    "2023-T1",
+    "2023-T2",
+    "2025-T1"
+   ],
+   "holm_p": 0.03519648035196481
+  },
+  {
+   "factor": "External training data",
+   "n_with": 7,
+   "n_without": 44,
+   "median_pct_with": 0.5714285714285714,
+   "median_pct_without": 0.310989010989011,
+   "cliffs_delta": -0.2987012987012987,
+   "mw_p": 0.21295740920101613,
+   "mean_pct_diff": 0.13126384197812774,
+   "stratified_perm_p": 0.26677332266773324,
+   "tasks": [
+    "2023-T1",
+    "2023-T2",
+    "2025-T1"
+   ],
+   "holm_p": 1
+  },
+  {
+   "factor": "Data augmentation",
+   "n_with": 12,
+   "n_without": 39,
+   "median_pct_with": 0.5571428571428572,
+   "median_pct_without": 0.3076923076923077,
+   "cliffs_delta": -0.32905982905982906,
+   "mw_p": 0.08936053541983631,
+   "mean_pct_diff": 0.17576286486542897,
+   "stratified_perm_p": 0.06109389061093891,
+   "tasks": [
+    "2023-T1",
+    "2023-T2",
+    "2025-T1"
+   ],
+   "holm_p": 0.5498450154984502
+  },
+  {
+   "factor": "Hierarchical / two-stage",
+   "n_with": 5,
+   "n_without": 46,
+   "median_pct_with": 0.3076923076923077,
+   "median_pct_without": 0.3587912087912088,
+   "cliffs_delta": 0.043478260869565216,
+   "mw_p": 0.8866507338685025,
+   "mean_pct_diff": -0.03717187804144334,
+   "stratified_perm_p": 0.7743225677432257,
+   "tasks": [
+    "2023-T1",
+    "2023-T2",
+    "2025-T1"
+   ],
+   "holm_p": 1
+  },
+  {
+   "factor": "Lexical / classical features only",
+   "n_with": 3,
+   "n_without": 48,
+   "median_pct_with": 0.9259259259259259,
+   "median_pct_without": 0.32380952380952377,
+   "cliffs_delta": -0.9027777777777778,
+   "mw_p": 0.009819404051416385,
+   "mean_pct_diff": 0.5073777302943969,
+   "stratified_perm_p": 0.0012998700129987,
+   "tasks": [
+    "2023-T1",
+    "2023-T2",
+    "2025-T1"
+   ],
+   "holm_p": 0.0155984401559844
+  },
+  {
+   "factor": "Bangla-specific encoder",
+   "n_with": 31,
+   "n_without": 20,
+   "median_pct_with": 0.2571428571428571,
+   "median_pct_without": 0.537037037037037,
+   "cliffs_delta": 0.45161290322580644,
+   "mw_p": 0.00711542909791488,
+   "mean_pct_diff": -0.23527932044061078,
+   "stratified_perm_p": 0.0034996500349965005,
+   "tasks": [
+    "2023-T1",
+    "2023-T2",
+    "2025-T1"
+   ],
+   "holm_p": 0.03519648035196481
+  },
+  {
+   "factor": "Multi-task learning (2025 T1 only)",
+   "n_with": 4,
+   "n_without": 16,
+   "median_pct_with": 0.2571428571428571,
+   "median_pct_without": 0.34285714285714286,
+   "cliffs_delta": 0.125,
+   "mw_p": 0.7504643962848297,
+   "mean_pct_diff": -0.07857142857142851,
+   "stratified_perm_p": 0.5764423557644236,
+   "tasks": [
+    "2025-T1"
+   ],
+   "holm_p": 1
+  },
+  {
+   "factor": "Decoder LLM (2025 T1 only)",
+   "n_with": 2,
+   "n_without": 18,
+   "median_pct_with": 0.4714285714285715,
+   "median_pct_without": 0.3,
+   "cliffs_delta": -0.16666666666666666,
+   "mw_p": 0.7578947368421053,
+   "mean_pct_diff": 0.14444444444444454,
+   "stratified_perm_p": 0.45225477452254775,
+   "tasks": [
+    "2025-T1"
+   ],
+   "holm_p": 1
+  }
+ ],
+ "code": [
+  {
+   "factor": "Unit-test execution feedback",
+   "n_with": 11,
+   "n_without": 5,
+   "median_pct_with": 0.2,
+   "median_pct_without": 0.36666666666666664,
+   "cliffs_delta": 0.2727272727272727,
+   "mw_p": 0.440934065934066,
+   "mean_pct_diff": -0.06424242424242421,
+   "stratified_perm_p": 0.6511348865113489,
+   "tasks": [
+    "2025-T2"
+   ],
+   "holm_p": 1
+  },
+  {
+   "factor": "Proprietary model",
+   "n_with": 8,
+   "n_without": 8,
+   "median_pct_with": 0.18333333333333335,
+   "median_pct_without": 0.43333333333333335,
+   "cliffs_delta": 0.375,
+   "mw_p": 0.23449883449883446,
+   "mean_pct_diff": -0.19166666666666665,
+   "stratified_perm_p": 0.1441855814418558,
+   "tasks": [
+    "2025-T2"
+   ],
+   "holm_p": 1
+  },
+  {
+   "factor": "Translate to English first",
+   "n_with": 6,
+   "n_without": 10,
+   "median_pct_with": 0.2833333333333333,
+   "median_pct_without": 0.2833333333333333,
+   "cliffs_delta": -0.03333333333333333,
+   "mw_p": 0.9577922077922078,
+   "mean_pct_diff": -0.0022222222222222365,
+   "stratified_perm_p": 1.0,
+   "tasks": [
+    "2025-T2"
+   ],
+   "holm_p": 1
+  },
+  {
+   "factor": "Task fine-tuning",
+   "n_with": 3,
+   "n_without": 13,
+   "median_pct_with": 0.7,
+   "median_pct_without": 0.23333333333333334,
+   "cliffs_delta": -0.38461538461538464,
+   "mw_p": 0.36428571428571427,
+   "mean_pct_diff": 0.23760683760683765,
+   "stratified_perm_p": 0.1792820717928207,
+   "tasks": [
+    "2025-T2"
+   ],
+   "holm_p": 1
+  }
+ ],
+ "per_task": {
+  "2023-T1": {
+   "ensemble": 3,
+   "multitask": 0,
+   "external_data": 2,
+   "augmentation": 3,
+   "hierarchical": 3,
+   "decoder_llm": 0,
+   "lexical": 1,
+   "n": 16
+  },
+  "2023-T2": {
+   "ensemble": 5,
+   "multitask": 0,
+   "external_data": 2,
+   "augmentation": 5,
+   "hierarchical": 0,
+   "decoder_llm": 0,
+   "lexical": 1,
+   "n": 15
+  },
+  "2025-T1": {
+   "ensemble": 10,
+   "multitask": 4,
+   "external_data": 3,
+   "augmentation": 4,
+   "hierarchical": 2,
+   "decoder_llm": 2,
+   "lexical": 1,
+   "n": 20
+  },
+  "2025-T2": {
+   "exec_feedback": 11,
+   "proprietary": 8,
+   "translation": 6,
+   "finetuned": 3,
+   "n": 16
+  }
+ },
+ "size_spearman_classification": {
+  "n": 47,
+  "rho": 0.09064315400129488,
+  "p": 0.5445583943854949
+ },
+ "size_spearman_code_open": {
+  "n": 8,
+  "rho": -0.46355253465055324,
+  "p": 0.24732326280728606
+ },
+ "2025T1_top10_paper_score_range": [
+  0.7273,
+  0.7362
+ ]
+}

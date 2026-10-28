@@ -1,0 +1,73 @@
+---
+language:
+- bn
+- en
+license: llama2
+---
+
+# Bangla LLaMA 13B Instruct v0.1
+
+Welcome to the inaugural release of the Bangla LLaMA 13B instruct model – an important step in advancing LLMs for the Tamil language. This model is ready for immediate inference and is also primed for further fine-tuning to cater to your specific NLP tasks.
+
+## Model description
+
+The Bangla LLaMA models have been enhanced and tailored specifically with an extensive Bangla vocabulary of 16,000 tokens, building upon the foundation set by the original LLaMA-2.
+
+- **Model type:** A 13B parameter GPT-like model fine-tuned on [Bangla-Alpaca-Orca](https://huggingface.co/datasets/banglallm/bangla-alpaca-orca) - a mix of Bangla-translated [Stanford-Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) and a subset of [OpenOrca](https://huggingface.co/datasets/Open-Orca/OpenOrca) datasets.
+- **Language(s):** Bangla and English
+- **License:** GNU General Public License v3.0
+- **Finetuned from model:** [BanglaLLM/bangla-llama-13b-base-v0.1](https://huggingface.co/banglallm/bangla-llama-13b-base-v0.1)
+- **Training Precision:** `float16`
+- **Code:** [GitHub](https://github.com/BanglaLLM/bangla-llama)
+
+## Prompting Format
+
+**Prompt Template Without Input**
+
+```
+{system_prompt}
+
+### Instruction:
+{instruction or query}
+
+### Response:
+{response}
+```
+
+**Prompt Template With Input**
+
+```
+{system_prompt}
+
+### Instruction:
+{instruction or query}
+
+### Input:
+{input}
+
+### Response:
+{response}
+```
+
+## Related Models
+
+| Model                    | Type                        | Data              | Base Model           | # Params | Download Links                                                         |
+|--------------------------|-----------------------------|-------------------|----------------------|------|------------------------------------------------------------------------|
+| Bangla LLaMA 7B Base      | Base model                  | 12GB              | LLaMA 7B             | 7B   | [HF Hub](https://huggingface.co/banglallm/bangla-llama-7b-base-v0.1)     |
+| Bangla LLaMA 13B Base     | Base model                  | 4GB               | LLaMA 13B            | 13B  | [HF Hub](https://huggingface.co/banglallm/bangla-llama-13b-base-v0.1)    |
+| Bangla LLaMA 7B Instruct  | Instruction following model | 145k instructions | Bangla LLaMA 7B Base  | 7B   | [HF Hub](https://huggingface.co/banglallm/bangla-llama-7b-instruct-v0.1) |
+| Bangla LLaMA 13B Instruct | Instruction following model | 145k instructions | Bangla LLaMA 13B Base | 13B  | [HF Hub](banglallm/bangla-llama-13b-instruct-v0.1)                       |
+
+## Usage Note
+
+It's important to note that the models have not undergone detoxification. Therefore, while they possess impressive linguistic capabilities, there is a possibility for them to generate content that could be deemed harmful or offensive. We urge users to exercise discretion and supervise the model's outputs closely, especially in public or sensitive applications.
+
+## Meet the Developers
+
+Get to know the creators behind this innovative model and follow their contributions to the field:
+
+- [Abdullah Khan Zehady](https://www.linkedin.com/in/abdullah-khan-zehady-915ba024/)
+
+## Citation
+
+We hope this model serves as a valuable tool in your NLP toolkit and look forward to seeing the advancements it will enable in the understanding and generation of the Bangla language.

@@ -1,0 +1,68 @@
+key,task,team,rank_official,n_teams,score_official,metric,rank_in_paper,backbone,params_B,ensemble,multitask,hierarchical,decoder_llm,proprietary,external_data,augmentation,exec_feedback,translation,finetuned,note
+fahim-2023-aambela,2023-T1,Aambela,2,27,76.041,macro-F1 (x100),2,BanglaBERT (+new vocab tokens),0.11,0,0,0,0,0,0,0,,,,three classification heads; adds frequent OOV words as tokens
+hossain-etal-2023-nlp,2023-T1,NLP_CUET,3,27,74.587,macro-F1 (x100),3,Bangla-ELECTRA + GAN,0.11,0,0,0,0,0,0,0,,,,
+dey-etal-2023-semantics,2023-T1,Semantics Squad,5,27,74.413,macro-F1 (x100),5,BanglaBERT-large,0.335,0,0,0,0,0,0,0,,,,
+raihan-etal-2023-nlpbdpatriots,2023-T1,nlpBDpatriots,6,27,74.313,macro-F1 (x100),6,"multilingual transformer, two-step",0.278,0,0,1,0,0,0,1,,,,back-translation
+tariquzzaman-etal-2023-linguists,2023-T1,the_linguists,7,27,73.978,macro-F1 (x100),7,BanglaBERT,0.11,0,0,0,0,0,0,0,,,,"proposed informal FastText embedding scored 70.45 post hoc, below the submitted BanglaBERT"
+das-etal-2023-emptymind,2023-T1,EmptyMind,9,27,73.797,macro-F1 (x100),9,Hierarchical-BERT,0.11,0,0,1,0,0,0,0,,,,
+page-etal-2023-mavericks,2023-T1,Mavericks,10,27,73.699,macro-F1 (x100),10,BERT-family ensemble,0.278,1,0,0,0,0,0,0,,,,
+veeramani-etal-2023-lowresourcenlu,2023-T1,LowResourceNLU,11,27,73.468,macro-F1 (x100),11,BanglaBERT + mBERT aggregation,0.178,1,0,0,0,0,0,0,,,,also Task 2
+chatterjee-etal-2023-vaclm,2023-T1,VacLM,12,27,72.656,macro-F1 (x100),12,BanglaBERT,0.11,0,0,0,0,0,0,0,,,,
+ahmed-etal-2023-score,2023-T1,Score_IsAll_You_Need,14,27,72.376,macro-F1 (x100),14,"BanglaBERT, two-step",0.11,0,0,1,0,0,0,0,,,,
+shibu-etal-2023-sust,2023-T1,SUST_Black Box,18,27,70.68,macro-F1 (x100),18,BanglaBERT + MLM domain adaptation,0.11,0,0,0,0,0,1,0,,,,weighted ensemble reported post hoc only
+riyad-etal-2023-team,2023-T1,Team_Syrax,19,27,70.45,macro-F1 (x100),19,transformer ensemble,0.278,1,0,0,0,0,1,1,,,,self-training on external data; back-translation
+alamgir-haque-2023-team,2023-T1,Team CentreBack,21,27,69.39,macro-F1 (x100),21,BanglaBERT,0.11,0,0,0,0,0,0,0,,,,
+mukherjee-etal-2023-ufal,2023-T1,UFAL-ULD,22,27,69.009,macro-F1 (x100),20,XLM-R base,0.278,0,0,0,0,0,0,0,,,,paper reports rank 20
+saha-nanda-2023-banglanlp,2023-T1,BanglaNLP,23,27,68.11,macro-F1 (x100),23,multilingual-e5-base,0.278,0,0,0,0,0,0,1,,,,
+das-etal-2023-team,2023-T1,Team Error Point,26,27,31.913,macro-F1 (x100),26,classical ML / LSTM,,0,0,0,0,0,0,0,,,,lexical/classical features
+fahim-2023-aambela-blp,2023-T2,Aambela,1,28,0.731,micro-F1,1,BanglaBERT,0.11,1,0,0,0,0,0,0,,,,mode-based ensemble
+liu-etal-2023-knowdee,2023-T2,Knowdee,2,28,0.7267,micro-F1,2,BanglaBERT ensemble + pseudo-labels,0.11,1,0,0,0,0,0,1,,,,pseudo-labelling
+chakma-hasan-2023-lowresource,2023-T2,LowResource,3,28,0.7179,micro-F1,3,BanglaBERT ensemble,0.11,1,0,0,0,0,1,1,,,,several external datasets
+veeramani-etal-2023-lowresourcenlu,2023-T2,LowResourceNLU,4,28,0.7172,micro-F1,4,BanglaBERT + mBERT aggregation,0.178,1,0,0,0,0,0,0,,,,same paper as Task 1
+tarannum-etal-2023-z,2023-T2,Z-Index,5,28,0.7164,micro-F1,5,BanglaBERT,0.11,0,0,0,0,0,0,0,,,,
+fatema-etal-2023-emptymind,2023-T2,EmptyMind,7,28,0.7109,micro-F1,7,BanglaBERT-large,0.335,0,0,0,0,0,0,0,,,,
+tonmoy-2023-embeddings,2023-T2,Embeddings,9,28,0.7088,micro-F1,9,"fine-tuned transformer, cost-sensitive loss",0.335,0,0,0,0,0,0,0,,,,
+seth-etal-2023-rsm,2023-T2,RSM-NLP,10,28,0.7078,micro-F1,10,weighted/majority-vote transformer ensemble,0.278,1,0,0,0,0,0,0,,,,
+goswami-etal-2023-nlpbdpatriots,2023-T2,nlpBDpatriots,12,28,0.7058,micro-F1,12,transfer learning,0.278,0,0,0,0,0,0,1,,,,
+rahman-uzuner-2023-m1437,2023-T2,M1437,14,28,0.7036,micro-F1,14,BanglaBERT-large,0.335,0,0,0,0,0,1,0,,,,external training data lowered test F1 (71.54 without)
+mukherjee-etal-2023-ufal-uld,2023-T2,UFAL-ULD,19,28,0.6768,micro-F1,19,XLM-R base,0.278,0,0,0,0,0,0,0,,,,
+dey-etal-2023-semantics-squad,2023-T2,Semantics Squad,20,28,0.6742,micro-F1,20,BanglaBERT-small,,0,0,0,0,0,0,0,,,,
+saha-nanda-2023-banglanlp-blp,2023-T2,BanglaNLP,21,28,0.6702,micro-F1,21,Twitter-sentiment XLM-R,0.278,0,0,0,0,0,0,0,,,,intermediate fine-tuning on Twitter sentiment
+das-etal-2023-team-error,2023-T2,Error Point,27,28,0.4129,micro-F1,27,classical ML / LSTM,,0,0,0,0,0,0,1,,,,lexical/classical features
+khushbu-etal-2023-ushoshi2023,2023-T2,Ushoshi2023,30,28,0.2626,micro-F1,30,DistilBERT,0.134,0,0,0,0,0,0,1,,,,"SVM 75% accuracy reported post hoc, not on leaderboard"
+islam-etal-2025-code,2025-T1,Code_Gen,1,36,0.7362,micro-F1 (1A),1,BanglaBERT/MuRIL/mE5/Twitter-XLM-R logit ensemble,0.278,1,0,0,0,0,0,0,,,,adversarial contrastive training
+riad-2025-syntaxmind,2025-T1,SyntaxMind,2,36,0.7345,micro-F1 (1A),2,BanglaBERT + CNN/GRU attention,0.11,0,0,0,0,0,0,0,,,,
+mahim-hasan-2025-teamhatemate,2025-T1,TeamHateMate,4,36,0.7331,micro-F1 (1A),4,"k-fold transformer ensemble, cascade",0.278,1,0,1,0,0,0,0,,,,
+hasan-etal-2025-ecstasy,2025-T1,Ecstasy,5,36,0.7328,micro-F1 (1A),5,Llama-3.1-8B + LoRA,8.0,0,0,0,1,0,0,0,,,,TF-IDF keyword prompts
+hoque-etal-2025-gradient,2025-T1,Gradient Masters,6,36,0.7323,micro-F1 (1A),6,BanglaBERT ensemble + FGSM,0.11,1,0,0,0,0,0,0,,,,
+hasan-2025-catalyst,2025-T1,Catalyst,7,36,0.7305,micro-F1 (1A),7,"IndicBERTv2 ensemble, multi-task head",0.278,1,1,0,0,0,0,0,,,,
+tripty-etal-2025-belite,2025-T1,BElite,8,36,0.7282,micro-F1 (1A),3,BanglaBERT/mBERT/XLM-R weighted ensemble,0.278,1,0,0,0,0,0,0,,,,paper reports 3rd (0.734); overview lists 8th (0.7282)
+saha-etal-2025-retriv,2025-T1,Retriv,9,36,0.7275,micro-F1 (1A),9,BanglaBERT/MuRIL/IndicBERTv2 soft vote,0.278,1,1,0,0,0,0,0,,,,multi-task variants for 1C
+alam-etal-2025-cou,2025-T1,CoU-CU-DSG,10,36,0.7273,micro-F1 (1A),10,BanglaBERT/XLM-R/MuRIL weighted fusion,0.278,1,0,0,0,0,0,0,,,,
+hossan-etal-2025-cuet-nlp-zenith,2025-T1,CUET-NLP_Zenith,11,36,0.7263,micro-F1 (1A),11,BanglaBERT/XLM-R ensemble (BanTriX),0.278,1,1,0,0,0,0,0,,,,
+nabil-etal-2025-nsu,2025-T1,NSU_MILab,12,36,0.725,micro-F1 (1A),12,4-model probability averaging,0.278,1,0,0,0,0,0,0,,,,paper reports 0.7235
+tahmid-etal-2025-pentaml,2025-T1,PentaML,14,36,0.7178,micro-F1 (1A),15,linear probing of fine-tuned BERTs,0.278,0,0,0,0,0,0,0,,,,
+anam-etal-2025-hatenet,2025-T1,HateNetBN,15,36,0.7133,micro-F1 (1A),15,frozen BanglaBERT + hierarchical attention,0.11,0,0,0,0,0,0,0,,,,
+prama-etal-2025-computational,2025-T1,Computational StoryLab,16,36,0.7111,micro-F1 (1A),16,BanglaBERT (LLMs explored),0.11,0,1,0,0,0,0,0,,,,"GPT-4/Llama-3.1-8B/Gemma-2-9B explored, encoder submitted"
+yasir-2025-heisenberg,2025-T1,Heisenberg,18,36,0.707,micro-F1 (1A),18,BanglaBERT/BanglaT5/BanglaHateBERT,0.25,0,0,0,0,0,1,1,,,,~4K collected comments; back-translation
+laskar-paul-2025-bahash,2025-T1,Bahash-AI,20,36,0.7028,micro-F1 (1A),20,BanglaBERT,0.11,0,0,0,0,0,0,1,,,,"+28,220 synthesised instances"
+sayem-rahman-2025-velora,2025-T1,Velora,21,36,0.7013,micro-F1 (1A),21,BanglaBERT,0.11,0,0,0,0,0,1,1,,,,"+3,418 from an external dataset"
+fahim-khan-2025-perceptionlab,2025-T1,PerceptionLab,23,36,0.6941,micro-F1 (1A),23,DAPT BanglaBERT,0.11,0,0,0,0,0,1,1,,,,DAPT on 315K comments; external + weakly supervised sexism data
+tripty-etal-2025-cuet,2025-T1,CUET_Sntx_Srfrs,27,36,0.6867,micro-F1 (1A),18,"TF-IDF classical ML voting, hierarchical",,1,0,1,0,0,0,0,,,,lexical/classical features; paper reports 18th (0.6842)
+hossan-roy-dipta-2025-promptguard,2025-T1,PromptGuard,30,36,0.6761,micro-F1 (1A),30,Qwen3-32B few-shot + voting,32.0,0,0,0,1,0,0,0,,,,chi-square keyword selection
+saadi-etal-2025-nala,2025-T2,NALA_MAINZ,1,31,0.95,Pass@1,1,GPT-5,,,,,1,1,,,1,0,0,code agent + debugger agent on failing tests
+asib-etal-2025-retriv,2025-T2,Retriv,2,31,0.93,Pass@1,2,Qwen2.5-Coder-14B,14,,,,1,0,,,1,0,1,three test-feedback refinement passes
+hasan-etal-2025-musafir,2025-T2,Musafir,3,31,0.92,Pass@1,3,Qwen2.5-14B-Instruct,14,,,,1,0,,,1,1,0,translate then generate; unit-test validation
+riyad-junaed-2025-adversaryai,2025-T2,AdversaryAI,4,31,0.85,Pass@1,4,Gemini 2.5 Pro,,,,,1,1,,,1,0,0,CoT fine-tuning for open models; best submission proprietary
+juboraj-etal-2025-bracu,2025-T2,BRACU_CL,5,31,0.84,Pass@1,5,Gemini-2.5-flash + gpt-oss debugger,,,,,1,1,,,1,0,0,
+agarwala-etal-2025-code,2025-T2,Code_Gen,6,31,0.84,Pass@1,6,GPT-5,,,,,1,1,,,0,1,0,"assertions placed in prompt, not executed; paper reports 7th"
+dihan-etal-2025-teamb2b,2025-T2,TeamB2B,7,31,0.84,Pass@1,7,Gemini-2.5-Pro,,,,,1,1,,,1,1,0,retrieval + coder/reviewer self-refinement
+fahmid-etal-2025-nsu,2025-T2,NSU_PiedPiper,8,31,0.83,Pass@1,8,Qwen2.5-Coder-14B,14,,,,1,0,,,0,0,0,CoT few-shot; debugger added post-competition
+jalil-etal-2025-barrier,2025-T2,Barrier Breakers,11,31,0.82,Pass@1,11,GPT-OSS-120B,120,,,,1,0,,,1,0,0,test-driven development + code interpreter
+dewan-rifat-2025-pybhasha,2025-T2,PyBhasha,12,31,0.8,Pass@1,12,two-stage ensemble (GPT-4.1 et al.),,,,,1,1,,,0,1,0,GPT-4.1 rewrites instructions in English
+pal-das-2025-ju,2025-T2,JU_NLP,13,31,0.77,Pass@1,13,GPT-4.1,,,,,1,1,,,0,0,0,zero-shot
+rahman-etal-2025-alphaborno,2025-T2,AlphaBorno,16,31,0.72,Pass@1,16,GPT-4o,,,,,1,1,,,1,1,0,synthetic tests + self-repair
+islam-etal-2025-pybangla,2025-T2,PyBangla,17,31,0.72,Pass@1,17,Qwen3-8B,8,,,,1,0,,,1,0,0,Thought-Code-Observation agent loop
+shahrier-etal-2025-cuet,2025-T2,CUET_Expelliarmus,21,31,0.37,Pass@1,21,GPT-OSS-20B,20,,,,1,0,,,1,1,0,iterative error correction
+roy-2025-codeanubad,2025-T2,CodeAnubad,22,31,0.37,Pass@1,22,Gemma-2-9B-it + QLoRA,9,,,,1,0,,,0,0,1,self-improvement on verified dev predictions
+farazi-reza-2025-troopers,2025-T2,Troopers,26,31,0.32,Pass@1,26,TigerLLM (Llama-3.x) RSFT,1,,,,1,0,,,1,0,1,test execution selects fine-tuning samples

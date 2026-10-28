@@ -1,0 +1,146 @@
+{
+ "rules": {
+  "A1 Orthographic": "\\b(spell\\w*|punctuation|error (correction|classification)|grammatical error|normali[sz]\\w*|diacritic\\w*|grapheme\\w*|orthograph\\w*|unicode)\\b",
+  "A2 Sub-word": "(tokeni[sz]\\w*|sub-?word|byte-?level|byte[- ]pair|\\bbpe\\b|vocabular\\w*|sentencepiece|wordpiece|fertility|segmentation of words)",
+  "A3 Morphological": "\\b(stemm\\w*|stemmer|lemmati[sz]\\w*|morpholog\\w*|root[- ]word\\w*|inflect\\w*|pos[- ]tag\\w*|part[- ]of[- ]speech|compound word\\w*)\\b",
+  "A4 Cross-script": "(transliterat\\w*|romani[sz]\\w*|banglish|code[- ]mix\\w*|code[- ]switch\\w*|latin script|cross[- ]script)",
+  "B Resources": "\\b(dataset\\w*|corpus|corpora|benchmark\\w*|resource\\w*|treebank|lexicon|annotated|annotation)\\b",
+  "C Models": "(language model\\w*|\\bllms?\\b|\\bbert\\b|banglabert|\\bgpt\\w*|\\bt5\\b|pre-?train\\w*|\\bfine-?tun\\w*|adapter\\w*|\\blora\\b|instruction[- ]tun\\w*|embedding\\w*|encoder\\w*|decoder\\w*)"
+ },
+ "corpus_title": {
+  "n": 169,
+  "multi_label_counts": {
+   "A1 Orthographic": 4,
+   "A2 Sub-word": 5,
+   "A3 Morphological": 2,
+   "A4 Cross-script": 6,
+   "B Resources": 49,
+   "C Models": 52
+  },
+  "any_A": 17,
+  "any_A_pct": 10.059171597633137,
+  "single_label_published_order": {
+   "B Resources": 44,
+   "D Tasks": 69,
+   "C Models": 39,
+   "A2 Sub-word": 5,
+   "A4 Cross-script": 6,
+   "A1 Orthographic": 4,
+   "A3 Morphological": 2
+  },
+  "single_label_A_range": [
+   10,
+   13,
+   17
+  ],
+  "single_label_A_pct_range": [
+   5.9171597633136095,
+   7.6923076923076925,
+   10.059171597633137
+  ],
+  "n_orderings": 720
+ },
+ "corpus_title_abstract": {
+  "n": 169,
+  "multi_label_counts": {
+   "A1 Orthographic": 10,
+   "A2 Sub-word": 15,
+   "A3 Morphological": 14,
+   "A4 Cross-script": 16,
+   "B Resources": 121,
+   "C Models": 130
+  },
+  "any_A": 44,
+  "any_A_pct": 26.035502958579883,
+  "single_label_published_order": {
+   "A1 Orthographic": 10,
+   "B Resources": 85,
+   "A3 Morphological": 9,
+   "D Tasks": 14,
+   "A2 Sub-word": 13,
+   "C Models": 26,
+   "A4 Cross-script": 12
+  },
+  "single_label_A_range": [
+   5,
+   18,
+   44
+  ],
+  "single_label_A_pct_range": [
+   2.9585798816568047,
+   10.946745562130177,
+   26.035502958579883
+  ],
+  "n_orderings": 720
+ },
+ "corpus_n_with_abstract": 149,
+ "kappa_title_vs_title_abstract_single": 0.2761194029850746,
+ "kappa_title_vs_title_abstract_anyA": 0.4822421422897989,
+ "agreement_anyA": 0.8402366863905325,
+ "field_title": {
+  "n": 1650,
+  "multi_label_counts": {
+   "A1 Orthographic": 34,
+   "A2 Sub-word": 10,
+   "A3 Morphological": 21,
+   "A4 Cross-script": 98,
+   "B Resources": 365,
+   "C Models": 270
+  },
+  "any_A": 157,
+  "any_A_pct": 9.515151515151516,
+  "single_label_published_order": {
+   "D Tasks": 973,
+   "B Resources": 323,
+   "A1 Orthographic": 34,
+   "A2 Sub-word": 10,
+   "A4 Cross-script": 93,
+   "A3 Morphological": 20,
+   "C Models": 197
+  },
+  "single_label_A_range": [
+   96,
+   125,
+   157
+  ],
+  "single_label_A_pct_range": [
+   5.818181818181818,
+   7.575757575757576,
+   9.515151515151516
+  ],
+  "n_orderings": 720
+ },
+ "field_title_not_in_corpus": {
+  "n": 1582,
+  "multi_label_counts": {
+   "A1 Orthographic": 31,
+   "A2 Sub-word": 10,
+   "A3 Morphological": 20,
+   "A4 Cross-script": 93,
+   "B Resources": 341,
+   "C Models": 244
+  },
+  "any_A": 148,
+  "any_A_pct": 9.355246523388116,
+  "single_label_published_order": {
+   "D Tasks": 951,
+   "B Resources": 302,
+   "A1 Orthographic": 31,
+   "A2 Sub-word": 10,
+   "A4 Cross-script": 88,
+   "A3 Morphological": 19,
+   "C Models": 181
+  },
+  "single_label_A_range": [
+   92,
+   119,
+   148
+  ],
+  "single_label_A_pct_range": [
+   5.815423514538558,
+   7.522123893805309,
+   9.355246523388116
+  ],
+  "n_orderings": 720
+ }
+}

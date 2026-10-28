@@ -1,0 +1,5208 @@
+{
+"query": "(ti:Bangla OR ti:Bengali OR ti:Banglish OR ti:Sylheti OR ti:Chittagonian OR abs:Bangla OR abs:Bengali OR abs:Banglish OR abs:Sylheti OR abs:Chittagonian) AND cat:cs.CL AND submittedDate:[201901010000 TO 202610282359]",
+"total": 578,
+"records": [
+{
+"id": "http://arxiv.org/abs/1906.05725v1",
+"title": "Improved Sentiment Detection via Label Transfer from Monolingual to Synthetic Code-Switched Text",
+"published": "2019-06-13",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/1907.07826v1",
+"title": "Comparison of Classical Machine Learning Approaches on Bangla Textual Emotion Analysis",
+"published": "2019-07-18",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/1907.13356v2",
+"title": "Normalyzing Numeronyms -- A NLP approach",
+"published": "2019-07-31",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/1908.08674v1",
+"title": "A BLSTM Network for Printed Bengali OCR System with High Accuracy",
+"published": "2019-08-23",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/1909.03598v1",
+"title": "What Matters for Neural Cross-Lingual Named Entity Recognition: An Empirical Analysis",
+"published": "2019-09-09",
+"doi": "",
+"journal_ref": "published at EMNLP 2019",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/1909.09270v1",
+"title": "Named Entity Recognition with Partially Annotated Training Data",
+"published": "2019-09-20",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/1911.01256v2",
+"title": "A Novel Approach to Enhance the Performance of Semantic Search in Bengali using Neural Net and other Classification Techniques",
+"published": "2019-11-04",
+"doi": "",
+"journal_ref": "IJEAT Vol 9 Issue 3 year 2020 ISSN 2249-8958",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/1911.02989v1",
+"title": "Cross-Lingual Relevance Transfer for Document Retrieval",
+"published": "2019-11-08",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/1911.03059v2",
+"title": "A Comprehensive Comparison of Machine Learning Based Methods Used in Bengali Question Classification",
+"published": "2019-11-08",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/1911.07613v1",
+"title": "A Subword Level Language Model for Bangla Language",
+"published": "2019-11-15",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/1911.11062v1",
+"title": "Automatic Detection of Satire in Bangla Documents: A CNN Approach Based on Hybrid Feature Extraction Model",
+"published": "2019-11-19",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/1912.00127v3",
+"title": "A Hybrid Approach Towards Two Stage Bengali Question Classification Utilizing Smart Data Balancing Technique",
+"published": "2019-11-30",
+"doi": "10.1007/978-3-030-52856-0_36",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/1912.11612v1",
+"title": "N-gram Statistical Stemmer for Bangla Corpus",
+"published": "2019-12-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2001.05315v1",
+"title": "A Continuous Space Neural Language Model for Bengali Language",
+"published": "2020-01-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2001.05316v1",
+"title": "Authorship Attribution in Bangla literature using Character-level CNN",
+"published": "2020-01-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2002.06701v1",
+"title": "Gaussian Smoothen Semantic Features (GSSF) -- Exploring the Linguistic Aspects of Visual Captioning in Indian Languages (Bengali) Using MSCOCO Framework",
+"published": "2020-02-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2003.03484v2",
+"title": "Synthetic Error Dataset Generation Mimicking Bengali Writing Pattern",
+"published": "2020-03-07",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2003.07428v1",
+"title": "Developing a Multilingual Annotated Corpus of Misogyny and Aggression",
+"published": "2020-03-16",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2004.00089v1",
+"title": "Automatic Extraction of Bengali Root Verbs using Paninian Grammar",
+"published": "2020-03-31",
+"doi": "10.1109/RTEICT.2017.8256739",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2004.00104v1",
+"title": "Improvement of electronic Governance and mobile Governance in Multilingual Countries with Digital Etymology using Sanskrit Grammar",
+"published": "2020-03-31",
+"doi": "10.1109/R10-HTC.2017.8289008",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2004.07807v2",
+"title": "Classification Benchmarks for Under-resourced Bengali Language based on Multichannel Convolutional-LSTM Network",
+"published": "2020-04-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2004.07820v1",
+"title": "Speaker Recognition in Bengali Language from Nonlinear Features",
+"published": "2020-04-15",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2004.08789v1",
+"title": "BanFakeNews: A Dataset for Detecting Fake News in Bangla",
+"published": "2020-04-19",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2005.14627v1",
+"title": "Detection of Bangla Fake News using MNB and SVM Classifier",
+"published": "2020-05-29",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2007.02758v1",
+"title": "Sentiment Polarity Detection on Bengali Book Reviews Using Multinomial Naive Bayes",
+"published": "2020-07-06",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2007.07691v1",
+"title": "A Multilingual Parallel Corpora Collection Effort for Indian Languages",
+"published": "2020-07-15",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2007.10718v1",
+"title": "Human Abnormality Detection Based on Bengali Text",
+"published": "2020-07-21",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2007.14074v1",
+"title": "Preparation of Sentiment tagged Parallel Corpus and Testing its effect on Machine Translation",
+"published": "2020-07-28",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2007.14576v1",
+"title": "Development of POS tagger for English-Bengali Code-Mixed data",
+"published": "2020-07-29",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2008.13597v2",
+"title": "Classifier Combination Approach for Question Classification for Bengali Question Answering System",
+"published": "2020-08-31",
+"doi": "10.1007/s12046-019-1224-8",
+"journal_ref": "Sadhana, Springer, 2019",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2009.09359v2",
+"title": "Not Low-Resource Anymore: Aligner Ensembling, Batch Filtering, and New Datasets for Bengali-English Machine Translation",
+"published": "2020-09-20",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2010.00170v3",
+"title": "A Large Multi-Target Dataset of Common Bengali Handwritten Graphemes",
+"published": "2020-10-01",
+"doi": "10.1007/978-3-030-86337-1_26",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2010.03065v1",
+"title": "Anubhuti -- An annotated dataset for emotional analysis of Bengali short stories",
+"published": "2020-10-06",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2010.05324v1",
+"title": "Multilingual Offensive Language Identification with Cross-lingual Embeddings",
+"published": "2020-10-11",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2010.06906v1",
+"title": "No Rumours Please! A Multi-Indic-Lingual Approach for COVID Fake-Tweet Detection",
+"published": "2020-10-14",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2010.13404v3",
+"title": "Robust and Consistent Estimation of Word Embedding for Bangla Language by fine-tuning Word2Vec Model",
+"published": "2020-10-26",
+"doi": "10.1109/ICCIT51783.2020.9392738",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2011.02323v1",
+"title": "Indic-Transformers: An Analysis of Transformer Language Models for Indian Languages",
+"published": "2020-11-04",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2011.04446v1",
+"title": "Bangla Text Classification using Transformers",
+"published": "2020-11-09",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2011.10106v1",
+"title": "Sentiment Classification in Bangla Textual Content: A Comparative Study",
+"published": "2020-11-19",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2012.00288v1",
+"title": "BAN-ABSA: An Aspect-Based Sentiment Analysis dataset for Bengali and it's baseline evaluation",
+"published": "2020-12-01",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2012.01747v1",
+"title": "Bengali Abstractive News Summarization(BANS): A Neural Attention Approach",
+"published": "2020-12-03",
+"doi": "10.1007/978-981-33-4673-4_4",
+"journal_ref": "2nd International Conference on Trends in Computational and Cognitive Engineering, 2020",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2012.07538v1",
+"title": "Sentiment analysis in Bengali via transfer learning using multi-lingual BERT",
+"published": "2020-12-03",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2012.07701v1",
+"title": "Simple or Complex? Learning to Predict Readability of Bengali Texts",
+"published": "2020-12-09",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2012.09686v1",
+"title": "Hate Speech detection in the Bengali language: A dataset and its baseline evaluation",
+"published": "2020-12-17",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2012.14353v4",
+"title": "DeepHateExplainer: Explainable Hate Speech Detection in Under-resourced Bengali Language",
+"published": "2020-12-28",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2101.00204v4",
+"title": "BanglaBERT: Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla",
+"published": "2021-01-01",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2101.03916v2",
+"title": "edATLAS: An Efficient Disambiguation Algorithm for Texting in Languages with Abugida Scripts",
+"published": "2021-01-05",
+"doi": "10.1109/ICSC50631.2021.00061",
+"journal_ref": "2021 IEEE 15th International Conference on Semantic Computing (ICSC), Laguna Hills, CA, USA, 2021, pp. 325-332",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2101.06949v1",
+"title": "HinFlair: pre-trained contextual string embeddings for pos tagging and text classification in the Hindi language",
+"published": "2021-01-18",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2102.04490v2",
+"title": "Unsupervised Abstractive Summarization of Bengali Text Documents",
+"published": "2021-01-26",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2102.00405v2",
+"title": "BNLP: Natural language processing toolkit for Bengali language",
+"published": "2021-01-31",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2102.02478v1",
+"title": "Bangla Text Dataset and Exploratory Analysis for Online Harassment Detection",
+"published": "2021-02-04",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2102.11276v1",
+"title": "Factorization of Fact-Checks for Low Resource Indian Languages",
+"published": "2021-02-23",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2103.01032v1",
+"title": "Inductive biases, pretraining and fine-tuning jointly account for brain responses to speech",
+"published": "2021-02-25",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2103.11408v2",
+"title": "L3CubeMahaSent: A Marathi Tweet-based Sentiment Analysis Dataset",
+"published": "2021-03-21",
+"doi": "",
+"journal_ref": "https://www.aclweb.org/anthology/2021.wassa-1.23/",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2104.00235v1",
+"title": "Multilingual and code-switching ASR challenges for low resource Indian languages",
+"published": "2021-04-01",
+"doi": "10.21437/Interspeech.2021-1339",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2104.08613v1",
+"title": "Emotion Classification in a Resource Constrained Language Using Transformer-based Approach",
+"published": "2021-04-17",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2105.05996v3",
+"title": "Multilingual Offensive Language Identification for Low-resource Languages",
+"published": "2021-05-12",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2105.14600v1",
+"title": "HIT: A Hierarchically Fused Deep Attention Network for Robust Code-mixed Language Representation",
+"published": "2021-05-30",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2105.14875v3",
+"title": "Bangla Natural Language Processing: A Comprehensive Analysis of Classical, Machine Learning, and Deep Learning Based Methods",
+"published": "2021-05-31",
+"doi": "10.1109/ACCESS.2022.3165563",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2106.00853v1",
+"title": "Claim Matching Beyond English to Scale Global Fact-Checking",
+"published": "2021-06-01",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2106.04506v1",
+"title": "Cyberbullying Detection Using Deep Neural Network from Social Media Comments in Bangla Language",
+"published": "2021-06-08",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2106.04995v1",
+"title": "Crosslingual Embeddings are Essential in UNMT for Distant Languages: An English to IndoAryan Case Study",
+"published": "2021-06-09",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2106.05885v2",
+"title": "Balanced End-to-End Monolingual pre-training for Low-Resourced Indic Languages Code-Switching Speech Recognition",
+"published": "2021-06-10",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2106.07225v1",
+"title": "English to Bangla Machine Translation Using Recurrent Neural Network",
+"published": "2021-06-14",
+"doi": "10.18178/ijfcc.2020.9.2.564",
+"journal_ref": "International Journal of Future Computer and Communication 9.2 (2020)",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2107.03844v3",
+"title": "A Review of Bangla Natural Language Processing Tasks and the Utility of Transformer Models",
+"published": "2021-07-08",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2107.05541v6",
+"title": "End-to-End Natural Language Understanding Pipeline for Bangla Conversational Agents",
+"published": "2021-07-12",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2107.10181v2",
+"title": "Debiasing Multilingual Word Embeddings: A Case Study of Three Indian Languages",
+"published": "2021-07-21",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2109.01628v1",
+"title": "Cross-Lingual Training with Dense Retrieval for Document Retrieval",
+"published": "2021-09-03",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2109.03552v1",
+"title": "Cross-lingual Offensive Language Identification for Low Resource Languages: The Case of Marathi",
+"published": "2021-09-08",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2109.10534v1",
+"title": "Role of Language Relatedness in Multilingual Fine-tuning of Language Models: A Case Study in Indo-Aryan Languages",
+"published": "2021-09-22",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2109.12072v1",
+"title": "SD-QA: Spoken Dialectal Question Answering for the Real World",
+"published": "2021-09-24",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2109.13217v1",
+"title": "Challenges and Opportunities of Speech Recognition for Bengali Language",
+"published": "2021-09-27",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2110.07150v3",
+"title": "Cross-Lingual Open-Domain Question Answering with Answer Sentence Generation",
+"published": "2021-10-14",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2110.13032v2",
+"title": "Paradigm Shift in Language Modeling: Revisiting CNN for Modeling Sanskrit Originated Bengali and Hindi Language",
+"published": "2021-10-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2111.00350v1",
+"title": "AdvCodeMix: Adversarial Attack on Code-Mixed Data",
+"published": "2021-10-30",
+"doi": "10.1145/3493700.3493705",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2111.03937v2",
+"title": "Transformer Based Bengali Chatbot Using General Knowledge Dataset",
+"published": "2021-11-06",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2111.06625v1",
+"title": "A Convolutional Neural Network Based Approach to Recognize Bangla Spoken Digits from Speech Signal",
+"published": "2021-11-12",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2111.10269v2",
+"title": "Pointer over Attention: An Improved Bangla Text Summarization Approach Using Hybrid Pointer Generator Network",
+"published": "2021-11-19",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2111.10390v1",
+"title": "The ComMA Dataset V0.2: Annotating Aggression and Bias in Multilingual Social Media Discourse",
+"published": "2021-11-19",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2111.10776v3",
+"title": "A Case Study on the Independence of Speech Emotion Recognition in Bangla and English Languages using Language-Independent Prosodic Features",
+"published": "2021-11-21",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2111.11815v1",
+"title": "CL-NERIL: A Cross-Lingual Model for NER in Indian Languages",
+"published": "2021-11-23",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2111.13284v1",
+"title": "Ensembling of Distilled Models from Multi-task Teachers for Constrained Resource Language Pairs",
+"published": "2021-11-26",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2112.01902v1",
+"title": "HS-BAN: A Benchmark Dataset of Social Media Comments for Hate Speech Detection in Bangla",
+"published": "2021-12-03",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2112.08789v1",
+"title": "Harnessing Cross-lingual Features to Improve Cognate Detection for Low-resource Languages",
+"published": "2021-12-16",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2112.09526v1",
+"title": "Challenge Dataset of Cognates and False Friend Pairs from Indian Languages",
+"published": "2021-12-17",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2112.13800v1",
+"title": "\"A Passage to India\": Pre-trained Word Embeddings for Indian Languages",
+"published": "2021-12-27",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2112.15417v4",
+"title": "Hypers at ComMA@ICON: Modelling Aggressiveness, Gender Bias and Communal Bias Identification",
+"published": "2021-12-31",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2202.00481v1",
+"title": "RabindraNet, Creating Literary Works in the Style of Rabindranath Tagore",
+"published": "2022-01-05",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2201.01997v1",
+"title": "An exploratory experiment on Hindi, Bengali hate-speech detection and transfer learning using neural networks",
+"published": "2022-01-06",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2201.02119v1",
+"title": "An Opinion Mining of Text in COVID-19 Issues along with Comparative Study in ML, BERT & RNN",
+"published": "2022-01-06",
+"doi": "",
+"journal_ref": "3rd International Conference on Deep Learning, Artificial Intelligence and Robotics, (ICDLAIR) 2021",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2202.05457v1",
+"title": "Hindi/Bengali Sentiment Analysis Using Transfer Learning and Joint Dual Input Learning with Self Attention",
+"published": "2022-02-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2203.03216v2",
+"title": "USTC-NELSLIP at SemEval-2022 Task 11: Gazetteer-Adapted Integration Network for Multilingual Complex Named Entity Recognition",
+"published": "2022-03-07",
+"doi": "10.18653/v1/2022.semeval-1.223",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2203.06607v1",
+"title": "A Systematic Study and Analysis of Bengali Folklore with Natural Language Processing Systems",
+"published": "2022-03-13",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2203.11486v1",
+"title": "Approaches for Improving the Performance of Fake News Detection in Bangla: Imbalance Handling and Model Stacking",
+"published": "2022-03-22",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2203.11669v1",
+"title": "Are You Misinformed? A Study of Covid-Related Fake News in Bengali on Facebook",
+"published": "2022-03-22",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2203.13430v3",
+"title": "Plagiarism Detection in the Bengali Language: A Text Similarity-Based Approach",
+"published": "2022-03-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2203.14049v1",
+"title": "Joint Transformer/RNN Architecture for Gesture Typing in Indic Languages",
+"published": "2022-03-26",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2203.16578v2",
+"title": "Code Switched and Code Mixed Speech Recognition for Indic languages",
+"published": "2022-03-30",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2203.16775v1",
+"title": "Bangla hate speech detection on social media using attention-based recurrent neural network",
+"published": "2022-03-31",
+"doi": "10.1515/jisys-2020-0060",
+"journal_ref": "Type: Journal Language: English Publisher: De Gruyter First published: September 1, 1991 Publication Frequency: 1 Issue per Year Audience: researchers in the field of intelligent systems",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2203.16825v1",
+"title": "indic-punct: An automatic punctuation restoration and inverse text normalization framework for Indic languages",
+"published": "2022-03-31",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2204.00348v1",
+"title": "WavFT: Acoustic model finetuning with labelled and unlabelled data",
+"published": "2022-04-01",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2204.01827v1",
+"title": "Product Market Demand Analysis Using NLP in Banglish Text with Sentiment Analysis and Named Entity Recognition",
+"published": "2022-04-04",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2204.10196v3",
+"title": "Multimodal Hate Speech Detection from Bengali Memes and Texts",
+"published": "2022-04-19",
+"doi": "",
+"journal_ref": "Pre-print for our paper at International Conference on Speech & Language Technology for Low-resource Languages (SPELLL'2022)",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2204.09964v1",
+"title": "TEAM-Atreides at SemEval-2022 Task 11: On leveraging data augmentation and ensemble to recognize complex Named Entities in Bangla",
+"published": "2022-04-21",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2204.12753v1",
+"title": "A Comprehensive Understanding of Code-mixed Language Semantics using Hierarchical Transformer",
+"published": "2022-04-27",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2205.11081v4",
+"title": "BanglaNLG and BanglaT5: Benchmarks and Resources for Evaluating Low-Resource Natural Language Generation in Bangla",
+"published": "2022-05-23",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2205.14462v1",
+"title": "BAN-Cap: A Multi-Purpose English-Bangla Image Descriptions Dataset",
+"published": "2022-05-28",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2206.08977v1",
+"title": "BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR) and Line Segmentation",
+"published": "2022-05-29",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2206.00372v1",
+"title": "BD-SHS: A Benchmark Dataset for Learning to Detect Online Bangla Hate Speech in Different Social Contexts",
+"published": "2022-06-01",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2206.14053v2",
+"title": "Bengali Common Voice Speech Dataset for Automatic Speech Recognition",
+"published": "2022-06-28",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2208.01296v1",
+"title": "Silo NLP's Participation at WAT2022",
+"published": "2022-08-02",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2208.09709v2",
+"title": "BSpell: A CNN-Blended BERT Based Bangla Spell Checker",
+"published": "2022-08-20",
+"doi": "10.18653/v1/2023.banglalp-1.2",
+"journal_ref": "Association for Computational Linguistics, 2023",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2208.10801v1",
+"title": "MATra: A Multilingual Attentive Transliteration System for Indian Scripts",
+"published": "2022-08-23",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2209.12650v1",
+"title": "Bangla-Wave: Improving Bangla Automatic Speech Recognition Utilizing N-gram Language Models",
+"published": "2022-09-13",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2209.08119v2",
+"title": "An Automatic Speech Recognition System for Bengali Language based on Wav2Vec2 and Transfer Learning",
+"published": "2022-09-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2209.13461v1",
+"title": "BanglaSarc: A Dataset for Sarcasm Detection",
+"published": "2022-09-27",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2210.03057v1",
+"title": "Language Models are Multilingual Chain-of-Thought Reasoners",
+"published": "2022-10-06",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2210.03479v1",
+"title": "Hate Speech and Offensive Language Detection in Bengali",
+"published": "2022-10-07",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2210.05109v1",
+"title": "BanglaParaphrase: A High-Quality Bangla Paraphrase Dataset",
+"published": "2022-10-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2210.06405v3",
+"title": "Transformer-based Text Classification on Unified Bangla Multi-class Emotion Corpus",
+"published": "2022-10-12",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2210.09389v1",
+"title": "Potrika: Raw and Balanced Newspaper Datasets in the Bangla Language with Eight Topics and Five Attributes",
+"published": "2022-10-17",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2210.12921v3",
+"title": "Investigating self-supervised, weakly supervised and fully supervised training approaches for multi-domain automatic speech recognition: a study on Bangladeshi Bangla",
+"published": "2022-10-24",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2211.07709v1",
+"title": "Incongruity Detection between Bangla News Headline and Body Content through Graph Neural Network",
+"published": "2022-10-26",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2211.03730v3",
+"title": "DPCSpell: A Transformer-based Detector-Purificator-Corrector Framework for Spelling Error Correction of Bangla and Resource Scarce Indic Languages",
+"published": "2022-11-07",
+"doi": "10.1016/j.csl.2024.101703",
+"journal_ref": "Computer Speech and Language 89 (2025) 101703",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2211.11418v4",
+"title": "L3Cube-HindBERT and DevBERT: Pre-Trained BERT Transformer models for Devanagari based Hindi and Marathi Languages",
+"published": "2022-11-21",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2211.14920v1",
+"title": "EPIK: Eliminating multi-model Pipelines with Knowledge-distillation",
+"published": "2022-11-27",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2302.09685v1",
+"title": "Intent Identification and Entity Extraction for Healthcare Queries in Indic Languages",
+"published": "2023-02-19",
+"doi": "",
+"journal_ref": "EACL 2023 Findings Full Paper",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2302.12299v1",
+"title": "In What Languages are Generative Language Models the Most Formal? Analyzing Formality Distribution across Languages",
+"published": "2023-02-23",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2303.09306v2",
+"title": "BanglaCoNER: Towards Robust Bangla Complex Named Entity Recognition",
+"published": "2023-03-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2303.10612v1",
+"title": "Bangla Grammatical Error Detection Using T5 Transformer Model",
+"published": "2023-03-19",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2303.12772v1",
+"title": "Interpretable Bangla Sarcasm Detection using BERT and Explainable AI",
+"published": "2023-03-22",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2304.02739v1",
+"title": "Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks",
+"published": "2023-04-05",
+"doi": "10.1109/ICNLP58431.2023.00011",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2304.03682v3",
+"title": "BenCoref: A Multi-Domain Dataset of Nominal Phrases and Pronominal Reference Annotations",
+"published": "2023-04-07",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2304.04087v1",
+"title": "Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning",
+"published": "2023-04-08",
+"doi": "10.1109/ECCE57851.2023.10101588",
+"journal_ref": "2023 International Conference on Electrical, Computer and Communication Engineering (ECCE)",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2304.04613v1",
+"title": "On Evaluation of Bangla Word Analogies",
+"published": "2023-04-10",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2304.11434v1",
+"title": "L3Cube-IndicSBERT: A simple approach for learning cross-lingual sentence representations using multilingual BERT",
+"published": "2023-04-22",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2305.03207v1",
+"title": "Investigating Lexical Sharing in Multilingual Machine Translation for Indian Languages",
+"published": "2023-05-04",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2305.03300v1",
+"title": "LLM-RM at SemEval-2023 Task 2: Multilingual Complex NER using XLM-RoBERTa",
+"published": "2023-05-05",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2305.06586v2",
+"title": "SemEval-2023 Task 2: Fine-grained Multilingual Named Entity Recognition (MultiCoNER 2)",
+"published": "2023-05-11",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2305.06595v3",
+"title": "BanglaBook: A Large-scale Bangla Dataset for Sentiment Analysis from Book Reviews",
+"published": "2023-05-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2305.09688v1",
+"title": "OOD-Speech: A Large Bengali Speech Recognition Dataset for Out-of-Distribution Benchmarking",
+"published": "2023-05-15",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2305.10510v1",
+"title": "ChatGPT Perpetuates Gender Bias in Machine Translation and Ignores Non-Gendered Pronouns: Findings across Bengali and Five other Low-Resource Languages",
+"published": "2023-05-17",
+"doi": "10.1145/3568813.3600120",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2306.02680v1",
+"title": "BeAts: Bengali Speech Acts Recognition using Multimodal Attention Fusion",
+"published": "2023-06-05",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2306.03507v1",
+"title": "\"A Little is Enough\": Few-Shot Quality Estimation based Corpus Filtering improves Machine Translation",
+"published": "2023-06-06",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2306.06147v1",
+"title": "SentiGOLD: A Large Bangla Gold Standard Multi-Domain Sentiment Analysis Dataset and its Evaluation",
+"published": "2023-06-09",
+"doi": "10.1145/3580305.3599904",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2306.06384v1",
+"title": "Adversarial Training For Low-Resource Disfluency Correction",
+"published": "2023-06-10",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2307.05083v1",
+"title": "Vacaspati: A Diverse Corpus of Bangla Literature",
+"published": "2023-07-11",
+"doi": "10.18653/v1/2023.ijcnlp-main.72",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2307.06979v3",
+"title": "Tackling Fake News in Bengali: Unraveling the Impact of Summarization vs. Augmentation on Pre-trained Language Models",
+"published": "2023-07-13",
+"doi": "10.1007/s42979-025-04398-z",
+"journal_ref": "SN COMPUT. SCI. 6, 917 (2025)",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2307.07392v1",
+"title": "Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach",
+"published": "2023-07-14",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2307.07948v1",
+"title": "Model Adaptation for ASR in low-resource Indian Languages",
+"published": "2023-07-16",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2307.10314v1",
+"title": "Mood Classification of Bangla Songs Based on Lyrics",
+"published": "2023-07-19",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2307.11778v1",
+"title": "Transsion TSUP's speech recognition system for ASRU 2023 MADASR Challenge",
+"published": "2023-07-20",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2308.01987v3",
+"title": "Bengali Fake Reviews: A Benchmark Dataset and Detection System",
+"published": "2023-08-03",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2308.09722v1",
+"title": "A Trustable LSTM-Autoencoder Network for Cyberbullying Detection on Social Media Using Synthetic Data",
+"published": "2023-08-15",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2308.10783v2",
+"title": "Zero- and Few-Shot Prompting with LLMs: A Comparative Study with Fine-tuned Models for Bangla Sentiment Analysis",
+"published": "2023-08-21",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2308.13545v1",
+"title": "Feature Extraction Using Deep Generative Models for Bangla Text Classification on a New Comprehensive Dataset",
+"published": "2023-08-21",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2308.15448v1",
+"title": "Vulgar Remarks Detection in Chittagonian Dialect of Bangla",
+"published": "2023-08-29",
+"doi": "10.14746/amup.9788323241775",
+"journal_ref": "Human Language Technologies as a Challenge for Computer Science and Linguistics, Zygmunt Vetulani, Patrick Paroubek (eds.)2023",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2308.15745v1",
+"title": "Cyberbullying Detection for Low-resource Languages and Dialects: Review of the State of the Art",
+"published": "2023-08-30",
+"doi": "10.1016/j.ipm.2023.103454",
+"journal_ref": "Information Processing & Management 2023",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2308.16075v2",
+"title": "Impact of Visual Context on Noisy Multimodal NMT: An Empirical Study for English to Indian Languages",
+"published": "2023-08-30",
+"doi": "10.1145/3748311",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2309.08565v3",
+"title": "How Transferable are Attribute Controllers on Pretrained Multilingual Translation Models?",
+"published": "2023-09-15",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2309.10272v2",
+"title": "Mixed-Distil-BERT: Code-mixed Language Modeling for Bangla, English, and Hindi",
+"published": "2023-09-19",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2309.13173v2",
+"title": "BenLLMEval: A Comprehensive Evaluation into the Potentials and Pitfalls of Large Language Models on Bengali NLP",
+"published": "2023-09-22",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2309.13731v2",
+"title": "Arabic Sentiment Analysis with Noisy Deep Explainable Model",
+"published": "2023-09-24",
+"doi": "10.1145/3639233.3639241",
+"journal_ref": "NLPIR 2023: 2023 7th International Conference on Natural Language Processing and Information Retrieval, Seoul, Republic of Korea, December 2023",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2309.15670v3",
+"title": "MONOVAB : An Annotated Corpus for Bangla Multi-label Emotion Detection",
+"published": "2023-09-27",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2310.02249v1",
+"title": "Harnessing Pre-Trained Sentence Transformers for Offensive Language Detection in Indian Languages",
+"published": "2023-10-03",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2310.10672v1",
+"title": "Hybrid Quantum-Classical Machine Learning for Sentiment Analysis",
+"published": "2023-10-08",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2310.07826v1",
+"title": "Antarlekhaka: A Comprehensive Tool for Multi-task Natural Language Annotation",
+"published": "2023-10-11",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2310.08187v1",
+"title": "Visual Question Generation in Bengali",
+"published": "2023-10-12",
+"doi": "",
+"journal_ref": "Proceedings of the Workshop on Multimodal, Multilingual Natural Language Generation and Multilingual WebNLG Challenge (MM-NLG 2023), 2023, 10-19",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2310.11465v1",
+"title": "BaitBuster-Bangla: A Comprehensive Dataset for Clickbait Detection in Bangla with Multi-Feature and Multi-Modal Analysis",
+"published": "2023-10-13",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2310.09238v2",
+"title": "BanglaNLP at BLP-2023 Task 2: Benchmarking different Transformer Models for Sentiment Analysis of Bangla Social Media Posts",
+"published": "2023-10-13",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2310.10781v1",
+"title": "BanglaNLP at BLP-2023 Task 1: Benchmarking different Transformer Models for Violence Inciting Text Detection in Bengali",
+"published": "2023-10-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2310.10935v1",
+"title": "Intent Detection and Slot Filling for Home Assistants: Dataset and Analysis for Bangla and Sylheti",
+"published": "2023-10-17",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2310.14261v1",
+"title": "RSM-NLP at BLP-2023 Task 2: Bangla Sentiment Analysis using Weighted and Majority Voted Fine-Tuned Transformers",
+"published": "2023-10-22",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2310.14654v2",
+"title": "SPRING-INX: A Multilingual Indian Language Speech Corpus by SPRING Lab, IIT Madras",
+"published": "2023-10-23",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2310.16968v1",
+"title": "Understanding Social Structures from Contemporary Literary Fiction using Character Interaction Graph -- Half Century Chronology of Influential Bengali Writers",
+"published": "2023-10-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2310.18023v2",
+"title": "SentMix-3L: A Bangla-English-Hindi Code-Mixed Dataset for Sentiment Analysis",
+"published": "2023-10-27",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2310.18387v2",
+"title": "OffMix-3L: A Novel Code-Mixed Dataset in Bangla-English-Hindi for Offensive Language Identification",
+"published": "2023-10-27",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2311.00587v2",
+"title": "Crosslingual Retrieval Augmented In-context Learning for Bangla",
+"published": "2023-11-01",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2311.02570v1",
+"title": "BanMANI: A Dataset to Identify Manipulated Social Media News in Bangla",
+"published": "2023-11-05",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2311.03078v1",
+"title": "BanLemma: A Word Formation Dependent Rule and Dictionary Based Bangla Lemmatizer",
+"published": "2023-11-06",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2311.03196v1",
+"title": "Pseudo-Labeling for Domain-Agnostic Bangla Automatic Speech Recognition",
+"published": "2023-11-06",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2311.03792v1",
+"title": "Character-Level Bangla Text-to-IPA Transcription Using Transformer Architecture with Sequence Alignment",
+"published": "2023-11-07",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2311.06204v1",
+"title": "BanglaBait: Semi-Supervised Adversarial Approach for Clickbait Detection on Bangla Clickbait Dataset",
+"published": "2023-11-10",
+"doi": "10.26615/978-954-452-092-2_081",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2311.10862v1",
+"title": "Formal concept analysis for evaluating intrinsic dimension of a natural language",
+"published": "2023-11-17",
+"doi": "10.1007/978-3-031-45170-6_34",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2311.11142v2",
+"title": "Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language",
+"published": "2023-11-18",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2311.12735v1",
+"title": "LowResource at BLP-2023 Task 2: Leveraging BanglaBert for Low Resource Sentiment Analysis of Bangla Language",
+"published": "2023-11-21",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2311.15023v1",
+"title": "Offensive Language Identification in Transliterated and Code-Mixed Bangla",
+"published": "2023-11-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2311.15029v1",
+"title": "nlpBDpatriots at BLP-2023 Task 1: A Two-Step Classification for Violence Inciting Text Detection in Bangla",
+"published": "2023-11-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2311.15032v1",
+"title": "nlpBDpatriots at BLP-2023 Task 2: A Transfer Learning Approach to Bangla Sentiment Analysis",
+"published": "2023-11-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2311.17743v1",
+"title": "Mukhyansh: A Headline Generation Dataset for Indic Languages",
+"published": "2023-11-29",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2311.18778v1",
+"title": "Mavericks at BLP-2023 Task 1: Ensemble-based Approach Using Language Models for Violence Inciting Text Detection",
+"published": "2023-11-30",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2312.05467v1",
+"title": "Textual Toxicity in Social Media: Understanding the Bangla Toxic Language Expressed in Facebook Comment",
+"published": "2023-12-09",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2312.05671v1",
+"title": "Hate Speech and Offensive Content Detection in Indo-Aryan Languages: A Battle of LSTM and Transformers",
+"published": "2023-12-09",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2312.09508v1",
+"title": "IndicIRSuite: Multilingual Dataset and Neural Information Models for Indian Languages",
+"published": "2023-12-15",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2312.10528v1",
+"title": "Cross-Linguistic Offensive Language Detection: BERT-Based Analysis of Bengali, Assamese, & Bodo Conversational Hateful Content from Social Media",
+"published": "2023-12-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2312.10679v1",
+"title": "Bengali Intent Classification with Generative Adversarial BERT",
+"published": "2023-12-17",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2401.09446v1",
+"title": "Explainable Multimodal Sentiment Analysis on Bengali Memes",
+"published": "2023-12-20",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2401.02254v2",
+"title": "L3Cube-IndicNews: News-based Short Text and Long Document Classification Datasets in Indic Languages",
+"published": "2024-01-04",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2401.06787v1",
+"title": "Deep Learning Based Cyberbullying Detection in Bangla Language",
+"published": "2024-01-07",
+"doi": "10.33166/AETiC.2024.01.005",
+"journal_ref": "Annals of Emerging Technologies in Computing (AETiC), Print ISSN: 2516-0281, Online ISSN: 2516-029X, pp. 50-65, Vol. 8, No. 1, 1st January 2024, Available: http://aetic.theiaer.org/archive/v8/v8n1/p5.html",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2401.07098v1",
+"title": "A Novel Multi-Stage Prompting Approach for Language Agnostic MCQ Generation using GPT",
+"published": "2024-01-13",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2401.07310v1",
+"title": "Harnessing Large Language Models Over Transformer Models for Detecting Bengali Depressive Social Media Text: A Comprehensive Study",
+"published": "2024-01-14",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2401.07847v1",
+"title": "Milestones in Bengali Sentiment Analysis leveraging Transformer-models: Fundamentals, Challenges and Future Directions",
+"published": "2024-01-15",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2401.10521v2",
+"title": "Cross-lingual Editing in Multilingual Language Models",
+"published": "2024-01-19",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2401.10535v1",
+"title": "The \"Colonial Impulse\" of Natural Language Processing: An Audit of Bengali Sentiment Analysis Tools and Their Identity-based Biases",
+"published": "2024-01-19",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2401.11021v1",
+"title": "Analysis and Detection of Multilingual Hate Speech Using Transformer Based Deep Learning",
+"published": "2024-01-19",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2401.13165v3",
+"title": "Misgendering and Assuming Gender in Machine Translation when Working with Low-Resource Languages",
+"published": "2024-01-24",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2401.14360v2",
+"title": "A Comparative Analysis of Noise Reduction Methods in Sentiment Analysis on Noisy Bangla Texts",
+"published": "2024-01-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2401.15532v1",
+"title": "Byte Pair Encoding Is All You Need For Automatic Bengali Speech Recognition",
+"published": "2024-01-28",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2401.16748v1",
+"title": "Detecting Racist Text in Bengali: An Ensemble Deep Learning Framework",
+"published": "2024-01-30",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2401.17206v1",
+"title": "Gazetteer-Enhanced Bangla Named Entity Recognition with BanglaBERT Semantic Embeddings K-Means-Infused CRF Model",
+"published": "2024-01-30",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2401.18034v3",
+"title": "Paramanu: Compact and Competitive Monolingual Language Models for Low-Resource Morphologically Rich Indian Languages",
+"published": "2024-01-31",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2402.02302v1",
+"title": "Predicting positive transfer for improved low-resource speech recognition using acoustic pseudo-tokens",
+"published": "2024-02-03",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2402.07262v1",
+"title": "Low-Resource Counterspeech Generation for Indic Languages: The Case of Bengali and Hindi",
+"published": "2024-02-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2402.09738v1",
+"title": "Align before Attend: Aligning Visual and Textual Features for Multimodal Hateful Content Detection",
+"published": "2024-02-15",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2402.14179v1",
+"title": "Bangla AI: A Framework for Machine Translation Utilizing Large Language Models for Ethnic Media",
+"published": "2024-02-21",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2402.14818v2",
+"title": "PALO: A Polyglot Large Multimodal Model for 5B People",
+"published": "2024-02-22",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2403.05519v1",
+"title": "Authorship Attribution in Bangla Literature (AABL) via Transfer Learning using ULMFiT",
+"published": "2024-03-08",
+"doi": "10.1145/3530691",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2403.10829v2",
+"title": "Deciphering Hate: Identifying Hateful Memes and Their Targets",
+"published": "2024-03-16",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2403.10900v1",
+"title": "BEnQA: A Question Answering and Reasoning Benchmark for Bengali and English",
+"published": "2024-03-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2403.17407v4",
+"title": "Transcribing Bengali Text with Regional Dialects to IPA using District Guided Tokens",
+"published": "2024-03-26",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2403.20084v1",
+"title": "IPA Transcription of Bengali Texts",
+"published": "2024-03-29",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2404.01345v1",
+"title": "Enhancing Bangla Fake News Detection Using Bidirectional Gated Recurrent Units and Deep Learning Techniques",
+"published": "2024-03-31",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2404.01481v1",
+"title": "A Study on Scaling Up Multilingual News Framing Analysis",
+"published": "2024-04-01",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2404.02375v1",
+"title": "Optical Text Recognition in Nepali and Bengali: A Transformer-based Approach",
+"published": "2024-04-03",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2404.03528v3",
+"title": "BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering",
+"published": "2024-04-04",
+"doi": "",
+"journal_ref": "The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2404.05866v2",
+"title": "GeniL: A Multilingual Dataset on Generalizing Language",
+"published": "2024-04-08",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2404.11752v1",
+"title": "Mapping Violence: Developing an Extensive Framework to Build a Bangla Sectarian Expression Dataset from Social Media Interactions",
+"published": "2024-04-17",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2404.18534v2",
+"title": "Evaluating and Mitigating Linguistic Discrimination in Large Language Models",
+"published": "2024-04-29",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2405.01873v1",
+"title": "Enhancing Bangla Language Next Word Prediction and Sentence Completion through Extended RNN with Bi-LSTM Model On N-gram Language",
+"published": "2024-05-03",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2405.06667v1",
+"title": "Sentiment Polarity Analysis of Bangla Food Reviews Using Machine and Deep Learning Algorithms",
+"published": "2024-05-03",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2405.02937v2",
+"title": "Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study",
+"published": "2024-05-05",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2405.06922v1",
+"title": "EmoMix-3L: A Code-Mixed Dataset for Bangla-English-Hindi Emotion Detection",
+"published": "2024-05-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2405.11579v1",
+"title": "Exploring the Capabilities of Prompted Large Language Models in Educational and Assessment Applications",
+"published": "2024-05-19",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2406.00039v1",
+"title": "How Ready Are Generative Pre-trained Large Language Models for Explaining Bengali Grammatical Errors?",
+"published": "2024-05-27",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2405.20805v3",
+"title": "Multilingual Text Style Transfer: Datasets & Models for Indian Languages",
+"published": "2024-05-31",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2406.05885v2",
+"title": "Are Large Language Models Actually Good at Text Style Transfer?",
+"published": "2024-06-09",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2406.12931v1",
+"title": "Automatic Speech Recognition for Biomedical Data in Bengali Language",
+"published": "2024-06-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2406.10993v1",
+"title": "CoSTA: Code-Switched Speech Translation using Aligned Speech-Text Interleaving",
+"published": "2024-06-16",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2406.13332v1",
+"title": "How effective is Multi-source pivoting for Translation of Low Resource Indian Languages?",
+"published": "2024-06-19",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2406.14284v2",
+"title": "Leveraging LLMs for Bangla Grammar Error Correction:Error Categorization, Synthetic Data, and Model Evaluation",
+"published": "2024-06-20",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2406.15053v2",
+"title": "PARIKSHA: A Large-Scale Investigation of Human-LLM Evaluator Agreement on Multilingual and Multi-Cultural Data",
+"published": "2024-06-21",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2406.17375v1",
+"title": "An Empirical Study on the Characteristics of Bias upon Context Length Variation for Bangla",
+"published": "2024-06-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2406.17377v1",
+"title": "A Three-Pronged Approach to Cross-Lingual Adaptation with Multilingual LLMs",
+"published": "2024-06-25",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2407.00416v2",
+"title": "Too Late to Train, Too Early To Use? A Study on Necessity and Viability of Low-Resource Bengali LLMs",
+"published": "2024-06-29",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2407.03536v3",
+"title": "Social Bias in Large Language Models For Bangla: An Empirical Study on Gender and Religious Bias",
+"published": "2024-07-03",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2407.06432v1",
+"title": "An Empirical Study of Gendered Stereotypes in Emotional Attributes for Bangla in Multilingual Large Language Models",
+"published": "2024-07-08",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2407.09187v1",
+"title": "Enhancing Depressive Post Detection in Bangla: A Comparative Study of TF-IDF, BERT and FastText Embeddings",
+"published": "2024-07-12",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2407.14056v2",
+"title": "Rasa: Building Expressive Speech Synthesis Systems for Indian Languages in Low-resource Settings",
+"published": "2024-07-19",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2407.18376v1",
+"title": "Exploring Bengali Religious Dialect Biases in Large Language Models with Evaluation Perspectives",
+"published": "2024-07-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2407.19528v1",
+"title": "Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis",
+"published": "2024-07-28",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2408.02237v1",
+"title": "Do Large Language Models Speak All Languages Equally? A Comparative Study in Low-Resource Settings",
+"published": "2024-08-05",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2408.08964v3",
+"title": "BnSentMix: A Diverse Bengali-English Code-Mixed Dataset for Sentiment Analysis",
+"published": "2024-08-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2409.09504v1",
+"title": "Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language",
+"published": "2024-09-14",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2409.11638v2",
+"title": "BanStereoSet: A Dataset to Measure Stereotypical Social Biases in LLMs for Bangla",
+"published": "2024-09-18",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2409.15052v1",
+"title": "Brotherhood at WMT 2024: Leveraging LLM-Generated Contextual Conversations for Cross-Lingual Image Captioning",
+"published": "2024-09-23",
+"doi": "",
+"journal_ref": "https://aclanthology.org/2024.wmt-1.81/",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2409.19015v1",
+"title": "Textless NLP -- Zero Resource Challenge with Low Resource Compute",
+"published": "2024-09-24",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2409.15879v1",
+"title": "Machine Translation Advancements of Low-Resource Indian Languages by Transfer Learning",
+"published": "2024-09-24",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2409.17130v1",
+"title": "Assessing the Level of Toxicity Against Distinct Groups in Bangla Social Media Comments: A Comprehensive Investigation",
+"published": "2024-09-25",
+"doi": "10.1007/978-981-96-1758-6_46",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2410.03576v1",
+"title": "Table Question Answering for Low-resourced Indic Languages",
+"published": "2024-10-04",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2410.03923v1",
+"title": "Question-Answering System for Bangla: Fine-tuning BERT-Bangla for a Closed Domain",
+"published": "2024-10-04",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2410.10219v2",
+"title": "ChakmaNMT: Machine Translation for a Low-Resource and Endangered Language via Transliteration",
+"published": "2024-10-14",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2410.10229v1",
+"title": "BanglaQuAD: A Bengali Open-domain Question Answering Dataset",
+"published": "2024-10-14",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2410.10407v1",
+"title": "MMCFND: Multimodal Multilingual Caption-aware Fake News Detection for Low-resource Indic Languages",
+"published": "2024-10-14",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2410.10580v1",
+"title": "Multilingual Controlled Generation And Gold-Standard-Agnostic Evaluation of Code-Mixed Sentences",
+"published": "2024-10-14",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2410.11079v1",
+"title": "Code-Mixer Ya Nahi: Novel Approaches to Measuring Multilingual LLMs' Code-Mixing Capabilities",
+"published": "2024-10-14",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2410.13153v1",
+"title": "Better to Ask in English: Evaluation of Large Language Models on English, Low-resource and Cross-Lingual Settings",
+"published": "2024-10-17",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2410.13281v4",
+"title": "BanTH: A Multi-label Hate Speech Detection Dataset for Transliterated Bangla",
+"published": "2024-10-17",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2410.14991v2",
+"title": "ChitroJera: A Regionally Relevant Visual Question Answering Dataset for Bangla",
+"published": "2024-10-19",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2410.17225v2",
+"title": "Dhoroni: Exploring Bengali Climate Change and Environmental Views with a Multi-Perspective News Dataset and Natural Language Processing",
+"published": "2024-10-22",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2410.21200v2",
+"title": "BanglaLlama: LLaMA for Bangla Language",
+"published": "2024-10-28",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2411.04752v3",
+"title": "RetrieveGPT: Merging Prompts and Mathematical Models for Enhanced Code-Mixed Information Retrieval",
+"published": "2024-11-07",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2411.06548v2",
+"title": "CineXDrama: Relevance Detection and Sentiment Analysis of Bangla YouTube Comments on Movie-Drama using Transformers: Insights from Interpretability Tool",
+"published": "2024-11-10",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2411.10477v1",
+"title": "A Survey on Importance of Homophones Spelling Correction Model for Khmer Authors",
+"published": "2024-11-11",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2411.08344v1",
+"title": "Bangla Grammatical Error Detection Leveraging Transformer-based Token Classification",
+"published": "2024-11-13",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2411.09214v3",
+"title": "HateGPT: Unleashing GPT-3.5 Turbo to Combat Hate Speech on X",
+"published": "2024-11-14",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2411.10636v3",
+"title": "Mitigating Extrinsic Gender Bias for Bangla Classification Tasks",
+"published": "2024-11-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2411.10879v1",
+"title": "BanglaDialecto: An End-to-End AI-Powered Regional Speech Standardization",
+"published": "2024-11-16",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2411.15270v1",
+"title": "BanglaEmbed: Efficient Sentence Embedding Models for a Low-Resource Language Using Cross-Lingual Distillation Techniques",
+"published": "2024-11-22",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2411.17181v2",
+"title": "A Novel Word Pair-based Gaussian Sentence Similarity Algorithm For Bengali Extractive Text Summarization",
+"published": "2024-11-26",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2411.19726v1",
+"title": "Towards Santali Linguistic Inclusion: Building the First Santali-to-English Translation Model using mT5 Transformer and Data Augmentation",
+"published": "2024-11-29",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2412.02058v1",
+"title": "BN-AuthProf: Benchmarking Machine Learning for Bangla Author Profiling on Social Media Texts",
+"published": "2024-12-03",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2412.04351v2",
+"title": "BhashaVerse : Translation Ecosystem for Indian Subcontinent Languages",
+"published": "2024-12-05",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2412.05861v1",
+"title": "Depression detection from Social Media Bangla Text Using Recurrent Neural Networks",
+"published": "2024-12-08",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2412.08753v2",
+"title": "BDA: Bangla Text Data Augmentation Framework",
+"published": "2024-12-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2412.12171v1",
+"title": "AI Adoption to Combat Financial Crime: Study on Natural Language Processing in Adverse Media Screening of Financial Services in English and Bangla multilingual interpretation",
+"published": "2024-12-12",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2412.11823v1",
+"title": "Advancements and Challenges in Bangla Question Answering Models: A Comprehensive Review",
+"published": "2024-12-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2412.13161v2",
+"title": "BanglishRev: A Large-Scale Bangla-English and Code-mixed Dataset of Product Reviews in E-Commerce",
+"published": "2024-12-17",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2412.16497v1",
+"title": "Real-time Bangla Sign Language Translator",
+"published": "2024-12-21",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2412.18440v1",
+"title": "Unlocking the Potential of Multiple BERT Models for Bangla Question Answering in NCTB Textbooks",
+"published": "2024-12-24",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2501.01069v1",
+"title": "BeliN: A Novel Corpus for Bengali Religious News Headline Generation using Contextual Feature Fusion",
+"published": "2025-01-02",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2501.02599v1",
+"title": "Empowering Bengali Education with AI: Solving Bengali Math Word Problems through Transformer Models",
+"published": "2025-01-05",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2501.03479v4",
+"title": "Women, Infamous, and Exotic Beings: A Comparative Study of Honorific Usages in Wikipedia and LLMs for Bengali and Hindi",
+"published": "2025-01-07",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2501.04425v1",
+"title": "End-to-End Bangla AI for Solving Math Olympiad Problem Benchmark: Leveraging Large Language Model Using Integrated Approach",
+"published": "2025-01-08",
+"doi": "10.5121/ijnlc.2024.13604",
+"journal_ref": "IJNLC,vol:13, Issue:5/6, page 49-59,2024",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2501.05749v1",
+"title": "Bridging Dialects: Translating Standard Bangla to Regional Variants Using Neural Models",
+"published": "2025-01-10",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2501.09604v1",
+"title": "From Scarcity to Capability: Empowering Fake News Detection in Low-Resource Languages with LLMs",
+"published": "2025-01-16",
+"doi": "",
+"journal_ref": "https://aclanthology.org/2025.indonlp-1.12/",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2501.15051v1",
+"title": "Abstractive Text Summarization for Bangla Language Using NLP and Machine Learning Approaches",
+"published": "2025-01-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2501.15747v2",
+"title": "IndicMMLU-Pro: Benchmarking Indic Large Language Models on Multi-Task Language Understanding",
+"published": "2025-01-27",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2501.18766v1",
+"title": "Breaking the Fake News Barrier: Deep Learning Approaches in Bangla Language",
+"published": "2025-01-30",
+"doi": "10.1109/ICCCNT61001.2024.10725195",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2502.01518v1",
+"title": "Hybrid Machine Learning Model for Detecting Bangla Smishing Text Using BERT and Character-Level CNN",
+"published": "2025-02-03",
+"doi": "10.1109/ICECE64886.2024.11024872",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2502.04245v1",
+"title": "TriNER: A Series of Named Entity Recognition Models For Hindi, Bengali & Marathi",
+"published": "2025-02-06",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2502.04718v2",
+"title": "Evaluating Text Style Transfer Evaluation: Are There Any Reliable Metrics?",
+"published": "2025-02-07",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2502.05729v1",
+"title": "BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting",
+"published": "2025-02-09",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2502.11187v3",
+"title": "TituLLMs: A Family of Bangla LLMs with Comprehensive Benchmarking",
+"published": "2025-02-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2502.11198v3",
+"title": "ANCHOLIK-NER: A Benchmark Dataset for Bangla Regional Named Entity Recognition",
+"published": "2025-02-16",
+"doi": "10.1371/journal.pone.0342786",
+"journal_ref": "PLOS One, Volume 21, Issue 2 (February 2026)",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2502.12050v3",
+"title": "SpeechT: Findings of the First Mentorship in Speech Translation",
+"published": "2025-02-17",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2503.04781v1",
+"title": "Bangla Fake News Detection Based On Multichannel Combined CNN-LSTM",
+"published": "2025-02-24",
+"doi": "10.1109/ICCCNT51525.2021.9580035",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2502.20420v1",
+"title": "Chitranuvad: Adapting Multi-Lingual LLMs for Multimodal Translation",
+"published": "2025-02-27",
+"doi": "",
+"journal_ref": "https://aclanthology.org/2024.wmt-1.80/",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2503.02993v1",
+"title": "Zero-Shot Multi-Label Classification of Bangla Documents: Large Decoders Vs. Classic Encoders",
+"published": "2025-03-04",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2503.10995v3",
+"title": "TigerLLM - A Family of Bangla Large Language Models",
+"published": "2025-03-14",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2503.23687v1",
+"title": "MKA: Leveraging Cross-Lingual Consensus for Model Abstention",
+"published": "2025-03-31",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2504.02293v3",
+"title": "Breaking the Silence: A Dataset and Benchmark for Bangla Text-to-Gloss Translation",
+"published": "2025-04-03",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2504.07989v2",
+"title": "Regional Tiny Stories: Using Small Models to Compare Language Learning and Tokenizer Performance",
+"published": "2025-04-07",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2504.05642v1",
+"title": "Leveraging Prompt-Tuning for Bengali Grammatical Error Explanation Using Large Language Models",
+"published": "2025-04-08",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2504.08408v1",
+"title": "BOISHOMMO: Holistic Approach for Bangla Hate Speech",
+"published": "2025-04-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2504.11290v2",
+"title": "Automated Python Translation",
+"published": "2025-04-15",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2504.16121v1",
+"title": "LegalRAG: A Hybrid RAG System for Multilingual Legal Information Retrieval",
+"published": "2025-04-19",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2504.16977v1",
+"title": "Tokenization Matters: Improving Zero-Shot NER for Indic Languages",
+"published": "2025-04-23",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2505.05070v1",
+"title": "Performance Evaluation of Large Language Models in Bangla Consumer Health Query Summarization",
+"published": "2025-05-08",
+"doi": "10.1109/ICCIT64611.2024.11022034",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2505.11008v1",
+"title": "Reconstructing Syllable Sequences in Abugida Scripts with Incomplete Inputs",
+"published": "2025-05-16",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2505.12273v1",
+"title": "LLM-Based Evaluation of Low-Resource Machine Translation: A Reference-less Dialect Guided Approach with a Refined Sylheti-English Benchmark",
+"published": "2025-05-18",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2505.21510v3",
+"title": "Complexity counts: global and local perspectives on Indo-Aryan numeral systems",
+"published": "2025-05-19",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2505.17102v1",
+"title": "BanglaByT5: Byte-Level Modelling for Bangla",
+"published": "2025-05-21",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2505.18709v1",
+"title": "Improving Bangla Linguistics: Advanced LSTM, Bi-LSTM, and Seq2Seq Models for Translating Sylheti to Modern Bangla",
+"published": "2025-05-24",
+"doi": "10.1109/ICCCNT61001.2024.10723886",
+"journal_ref": "2024 15th Int. Conf. on Computing Communication and Networking Technologies (ICCCNT), Kamand, India, pp. 1-7, 2024",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2505.18951v2",
+"title": "BnMMLU: Measuring Massive Multitask Language Understanding in Bengali",
+"published": "2025-05-25",
+"doi": "10.18653/v1/2026.findings-acl.593",
+"journal_ref": "Findings of the Association for Computational Linguistics: ACL 2026, pp. 12211-12230",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2505.19018v2",
+"title": "CrosGrpsABS: Cross-Attention over Syntactic and Semantic Graphs for Aspect-Based Sentiment Analysis in a Low-Resource Language",
+"published": "2025-05-25",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2505.21092v2",
+"title": "BLUCK: A Benchmark Dataset for Bengali Linguistic Understanding and Cultural Knowledge",
+"published": "2025-05-27",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2505.21354v2",
+"title": "Leveraging Large Language Models for Bengali Math Word Problem Solving with Chain of Thought Reasoning",
+"published": "2025-05-27",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2506.02059v1",
+"title": "Learning More with Less: Self-Supervised Approaches for Low-Resource Speech Emotion Recognition",
+"published": "2025-06-01",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2506.06813v1",
+"title": "BTPD: A Multilingual Hand-curated Dataset of Bengali Transnational Political Discourse Across Online Communities",
+"published": "2025-06-07",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2506.06816v2",
+"title": "How do datasets, developers, and models affect biases in a low-resourced language?: The Case of the Bengali Language",
+"published": "2025-06-07",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2506.07032v3",
+"title": "A Culturally-diverse Multilingual Multimodal Video Benchmark & Model",
+"published": "2025-06-08",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2506.10154v1",
+"title": "Analyzing Emotions in Bangla Social Media Comments Using Machine Learning and LIME",
+"published": "2025-06-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2506.13610v5",
+"title": "A Structured Dataset of Disease-Symptom Associations to Improve Diagnostic Accuracy",
+"published": "2025-06-16",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2506.16251v1",
+"title": "End-to-End Speech Translation for Low-Resource Languages Using Weakly Labeled Data",
+"published": "2025-06-19",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2506.19831v1",
+"title": "How Effectively Can BERT Models Interpret Context and Detect Bengali Communal Violent Text?",
+"published": "2025-06-24",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2506.21686v2",
+"title": "ANUBHUTI: A Comprehensive Corpus For Sentiment Analysis In Bangla Regional Languages",
+"published": "2025-06-26",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2506.23930v1",
+"title": "Leveraging the Potential of Prompt Engineering for Hate Speech Detection in Low-Resource Languages",
+"published": "2025-06-30",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2507.01931v1",
+"title": "Adaptability of ASR Models on Low-Resource Language: A Comparative Study of Whisper and Wav2Vec-BERT on Bangla",
+"published": "2025-07-02",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2507.11084v1",
+"title": "Social Media Sentiments Analysis on the July Revolution in Bangladesh: A Hybrid Transformer Based Machine Learning Approach",
+"published": "2025-07-15",
+"doi": "10.1109/ECAI65401.2025.11095452",
+"journal_ref": "IEEE International Conference on Electronics, Computers and Artificial Intelligence (ECAI), 2025",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2507.15272v1",
+"title": "A2TTS: TTS for Low Resource Indian Languages",
+"published": "2025-07-21",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2507.16183v1",
+"title": "BIDWESH: A Bangla Regional Based Hate Speech Detection Dataset",
+"published": "2025-07-22",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2507.18448v2",
+"title": "Restoring Rhythm: Punctuation Restoration Using Transformer Models for Bangla, A Low-Resource Language",
+"published": "2025-07-24",
+"doi": "10.1007/978-3-032-11352-8_3",
+"journal_ref": "Data Science, AI and Applications. ICDSAIA 2025. Communications in Computer and Information Science, vol 2682. Springer, Cham",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2507.21234v1",
+"title": "Understanding Public Perception of Crime in Bangladesh: A Transformer-Based Approach with Explainability",
+"published": "2025-07-28",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2507.21242v1",
+"title": "Bangla BERT for Hyperpartisan News Detection: A Semi-Supervised and Explainable AI Approach",
+"published": "2025-07-28",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2507.23248v2",
+"title": "Script Fragmentation and Format: What Drives the English-Bengali Performance Gap in Open LLMs?",
+"published": "2025-07-31",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2508.00605v3",
+"title": "GHTM: A graph-based hybrid topic modeling approach for Bengali language",
+"published": "2025-08-01",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2508.07090v1",
+"title": "BharatBBQ: A Multilingual Bias Benchmark for Question Answering in the Indian Context",
+"published": "2025-08-09",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2508.08933v3",
+"title": "Reveal-Bangla: A Dataset for Cross-Lingual Multi-Step Reasoning Evaluation",
+"published": "2025-08-12",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2508.09091v3",
+"title": "Utilizing Multilingual Encoders to Improve Large Language Models for Low-Resource Languages",
+"published": "2025-08-12",
+"doi": "10.1109/MERCon67903.2025.11216992",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2508.10687v1",
+"title": "Continuous Bangla Sign Language Translation: Mitigating the Expense of Gloss Annotation with the Assistance of Graph",
+"published": "2025-08-14",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2508.15711v1",
+"title": "Stemming -- The Evolution and Current State with a Focus on Bangla",
+"published": "2025-08-21",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2508.19887v1",
+"title": "Bangla-Bayanno: A 52K-Pair Bengali Visual Question Answering Dataset with LLM-Assisted Translation Refinement",
+"published": "2025-08-27",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2509.01011v1",
+"title": "Ranking of Bangla Word Graph using Graph-based Ranking Algorithms",
+"published": "2025-08-31",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2509.02503v1",
+"title": "L3Cube-IndicHeadline-ID: A Dataset for Headline Identification and Semantic Evaluation in Low-Resource Indian Languages",
+"published": "2025-09-02",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2509.09101v1",
+"title": "TigerCoder: A Novel Suite of LLMs for Code Generation in Bangla",
+"published": "2025-09-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2509.12459v1",
+"title": "Does Language Model Understand Language?",
+"published": "2025-09-15",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2509.20567v1",
+"title": "SwasthLLM: a Unified Cross-Lingual, Multi-Task, and Meta-Learning Zero-Shot Framework for Medical Diagnosis Using Contrastive Representations",
+"published": "2025-09-24",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2510.24724v1",
+"title": "AmarDoctor: An AI-Driven, Multilingual, Voice-Interactive Digital Health Application for Primary Care Triage and Patient Management to Bridge the Digital Health Divide for Bengali Speakers",
+"published": "2025-09-28",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2510.01276v1",
+"title": "LLM Based Sentiment Classification From Bangladesh E-Commerce Reviews",
+"published": "2025-09-30",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2510.01995v1",
+"title": "LLM-Based Multi-Task Bangla Hate Speech Detection: Type, Severity, and Target",
+"published": "2025-10-02",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2510.03898v2",
+"title": "Read Between the Lines: A Benchmark for Uncovering Political Bias in Bangla News Articles",
+"published": "2025-10-04",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2510.06188v2",
+"title": "BanglaTalk: Towards Real-Time Speech Assistance for Bengali Regional Dialects",
+"published": "2025-10-07",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2510.09032v2",
+"title": "Exploring Cross-Lingual Knowledge Transfer via Transliteration-Based MLM Fine-Tuning for Critically Low-resource Chakma Language",
+"published": "2025-10-10",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2510.09771v2",
+"title": "PromptGuard at BLP-2025 Task 1: A Few-Shot Classification Framework Using Majority Voting and Keyword Similarity for Bengali Hate Speech Detection",
+"published": "2025-10-10",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2510.14014v1",
+"title": "CRaFT: An Explanation-Based Framework for Evaluating Cultural Reasoning in Multilingual Language Models",
+"published": "2025-10-15",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2510.14305v2",
+"title": "MathMist: A Parallel Multilingual Benchmark Dataset for Mathematical Problem Solving and Reasoning",
+"published": "2025-10-16",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2510.16985v1",
+"title": "Parameter-Efficient Fine-Tuning for Low-Resource Languages: A Comparative Study of LLMs for Bengali Hate Speech Detection",
+"published": "2025-10-19",
+"doi": "10.1109/COMPAS67506.2025.11381789",
+"journal_ref": "2025 IEEE International Conference on Computing, Applications and Systems (COMPAS), 2025",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2510.17252v2",
+"title": "Quantifying Affective Bias in Low-Resource Media: Large-Scale Emotion Profiling of Bengali Headlines",
+"published": "2025-10-20",
+"doi": "10.1109/PECCII70991.2026.11662024",
+"journal_ref": "2026 International Conference on Power, Electronics, Communications, Computing, and Intelligent Infrastructure (PECCII)",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2510.18898v1",
+"title": "Transformer-Based Low-Resource Language Translation: A Study on Standard Bengali to Sylheti",
+"published": "2025-10-20",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2510.18355v2",
+"title": "KrishokBondhu: A Retrieval-Augmented Voice-Based Agricultural Advisory Call Center for Bengali Farmers",
+"published": "2025-10-21",
+"doi": "10.1109/QPAIN69676.2026.11546653",
+"journal_ref": "2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2510.20043v1",
+"title": "From Facts to Folklore: Evaluating Large Language Models on Bengali Cultural Knowledge",
+"published": "2025-10-22",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2510.21584v2",
+"title": "Automated Quality Control for Language Documentation: Detecting Phonotactic Inconsistencies in a Kokborok Wordlist",
+"published": "2025-10-24",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2510.22395v1",
+"title": "Confabulations from ACL Publications (CAP): A Dataset for Scientific Hallucination Detection",
+"published": "2025-10-25",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2510.22629v1",
+"title": "Integrating Linguistics and AI: Morphological Analysis and Corpus development of Endangered Toto Language of West Bengal",
+"published": "2025-10-26",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2510.23252v2",
+"title": "Are ASR foundation models generalized enough to capture features of regional dialects for low-resource languages?",
+"published": "2025-10-27",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2510.24096v1",
+"title": "RegSpeech12: A Regional Corpus of Bengali Spontaneous Speech Across Dialects",
+"published": "2025-10-28",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2511.08601v1",
+"title": "Evaluating DisCoCirc in Translation Tasks & its Limitations: A Comparative Study Between Bengali & English",
+"published": "2025-11-02",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.00960v2",
+"title": "The Riddle of Reflection: Evaluating Reasoning and Self-Awareness in Multilingual LLMs using Indian Riddles",
+"published": "2025-11-02",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.01512v1",
+"title": "BanglaNirTox: A Large-scale Parallel Corpus for Explainable AI in Bengali Text Detoxification",
+"published": "2025-11-03",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.08605v3",
+"title": "Mina: A Multilingual LLM-Powered Legal Assistant Agent for Bangladesh for Empowering Access to Justice",
+"published": "2025-11-04",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.03180v2",
+"title": "BengaliMoralBench: A Benchmark for Auditing Moral Reasoning in Large Language Models within Bengali Language and Culture",
+"published": "2025-11-05",
+"doi": "10.1145/3805689.3812230",
+"journal_ref": "ACM FAccT 2026",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.03498v1",
+"title": "BanglaSTEM: A Parallel Corpus for Technical Domain Bangla-English Translation",
+"published": "2025-11-05",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.04560v1",
+"title": "BanglaMedQA and BanglaMMedBench: Evaluating Retrieval-Augmented Generation Strategies for Bangla Biomedical Question Answering",
+"published": "2025-11-06",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.05324v1",
+"title": "Evaluating Subword Tokenization Techniques for Bengali: A Benchmark Study with BengaliBPE",
+"published": "2025-11-07",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.07010v1",
+"title": "A Picture is Worth a Thousand (Correct) Captions: A Vision-Guided Judge-Corrector System for Multimodal Machine Translation",
+"published": "2025-11-10",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.07077v1",
+"title": "EmoBang: Detecting Emotion From Bengali Texts",
+"published": "2025-11-10",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.07304v1",
+"title": "Retriv at BLP-2025 Task 1: A Transformer Ensemble and Multi-Task Learning Approach for Bangla Hate Speech Identification",
+"published": "2025-11-10",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2511.07382v1",
+"title": "Retriv at BLP-2025 Task 2: Test-Driven Feedback-Guided Framework for Bangla-to-Python Code Generation",
+"published": "2025-11-10",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2511.08085v1",
+"title": "BARD10: A New Benchmark Reveals Significance of Bangla Stop-Words in Authorship Attribution",
+"published": "2025-11-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.08507v1",
+"title": "Introducing A Bangla Sentence - Gloss Pair Dataset for Bangla Sign Language Translation and Research",
+"published": "2025-11-11",
+"doi": "10.63317/38qenrwzegr9",
+"journal_ref": "Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026), pp. 10457-10466, ELRA, Palma, Mallorca, Spain, May 2026",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2511.08813v1",
+"title": "BNLI: A Linguistically-Refined Bengali Dataset for Natural Language Inference",
+"published": "2025-11-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.11309v2",
+"title": "destroR: A Benchmark and Adversarial-Training Defense for Bangla Transfer Models under Meaning-Preserving Attacks",
+"published": "2025-11-13",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.10768v1",
+"title": "Faithful Summarization of Consumer Health Queries: A Cross-Lingual Framework with LLMs",
+"published": "2025-11-13",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.13159v1",
+"title": "Distinguishing Repetition Disfluency from Morphological Reduplication in Bangla ASR Transcripts: A Novel Corpus and Benchmarking Analysis",
+"published": "2025-11-17",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2511.15260v1",
+"title": "IndicGEC: Powerful Models, or a Measurement Mirage?",
+"published": "2025-11-19",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2511.16787v1",
+"title": "NALA_MAINZ at BLP-2025 Task 2: A Multi-agent Approach for Bangla Instruction to Python Code Generation",
+"published": "2025-11-20",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2511.18324v1",
+"title": "Gradient Masters at BLP-2025 Task 1: Advancing Low-Resource NLP for Bengali using Ensemble-Based Adversarial Training for Hate Speech Detection",
+"published": "2025-11-23",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2511.18618v2",
+"title": "A Unified BERT-CNN-BiLSTM Framework for Simultaneous Headline Classification and Sentiment Analysis of Bangla News",
+"published": "2025-11-23",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.19317v1",
+"title": "MultiBanAbs: A Comprehensive Multi-Domain Bangla Abstractive Text Summarization Dataset",
+"published": "2025-11-24",
+"doi": "10.1007/978-3-032-33805-1_14",
+"journal_ref": "Proceedings of the Seventh International Conference on Trends in Computational and Cognitive Engineering (TCCE-2025), Lecture Notes in Networks and Systems 2155 (2027), 150-159",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.21761v1",
+"title": "LLMs for Low-Resource Dialect Translation Using Context-Aware Prompting: A Case Study on Sylheti",
+"published": "2025-11-24",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.20120v1",
+"title": "\"When Data is Scarce, Prompt Smarter\"... Approaches to Grammatical Error Correction in Low-Resource Settings",
+"published": "2025-11-25",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2511.20399v2",
+"title": "BengaliFig: A Low-Resource Challenge for Figurative and Culturally Grounded Reasoning in Bengali",
+"published": "2025-11-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2511.20409v2",
+"title": "NormEval: A Unified Multi-Metric Framework for Evaluating Semantic Fidelity in Text Normalization",
+"published": "2025-11-25",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.21381v1",
+"title": "BanglaASTE: A Novel Framework for Aspect-Sentiment-Opinion Extraction in Bangla E-commerce Reviews Using Ensemble Deep Learning",
+"published": "2025-11-26",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.21533v1",
+"title": "Bangla Sign Language Translation: Dataset Creation Challenges, Benchmarking and Prospects",
+"published": "2025-11-26",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2512.23713v1",
+"title": "PyBangla at BLP-2025 Task 2: Enhancing Bangla-to-Python Code Generation with Iterative Self-Correction and Multilingual Agents",
+"published": "2025-11-27",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2511.22769v1",
+"title": "Modeling Romanized Hindi and Bengali: Dataset Creation and Multilingual LLM Integration",
+"published": "2025-11-27",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.23264v1",
+"title": "BanglaSentNet: An Explainable Hybrid Deep Learning Framework for Multi-Aspect Sentiment Analysis with Cross-Domain Transfer Learning",
+"published": "2025-11-28",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2511.23287v1",
+"title": "Transformer-Driven Triple Fusion Framework for Enhanced Multimodal Author Intent Classification in Low-Resource Bangla",
+"published": "2025-11-28",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2512.00745v1",
+"title": "FastPOS: Language-Agnostic Scalable POS Tagging Framework Low-Resource Use Case",
+"published": "2025-11-30",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2512.00829v1",
+"title": "Accelerating Bangla NLP Tasks with Automatic Mixed Precision: Resource-Efficient Training Preserving Model Efficacy",
+"published": "2025-11-30",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2512.02845v1",
+"title": "Bangla Hate Speech Classification with Fine-tuned Transformer Models",
+"published": "2025-12-02",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2512.03943v1",
+"title": "Is Lying Only Sinful in Islam? Exploring Religious Bias in Multilingual Large Language Models Across Major Religions",
+"published": "2025-12-03",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2512.05580v1",
+"title": "Structured Reasoning with Tree-of-Thoughts for Bengali Math Word Problems",
+"published": "2025-12-05",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2512.13487v1",
+"title": "Advancing Bangla Machine Translation Through Informal Datasets",
+"published": "2025-12-15",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2601.06041v1",
+"title": "Lexical and Statistical Analysis of Bangla Newspaper and Literature: A Corpus-Driven Study on Diversity, Readability, and NLP Adaptation",
+"published": "2025-12-15",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2512.14179v1",
+"title": "A Comparative Analysis of Retrieval-Augmented Generation Techniques for Bengali Standard-to-Dialect Machine Translation Using LLMs",
+"published": "2025-12-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2512.15547v1",
+"title": "When a Nation Speaks: Machine Learning and NLP in People's Sentiment Analysis During Bangladesh's 2024 Mass Uprising",
+"published": "2025-12-17",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2512.17769v1",
+"title": "Bangla MedER: Multi-BERT Ensemble Approach for the Recognition of Bangla Medical Entity",
+"published": "2025-12-19",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2512.19122v1",
+"title": "BanglaForge: LLM Collaboration with Self-Refinement for Bangla Code Generation",
+"published": "2025-12-22",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2601.09710v1",
+"title": "Multi-Level Embedding Conformer Framework for Bengali Automatic Speech Recognition",
+"published": "2025-12-23",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2512.20324v1",
+"title": "Can LLMs Solve My Grandma's Riddle? Evaluating Multilingual Large Language Models on Reasoning Traditional Bangla Tricky Riddles",
+"published": "2025-12-23",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2512.21709v1",
+"title": "Detecting AI-Generated Paraphrases in Bengali: A Comparative Study of Zero-Shot and Fine-Tuned Transformers",
+"published": "2025-12-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2512.24772v1",
+"title": "Uncertainty-aware Semi-supervised Ensemble Teacher Framework for Multilingual Depression Detection",
+"published": "2025-12-31",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2601.01778v2",
+"title": "BanglaIPA: Towards Robust Text-to-IPA Transcription with Contextual Rewriting in Bengali",
+"published": "2026-01-05",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2601.02065v1",
+"title": "Cost-Efficient Cross-Lingual Retrieval-Augmented Generation for Low-Resource Languages: A Case Study in Bengali Agricultural Advisory",
+"published": "2026-01-05",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2601.04534v1",
+"title": "BanglaLorica: Design and Evaluation of a Robust Watermarking Algorithm for Large Language Models in Bangla Text Generation",
+"published": "2026-01-08",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2601.05403v2",
+"title": "Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection",
+"published": "2026-01-08",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2601.06306v1",
+"title": "SyntaxMind at BLP-2025 Task 1: Leveraging Attention Fusion of CNN and GRU for Hate Speech Detection",
+"published": "2026-01-09",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2601.06767v3",
+"title": "GanitLLM: Difficulty-Aware Bengali Mathematical Reasoning through Curriculum-GRPO",
+"published": "2026-01-11",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2601.06853v3",
+"title": "DAGGER: Distractor-Aware Graph Generation for Executable Reasoning in Math Problems",
+"published": "2026-01-11",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2601.12068v1",
+"title": "Bridging the Gap in Bangla Healthcare: Machine Learning Based Disease Prediction Using a Symptoms-Disease Dataset",
+"published": "2026-01-17",
+"doi": "10.1109/ECCE64574.2025.11012950",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2601.12132v1",
+"title": "Bengali Text Classification: An Evaluation of Large Language Model Approaches",
+"published": "2026-01-17",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2602.11172v1",
+"title": "Synthesizing the Virtual Advocate: A Multi-Persona Speech Generation Framework for Diverse Linguistic Jurisdictions in Indic Languages",
+"published": "2026-01-19",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2601.14063v2",
+"title": "XCR-Bench: Benchmarking Cross-Cultural Reasoning in LLMs via Culture-Specific Items and Hall's Triad",
+"published": "2026-01-20",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2601.16766v1",
+"title": "Do LLM hallucination detectors suffer from low-resource effect?",
+"published": "2026-01-23",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2601.17679v1",
+"title": "BanglaRobustNet: A Hybrid Denoising-Attention Architecture for Robust Bangla Speech Recognition",
+"published": "2026-01-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2601.17764v1",
+"title": "Cross-Lingual Probing and Community-Grounded Analysis of Gender Bias in Low-Resource Bengali",
+"published": "2026-01-25",
+"doi": "10.1109/ICON-SONICS67145.2025.11309238",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2602.15869v1",
+"title": "Towards Fair and Efficient De-identification: Quantifying the Efficiency and Generalizability of De-identification Approaches",
+"published": "2026-01-27",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2601.20129v1",
+"title": "BengaliSent140: A Large-Scale Bengali Binary Sentiment Dataset for Hate and Non-Hate Speech Classification",
+"published": "2026-01-27",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2601.21796v1",
+"title": "KID: Knowledge-Injected Dual-Head Learning for Knowledge-Grounded Harmful Meme Detection",
+"published": "2026-01-29",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2602.01451v1",
+"title": "Understanding QA generation: Extracting Parametric and Contextual Knowledge with CQA for Low Resource Bangla Language",
+"published": "2026-02-01",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2602.05599v1",
+"title": "BhashaSetu: Cross-Lingual Knowledge Transfer from High-Resource to Extreme Low-Resource Languages",
+"published": "2026-02-05",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2602.08698v2",
+"title": "Challenges in Translating Technical Lectures: Insights from the NPTEL",
+"published": "2026-02-09",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2602.12921v1",
+"title": "When Words Don't Mean What They Say: Figurative Understanding in Bengali Idioms",
+"published": "2026-02-13",
+"doi": "10.63317/546w2cys6m6t",
+"journal_ref": "Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026), pages 6870-6879",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2602.14488v3",
+"title": "BETA-Labeling for Multilingual Dataset Construction in Low-Resource IR",
+"published": "2026-02-16",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2602.16241v3",
+"title": "Are LLMs Ready to Replace Bangla Annotators?",
+"published": "2026-02-18",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2602.16843v1",
+"title": "BanglaSummEval: Reference-Free Factual Consistency Evaluation for Bangla Summarization",
+"published": "2026-02-18",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2602.17469v2",
+"title": "Cross-Lingual Sentiment Misalignment: Auditing Multilingual Language Models for Inversion Risk, Dialectal Representation, and Affective Stability",
+"published": "2026-02-19",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2602.19212v1",
+"title": "Retrieval Augmented Enhanced Dual Co-Attention Framework for Target Aware Multimodal Bengali Hateful Meme Detection",
+"published": "2026-02-22",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2602.21608v2",
+"title": "MixSarc: A Bangla-English Code-Mixed Corpus for Implicit Meaning Identification",
+"published": "2026-02-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2602.21741v1",
+"title": "Robust Long-Form Bangla Speech Processing: Automatic Speech Recognition and Speaker Diarization",
+"published": "2026-02-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2603.19256v1",
+"title": "ShobdoSetu: A Data-Centric Framework for Bengali Long-Form Speech Recognition and Speaker Diarization",
+"published": "2026-02-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2602.22391v2",
+"title": "Detecting Hate and Inflammatory Content in Bengali Memes: A New Multimodal Dataset and Co-Attention Framework",
+"published": "2026-02-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2602.22449v1",
+"title": "A Fusion of context-aware based BanglaBERT and Two-Layer Stacked LSTM Framework for Multi-Label Cyberbullying Detection",
+"published": "2026-02-25",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2602.23070v1",
+"title": "Make It Hard to Hear, Easy to Learn: Long-Form Bengali ASR and Speaker Diarization via Extreme Augmentation and Perfect Alignment",
+"published": "2026-02-26",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2603.05272v2",
+"title": "Oral to Web: Digitizing 'Zero Resource'Languages of Bangladesh",
+"published": "2026-03-05",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2603.05462v1",
+"title": "NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance",
+"published": "2026-03-05",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2603.15949v3",
+"title": "BanglaSocialBench: A Benchmark for Evaluating Sociopragmatic and Cultural Alignment of LLMs in Bangladeshi Social Interaction",
+"published": "2026-03-16",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2604.13057v1",
+"title": "A Multi-Model Approach to English-Bangla Sentiment Classification of Government Mobile Banking App Reviews",
+"published": "2026-03-17",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2603.21165v3",
+"title": "Many Dialects, Many Languages, One Cultural Lens: Evaluating Multilingual VLMs for Bengali Culture Understanding Across Historically Linked Languages and Regional Dialects",
+"published": "2026-03-22",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2603.21359v2",
+"title": "Benchmarking Bengali Dialectal Bias: A Multi-Stage Framework Integrating RAG-Based Translation and Human-Augmented RLAIF",
+"published": "2026-03-22",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2603.26742v1",
+"title": "Do Multilingual VLMs Reason Equally? A Cross-Lingual Visual Reasoning Audit for Indian Languages",
+"published": "2026-03-23",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2603.24132v1",
+"title": "MedAidDialog: A Multilingual Multi-Turn Medical Dialogue Dataset for Accessible Healthcare",
+"published": "2026-03-25",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2604.03192v1",
+"title": "Reliability Gated Multi-Teacher Distillation for Low Resource Abstractive Summarization",
+"published": "2026-04-03",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2604.04708v1",
+"title": "BiST: A Gold Standard Bangla-English Bilingual Corpus for Sentence Structure and Tense Classification with Inter-Annotator Agreement",
+"published": "2026-04-06",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2604.10787v1",
+"title": "When Meaning Isn't Literal: Exploring Idiomatic Meaning Across Languages and Modalities",
+"published": "2026-04-12",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2604.12633v1",
+"title": "Multilingual Multi-Label Emotion Classification at Scale with Synthetic Data",
+"published": "2026-04-14",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2604.16665v2",
+"title": "CBRS: Cognitive Blood Request System with Bilingual Dataset and Dual-Layer Filtering for Multi-Platform Social Streams",
+"published": "2026-04-17",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2604.19508v1",
+"title": "Bangla Key2Text: Text Generation from Keywords for a Low Resource Language",
+"published": "2026-04-21",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2605.01292v1",
+"title": "Addressing Data Scarcity in Bangla Fake News Detection: An LLM-Based Dataset Augmentation Approach",
+"published": "2026-05-02",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2605.06940v1",
+"title": "MultiSoc-4D: A Benchmark for Diagnosing Instruction-Induced Label Collapse in Closed-Set LLM Annotation of Bengali Social Media",
+"published": "2026-05-07",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2605.07269v1",
+"title": "MIPIAD: Multilingual Indirect Prompt Injection Attack Defense with Qwen -- TF-IDF Hybrid and Meta-Ensemble Learning",
+"published": "2026-05-08",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2605.11993v1",
+"title": "Towards Visually-Guided Movie Subtitle Translation for Indic Languages",
+"published": "2026-05-12",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2605.12242v1",
+"title": "Mind the Pause: Disfluency-Aware Objective Tuning for Multilingual Speech Correction with LLMs",
+"published": "2026-05-12",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2605.13292v1",
+"title": "IndicMedDialog: A Parallel Multi-Turn Medical Dialogue Dataset for Accessible Healthcare in Indic Languages",
+"published": "2026-05-13",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2605.13330v1",
+"title": "FIND: Toward Multimodal Financial Reasoning and Question Answering for Indic Languages",
+"published": "2026-05-13",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2605.17481v1",
+"title": "Hybrid Feature Combinations with CNN for Bangla Fake News Classification",
+"published": "2026-05-17",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2605.18111v1",
+"title": "How Good LLMs Are at Answering Bangla Medical Visual Questions? Dataset and Benchmarking",
+"published": "2026-05-18",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2605.22487v2",
+"title": "Polite on the Surface, Broken in Practice: A Curated Dataset for Fixing Generation and Register Failures in Low-Resource Bangla Text Generation",
+"published": "2026-05-21",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2605.24919v1",
+"title": "MultiHaluDet: Multilingual Hallucination Detection via LLM Hidden State Probing",
+"published": "2026-05-24",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2605.25463v1",
+"title": "A Lightweight Hybrid Transformer-CRF Architecture for Multi-Type Bangla Medical Entity Recognition",
+"published": "2026-05-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2605.26575v1",
+"title": "Hubness, Not Anisotropy, Drives Cross-Lingual Retrieval Asymmetry in Multilingual Embedding Models",
+"published": "2026-05-26",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2606.00116v1",
+"title": "Enhancing BiGRU with a KAN Block for Legal Document Classification and Summarization",
+"published": "2026-05-27",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2605.30481v1",
+"title": "When English Rewrites Local Knowledge: Global Narrative Dominance in Large Language Models",
+"published": "2026-05-28",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2605.31483v4",
+"title": "BenHalluEval: A Multi-Task Hallucination Evaluation Framework for Large Language Models on Bengali",
+"published": "2026-05-29",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2606.01671v1",
+"title": "When Meaning Travels: A Granular Lens on Hybrid-MoE's Role in Idiomatic Understanding for Language Models",
+"published": "2026-06-01",
+"doi": "10.18653/v1/2026.findings-acl.1661",
+"journal_ref": "Findings of the Association for Computational Linguistics: ACL 2026",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2606.03331v1",
+"title": "Evaluating LLMs' Effectiveness on Real-World Consumer Device Repair Questions",
+"published": "2026-06-02",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2606.10061v1",
+"title": "BenSyc: Benchmarking Conversational Sycophancy and Human Alignment in LLMs for Bengali Contexts",
+"published": "2026-06-08",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2606.11009v2",
+"title": "Who Brought Easter Eggs to Eid? Auditing LLM-Generated Cultural Translation of Math Word Problems Across Languages and Regions",
+"published": "2026-06-09",
+"doi": "10.1609/aies.v9i4.43321",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2606.11931v1",
+"title": "Semantic Grading of Written Answers in Low-Resource Language Bangla Using a Fine-Tuned Lightweight Language Model",
+"published": "2026-06-10",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.20346v1",
+"title": "Building and Evaluating a Synthetic Bengali Speech Resource for Telecom Customer Care",
+"published": "2026-06-14",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2606.16383v1",
+"title": "Surpassing Scale by Efficiency: A Compact 135M Parameter Foundational LLM Natively Adapted for the Bangla Language",
+"published": "2026-06-15",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2606.19640v1",
+"title": "Creating Multilingual Mental Health Dialogue Datasets: Limits of Persona-Based Localization via Nationality and Language",
+"published": "2026-06-17",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2606.21895v1",
+"title": "Olfactory-Inspired Sparse Combinatorial Coding for Low-Resource Named Entity Recognition",
+"published": "2026-06-20",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.26123v2",
+"title": "Which India Survives Translation? Narrative Homogenisation Across Indian Oral Traditions in LLMs",
+"published": "2026-06-21",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2606.26803v1",
+"title": "From Vajrayana Tara to Bengali Baul: A Computational Study of Lexical Transmission Across Buddhist, Shakta, and Vaishnava Traditions in Bengal",
+"published": "2026-06-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2606.30914v1",
+"title": "Beyond Clean Text: Evaluating Encoder and Decoder Robustness for Bangla Event Detection in Noisy Text",
+"published": "2026-06-29",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2607.02734v1",
+"title": "Echoes of Unrest: A Multimodal NLP Framework for Early Warning of Fake News and Violence-Driven Mob Activity",
+"published": "2026-07-02",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2607.03981v1",
+"title": "BanglaMemeEvidence: A Multimodal Benchmark Dataset for Explanatory Evidence Detection in Bengali Memes",
+"published": "2026-07-04",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2607.04010v1",
+"title": "Explainable AI for Screening Abuse-Related Trauma in Bangladeshi Children: A Training-Free Multimodal Framework Evaluated on Noise-Aware Synthetic Data",
+"published": "2026-07-04",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2607.05614v1",
+"title": "BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension",
+"published": "2026-07-06",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2607.09598v2",
+"title": "Tokenizer Transplantation: Mitigating Autoregressive Collapse in Edge-Efficient Bengali ASR",
+"published": "2026-07-10",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2607.11597v1",
+"title": "Beyond Benchmarks: Exposing the Hidden Crisis in Bangla Hate Speech Detection",
+"published": "2026-07-13",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2607.12336v1",
+"title": "Evaluating Health Misinformation in Low-Resource Languages: Integrating Small Language Models with a Culturally-Sensitive Responsible NLP Framework (Bangla as a Case Study)",
+"published": "2026-07-14",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2607.13248v1",
+"title": "GSM-Plus-BN: A Perturbation-Based Benchmark for Bangla Mathematical Reasoning in Large Language Models",
+"published": "2026-07-14",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2607.17111v1",
+"title": "BLAD: A Historically Contextualized, Multilingual Dataset of Bangladeshi Legal Acts (1799 to 2025)",
+"published": "2026-07-19",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2607.17828v1",
+"title": "When a Name Is Not a Name: A Benchmark Dataset and Distilled Reasoning for Culturally Entangled Bangla Homographs in Low-Resource LLMs",
+"published": "2026-07-20",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2607.19956v1",
+"title": "When Does Knowledge Distillation Hurt? Reliability-Aware Distillation for Low-Resource Language Summarization",
+"published": "2026-07-22",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2607.21780v1",
+"title": "Khondo: A Multimodal Benchmark for Document Packet Splitting of Bangla Forms",
+"published": "2026-07-23",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2607.22859v1",
+"title": "PatiGonit22K: A Comprehensive Dataset for Solving Complex Bengali MWPs",
+"published": "2026-07-24",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2607.23446v1",
+"title": "Do Small Models Use the Law You Give Them? Context-Injected Fine-Tuning for Legal QA in Bangladesh",
+"published": "2026-07-26",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.18131v1",
+"title": "Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs",
+"published": "2026-07-26",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.25008v1",
+"title": "Training a Language Model End-to-End in Rust: An Experience Report",
+"published": "2026-07-27",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.20303v1",
+"title": "Viveka-Insight: a cross-lingual concept graph and citation-grounded retrieval resource over the complete works of Swami Vivekananda in English and Bengali",
+"published": "2026-07-30",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2608.01471v1",
+"title": "Two-Stage Bengali Sentiment Classification: Domain Adaptation Through Continual Learning and Parameter-Efficient Fine-Tuning",
+"published": "2026-08-02",
+"doi": "10.1109/iSAI-NLP66160.2025.11320544",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.02941v1",
+"title": "Aligned in Form, Not in Meaning: The Comprehension - Containment Decoupling of LLM Safety in Low-Resource Bangla Derogatory Speech",
+"published": "2026-08-03",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2608.03884v1",
+"title": "BanglaWild: An In-the-Wild Bengali Scene Text Recognition Benchmark for OCR and Vision-Language Models",
+"published": "2026-08-04",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2608.07862v1",
+"title": "SurakshaEval: An Indic Safety Benchmark for Multilingual LLMs",
+"published": "2026-08-08",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.08503v1",
+"title": "MathShikkha: A Controlled Study of Answer-Only and Chain-of-Thought Supervision for Bangla Mathematical Reasoning in Small Language Models",
+"published": "2026-08-09",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.09046v1",
+"title": "Measuring the Tokenization Premium: A Cost Audit for Underserved Language Communities",
+"published": "2026-08-10",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.12018v2",
+"title": "Unified Multi-Dialectal Neural Machine Translation for Bangla Using the Dwadash Benchmark Corpus",
+"published": "2026-08-12",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.12278v1",
+"title": "Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages",
+"published": "2026-08-12",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2608.13004v1",
+"title": "HybridRAG-BN: A Retrieval-Augmented Framework with Fine-Tuned Verification for Bangla KBQA",
+"published": "2026-08-13",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2608.14886v1",
+"title": "Where Does Retrieval Fail? Evaluating RAG Architectures for Agricultural Advisory",
+"published": "2026-08-14",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2608.15223v1",
+"title": "TRACE-BN: Transferring Bangla-English Tutoring Behavior to a Sub-1B Offline Language Model",
+"published": "2026-08-15",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.15547v1",
+"title": "BengaliMCQ: Automatic Generation and Answer Prediction of Academic Multiple-Choice Questions in a Low-Resource Language",
+"published": "2026-08-16",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.15879v1",
+"title": "When Less Is Enough: Context Selection and Prompting Strategies for Bengali News Headline Generation",
+"published": "2026-08-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.16577v1",
+"title": "BabelSteering: Multilingual Safety Alignment via English Steering Vectors",
+"published": "2026-08-17",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2609.27814v1",
+"title": "LabourCrew: A Multi-Agent RAG Framework for Trustworthy Adversarial Deliberation and Statutory Reasoning over Labour Law",
+"published": "2026-08-18",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2608.21880v1",
+"title": "BanglaVeilGuard: Cross-Script Safety Benchmarking and Lightweight Guardrails for Bangla Large Language Models",
+"published": "2026-08-22",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.22335v1",
+"title": "Register Shifts Break LLM Safety: A Bengali Benchmark with Culturally Grounded Harms",
+"published": "2026-08-23",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.24615v1",
+"title": "Quantization Effects on Bangla Language Understanding in Large Language Models: A Systematic Evaluation",
+"published": "2026-08-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.25190v1",
+"title": "BanglaMamba: Exploring State Space Models for Bangla Fake News Detection",
+"published": "2026-08-25",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.27110v1",
+"title": "DocTalkBN: A Novel Dataset of Expert Telemedicine Conversations in Bengali",
+"published": "2026-08-27",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2608.28329v1",
+"title": "BanglaMed-QA: A Question Answering System for Healthcare Support in Bangla",
+"published": "2026-08-28",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.01772v1",
+"title": "MemeCULT-1K: Benchmarking South Asian Cultural Context and Humor Understanding of Multimodal Models",
+"published": "2026-09-01",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2609.03410v1",
+"title": "To What Extent Do Large Language Models Understand Bangla Idioms?",
+"published": "2026-09-03",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.03597v1",
+"title": "KhatianDoc: A Human-Verified Benchmark Diagnosing Multimodal LLM Failure on Bengali Legal Land Records",
+"published": "2026-09-03",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.03781v2",
+"title": "IndicSafeEval: Safety Robustness of Large Language Models under Multilingual Persuasive Jailbreak Attacks",
+"published": "2026-09-03",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.03985v1",
+"title": "IchthyoNoma: Nomenclature and Context Sensitivity of Zero-Shot Biological Vision--Language Models for Bangladeshi Freshwater Fish Recognition",
+"published": "2026-09-03",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.04842v1",
+"title": "MMTClinic: Multimodal, Multilingual Time Series Question Answering and Reasoning Benchmark for Clinical Domain",
+"published": "2026-09-04",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.08029v1",
+"title": "BanglaMemeX: Advancing Cultural Metaphoric Image Interpretation in Bangla with a Multimodal Explainable Dataset",
+"published": "2026-09-07",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2609.08934v1",
+"title": "When Models Defer to Wrong Answers: A Robustness Audit of Source-Attributed Cues in Multiple-Choice QA",
+"published": "2026-09-08",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.09964v1",
+"title": "5-Dialects-BN: Unmasking the Impact of Transliteration on Bangla Dialectal LLMs",
+"published": "2026-09-09",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.11851v1",
+"title": "IndicTriMix: Developing Language Identification Datasets and Models for Tri-Language Code-Mixing",
+"published": "2026-09-10",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.13869v1",
+"title": "Bangla Sentence Function Classification: Corpus Development, Model Benchmarking, and Interpretability",
+"published": "2026-09-12",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.16997v1",
+"title": "Can LLMs Follow the Pulse of a Crisis? Evaluating Crisis Sentiment in Bangladesh's July Uprising",
+"published": "2026-09-15",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.19398v1",
+"title": "A Cross-Lingual Acoustic Disease-Alignment Framework for Respiratory Health Assessment from Spontaneous Speech",
+"published": "2026-09-16",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2609.19885v1",
+"title": "Evaluating Communicative Success in Machine-Translated Conversation",
+"published": "2026-09-17",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.22536v1",
+"title": "Cross-Dialect NER for Bangla Regional Dialects Using Leave-One-Dialect-Out Cross-Validation and Explainable AI",
+"published": "2026-09-18",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.24177v1",
+"title": "Efficient LLM Distillation for Bangladesh Legal Context: A Smartphone-Compatible Retrieval-Augmented Generation Model",
+"published": "2026-09-21",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2609.24275v1",
+"title": "Structure Before Sampling: Community-Aware Core-Set Selection for Data-Efficient Text-to-Speech",
+"published": "2026-09-21",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2609.29146v1",
+"title": "BanglaKontho: Closing the Long-Form Gap in Bangla Text-to-Speech",
+"published": "2026-09-24",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2609.29371v1",
+"title": "BanglaTurn: A Benchmark and Whisper-Based Model for End-of-Turn Detection in Bangla Speech",
+"published": "2026-09-24",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2609.29445v1",
+"title": "Two Emojis of Difference: What Multilingual Affective Generation Benchmarks Actually Measure",
+"published": "2026-09-24",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2609.34138v1",
+"title": "Word Similarity Datasets for Indian Languages: Annotation and Baseline Systems",
+"published": "2026-09-28",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.00664v1",
+"title": "PhysicsMate: A Curriculum-Grounded Bengali Benchmark for Secondary Physics QA with Small-Model Adaptation",
+"published": "2026-09-30",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.01150v1",
+"title": "BanglaDial-Abuse: A Corpus-Grounded Dataset for Regional Dialect Identification in Abusive Bangla Text",
+"published": "2026-10-01",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.04401v1",
+"title": "Ideological Stance Detection in a Low-Resource Language: Polarization in Bangladeshi Public vs Private University Discourse on Social Media",
+"published": "2026-10-03",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.09464v1",
+"title": "BanglaRhet: Benchmarking Classical and Transformer Models for Rhetorical and Persuasion Detection in Bangla Political Speech",
+"published": "2026-10-07",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2610.33017v1",
+"title": "AdaptTok-Indic: Script-Aware Adaptive Tokenization for Indic Languages",
+"published": "2026-10-08",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.13121v1",
+"title": "BenCoDiC: A Large-Scale Contextual Cyberbullying Corpus for Bengali Political News Discourse FULL VERSION",
+"published": "2026-10-09",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.14769v1",
+"title": "Who Receives Respect? A Counterfactual Benchmark for Honorific Allocation Bias in Bengali",
+"published": "2026-10-10",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.18060v1",
+"title": "A Benchmark for Bangla Task-Oriented Dialogue Understanding",
+"published": "2026-10-13",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.19003v1",
+"title": "Evaluating Large Language Models for Multilingual Abstractive Summarization: A Comprehensive Study of English and Bengali",
+"published": "2026-10-13",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.19704v1",
+"title": "BANGLAPLAN: A Benchmark for Constraint-Based Planning and Decision-Making in Bangla",
+"published": "2026-10-14",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.21164v1",
+"title": "Automatic Sentence Completion Using Bengali Audio Speech with a Transformer-Based Early Speech Recognition System",
+"published": "2026-10-15",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2610.22526v1",
+"title": "Literal Lock-In: How Test Language Shifts Literal Attraction in Typed Decision Models on Bengali Idioms",
+"published": "2026-10-15",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.22892v1",
+"title": "Bengali Hallucination Detection with Retrieval and Programs: A System Study",
+"published": "2026-10-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.24288v1",
+"title": "BanglaShield: A Script-Robust Safety Classifier and Benchmark for Bangla Native, Romanized, and Code-Mixed Prompts",
+"published": "2026-10-16",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.24474v1",
+"title": "Ben-Misandry: A Bengali Dataset and Late-Fusion Transformer Framework for Detecting Anti-Male Gender Hate",
+"published": "2026-10-17",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.24764v2",
+"title": "BanglaBBQ: A Bias Benchmark for Question Answering in the Bangladeshi Context",
+"published": "2026-10-17",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.27205v2",
+"title": "LoWAgent: A Low-Resource Multilingual Benchmark for Web Agents",
+"published": "2026-10-19",
+"doi": "",
+"journal_ref": "",
+"in_title": false,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.30885v1",
+"title": "From Perpetrators' Digital Footprints to Behavioral Communities: An Ontology-Driven Framework for Bengali Cyberbullying Analysis--- FULL VERSION",
+"published": "2026-10-22",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": true
+},
+{
+"id": "http://arxiv.org/abs/2610.32817v1",
+"title": "KrishokTech: A Bengali Agricultural Advisory System with Explicit Authorization Controls",
+"published": "2026-10-23",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2610.35114v1",
+"title": "Quality over Quantity: Rethinking Data and Model Assumptions for Bengali Coreference Resolution",
+"published": "2026-10-26",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+},
+{
+"id": "http://arxiv.org/abs/2610.36184v1",
+"title": "Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It",
+"published": "2026-10-26",
+"doi": "",
+"journal_ref": "",
+"in_title": true,
+"eligible_text_nlp": false
+}
+]
+}
